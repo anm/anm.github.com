@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html manifest="cache.manifest">
+<head>
+<title>Game of Life</title>
+
+<!-- Fullscreen when run from icon -->
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="apple-touch-icon" href="glider-icon.png" />
+
+<!-- Scale done on double tap -->
+<meta name="viewport" content="initial-scale=1, user-scalable=no, width=device-width" />
+
+<!-- Do not parse for and highlight phone numbers -->
+<meta name="format-detection" content="telephone=no" />
+
+<!-- Utils -->
+<script src="js/log4javascript.js"></script>
+
+<!-- JQuery and JQuery UI -->
+<link type="text/css"
+href="css/ui-darkness/jquery-ui-1.8.6.custom.css" rel="stylesheet" />
+
+<script src="js/jquery.js"></script>
+<script src="js/jquery.ui.js"></script>
+<script src="js/jquery.ui.ipad.js"></script>
+
+<!-- Colour Picker -->
+<link type="text/css" href="css/farbtastic.css" rel="stylesheet" />
+<script src="js/farbtastic.js"></script>
+
+<!-- Life -->
+<link type="text/css"
+href="css/life.css" rel="stylesheet" />
+</head>
+
+<body>
+<div id="controls">
+  <div id="buttons">
+    <input type="button" id="tick" value="Step" />
+    <input type="button" id="start" value="Start" />
+    <input type="button" id="stop" value="Stop" />
+    <input type="button" id="reset" value="Reset" />
+    <input type="button" id="show-settings" value="Settings" />
+  </div>
+  <div id="speed"><span id="speed-label">Speed:</span> <div id="speed-slider"></div></div>
+</div>
+
+<div id="status-display">
+  <span id="speed-display">Update Interval: <span id="speed-val"></span></span>
+  <span id="generation-display">Generation: <span id="generation"></span></span>
+  <span id="status">Stopped</span>
+</div>
+
+<div id="grid-div"></div>
+
+<div id="panels" title="Settings">
+  <h3><a href="#">Colour</a></h3>
+  <div id="colour-panel">
+    How many generations do you want to colour? <span class="small">(slide to change)</span>
+    <div id="no-of-colours-slider"></div>
+    <div id="colour-pickers">
+      <table>
+      </table>
+    </div>
+    <div id="colour-picker"></div>
+    <div id="swatch-tip">Click swatch to change colour</div>
+  </div>
+
+  <h3><a href="#">Grid</a></h3>
+  <div>
+    <div class="config-section">
+      <h4>Grid Size</h4>
+      Height: <span id="height-display"></span>
+      <div id="height-slider"></div>
+
+      Width: <span id="width-display"></span>
+      <div id="width-slider"></div>
+    </div>
+
+    <div class="config-section">
+      <h4>Cell Size</h4>
+      <div id="cellSize-slider"></div>
+    </div>
+
+    <div class="config-section">
+      <label for="wraparound-p">Wrap edges?: </label>
+      <input type="checkbox" id="wraparound-p" />
+    </div>
+  </div>
+
+  <h3><a href="#">Rules</a></h3>
+  <div>
+    Conway's rules are in effect.
+
+    <ul>
+    <li>A cell is born if it has three neighbours.</li>
+    <li>It stays alive if it has 2 or 3 neighbours.</li>
+    <li>It dies otherwise.</li>
+    </ul>
+  </div>
+
+  <h3><a href="#">About</a></h3>
+  <div>
+    <p>
+    This is an implementation of
+    <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Conway%27s_Game_of_Life">
+      Conway's Game of Life</a></p>
+    <p>&copy; 2011 <a href="http://mm0hai.net">Alistair
+    MacLeod</a></p> <p>Licenced under the <a href="gpl-3.0.txt">GPL</a>.
+    Uses libraries by other authors with other licences - see
+    individual files for details.</p>
+    <p>I've written about the <a href="about.txt">features and
+    implementation.</a></p>
+  </div>
+</div>
+
+<script src="js/life.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20771949-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</html>
