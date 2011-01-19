@@ -1,11 +1,50 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <title>
 ANM's Homepage
 </title>
 </head>
 <body>
-I'm starting to put <a href="http://github.com/anm"> stuff</a> on github.
+<p>This is the homepage of Alistair MacLeod (anm), and his amateur
+radio station, MM0HAI.</p>
+<p>There is very little here I'm afraid.</p>
+<p>You could have a look at my javascript implementation
+of <a href="life/life.html">Conway's Game of Life</a>.</p>
+
+<p>I'm starting to put <a href="http://github.com/anm"> stuff</a> on github.</p>
+
+<script>
+function toggle () {
+if (document.getElementById("tickybox").checked) {
+document.getElementById("ticky_text").innerHTML="Yay! Tickybox";
+} else {
+document.getElementById("ticky_text").innerHTML=":-(";
+}
+}
+</script>
+<p>Would you care for a tickybox?
+<input id="tickybox" type="checkbox" onclick="toggle()" />
+<span id="ticky_text"></span>
+</p>
+
+<hr />
+<address>
+<p>email: web @ this domain</p>
+<p>Twitter: <a href="http://twitter.com/macleodan">@macleodan</a></p>
+</address>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20771949-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 </body>
 </html>
