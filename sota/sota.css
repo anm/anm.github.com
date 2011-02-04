@@ -13,6 +13,10 @@ p {
     margin-bottom: .75em;
 }
 
+.centre {
+    text-align: center;
+}
+
 img {
     display: block;
     margin-left: auto;
@@ -29,4 +33,9 @@ h1,h2,h3,h4,h5,h6 {
 
 h2 {
     font-size: large;
+}
+
+footer {
+    display: block;
+    margin-top: 1em;
 }
