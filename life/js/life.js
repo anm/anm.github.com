@@ -47,7 +47,7 @@ var life = function () {
 
     function haveLocalStorage() {
         try {
-            return 'localStorage' in window && window['localStorage'] !== null;
+            return !!window.localStorage;
         } catch (e) {
             return false;
         }
@@ -381,8 +381,19 @@ var life = function () {
             /**** Colours ****/
 
             function set_generation_css_colour (generation, colour) {
-                $('#g' + generation).html('.g' + generation
-                                          + ' {background-color: ' + colour + '}');
+                var style = $('#g' + generation).get(0);
+
+                // IE nonsense
+                if (style.styleSheet) {
+                    // IE version
+                    style.styleSheet.cssText = '.g' + generation
+                        + ' {background-color: ' + colour + '}';
+                } else {
+                    // Normal version
+                    $('#g' + generation)
+                        .html('.g' + generation
+                              + ' {background-color: ' + colour + '}');
+                }
             }
 
             function bind_selector_to_generation(generation) {
@@ -539,7 +550,7 @@ var life = function () {
 
         this.setCellSize = function (px) {
             this.cellSize = px;
-            $('#1').get(0).setAttribute("cellpadding", this.cellSize / 2 + "px");
+            $('#grid').get(0).setAttribute("cellpadding", this.cellSize / 2 + "px");
         };
 
         this.updateColours = function () {
