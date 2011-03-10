@@ -1,3 +1,6 @@
+---
+---
+
 <!DOCTYPE html>
 <html lang="en-gb">
 <head>
@@ -11,8 +14,9 @@
 
 <link rel="openid.server" href="http://draft.blogger.com/openid-server.g" />
 <link rel="openid.delegate" href="http://mm0hai.blogspot.com" />
+<link href="atom.xml" type="application/atom+xml" rel="alternate" title="ANM's Blog" />
 <title>
-ANM's Homepage
+ANM, Alistair MacLeod
 </title>
 
 <style>
@@ -49,6 +53,16 @@ document.getElementById("ticky_text").innerHTML=":-(";
 <input id="tickybox" type="checkbox" onclick="toggle()" />
 <span id="ticky_text"></span>
 </p>
+
+<hr />
+<h1>Bloviations</h1>
+<div id="blog">
+    <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span>
+       &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
 
 <hr />
 <address>
