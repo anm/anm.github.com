@@ -2,17 +2,56 @@
 layout: default
 ---
 
-{{ content }}
+<div id="title">
+  <h1>{{ page.title }}</h1>
+  <span class="byline">Alistair MacLeod, {{ page.date | date_to_string}}</span>
+</div>
 
+<div id="content">
+{{ content }}
+</div>
+
+
+Share:
+<!-- AddThis Button BEGIN -->
+<div id="share"
+class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript">
+  var addthis_config = {
+      "data_track_clickback":true,
+      "services_exclude":"print"
+  };
+</script>
+<script type="text/javascript"
+src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=mm0hai"></script>
+<!-- AddThis Button END -->
+
+<p><a href="https://twitter.com/macleodan">Follow me on twitter</a></p>
+<hr />
+
+<div id="related">
+<h2>More <abbr title="Bloviations">Blovs</abbr></h2>
 <ul>
     {% for post in site.related_posts %}
       <li><span>{{ post.date | date_to_string }}</span>
       &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+</div>
 
-<div id="disqus_thread"></div>
-<script type="text/javascript">
+<hr />
+<p>Please send comments and corrections to mm0hai @ this domain or use
+the commenting system below.</p>
+
+<div id="disqus">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
     // var disqus_developer = 1;
     var disqus_shortname = 'mm0hai';
     var disqus_identifier = '{{ page.id }}';
@@ -22,7 +61,9 @@ layout: default
         dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
-</script>
+  </script>
+</div>
+
 <noscript>Please enable JavaScript to view
 the <a href="http://disqus.com/?ref_noscript">comments powered by
 Disqus.</a></noscript>
