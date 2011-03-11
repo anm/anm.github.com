@@ -11,3 +11,7 @@ th, td {
     padding: 0.2em;
     text-align: left;
 }
+
+code.block, pre.block {
+    margin-left: 2em;
+}
