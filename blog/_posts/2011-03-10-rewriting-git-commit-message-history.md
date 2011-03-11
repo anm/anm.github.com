@@ -61,6 +61,6 @@ rm -rf .git/logs/
 Now garbage collect:
 <pre class="block">
 <code class="block">
-git gc prune=now
+git gc --prune=now
 </code>
 </pre>
