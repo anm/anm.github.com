@@ -26,6 +26,11 @@ ANM, Alistair MacLeod
   h1 a {text-decoration: none; color: inherit}
 </style>
 
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20771949-1']);
+  _gaq.push(['_trackPageview']);
+</script>
 </head>
 <body>
 
@@ -55,6 +60,7 @@ document.getElementById("ticky_text").innerHTML="Yay! Tickybox";
 } else {
 document.getElementById("ticky_text").innerHTML=":-(";
 }
+_gaq.push(['_trackEvent', 'Tickybox', 'toggle', 'tickybox']);
 }
 </script>
 <p>Would you care for a tickybox?
@@ -63,7 +69,7 @@ document.getElementById("ticky_text").innerHTML=":-(";
 </p>
 
 
-<h1>Bloviations</h1>
+<h1>Bloviations from the Phrontistery</h1>
 <div id="blog">
     <ul class="posts">
     {% for post in site.posts %}
@@ -80,18 +86,14 @@ Twitter: <a href="http://twitter.com/macleodan">@macleodan</a>
 </p>
 </address>
 
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20771949-1']);
-  _gaq.push(['_trackPageview']);
+&copy; 2011 Alistair N. MacLeod
 
+<script type="text/javascript">
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
-&copy; 2011 Alistair N. MacLeod
 </body>
 </html>
