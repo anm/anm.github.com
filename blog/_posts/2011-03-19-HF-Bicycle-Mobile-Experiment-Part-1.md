@@ -41,7 +41,7 @@ the capacitor in series with the frame.
 I tied a SLAB to the carrier and put the FT-817 in the bar bag and set
 off for a maiden voyage. The SWR remained constant despite shaking,
 moving of antenna and presumably different ground, although I did only
-go around the block. I could here several American stations and one in
+go around the block. I could hear several American stations and one in
 Africa but my CQs were not answered. Eventually though, some
 unexpected success! I replied to N8RA in Connecticut and received a
 (contest) 59. He had no trouble copying my callsign first time so it
