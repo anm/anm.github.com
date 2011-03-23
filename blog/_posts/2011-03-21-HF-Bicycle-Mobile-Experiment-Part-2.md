@@ -70,7 +70,7 @@ and mast in the foreground, lighthouse beyond that and stars behind -
 but my camera phone was not up to the job. I was not, on this
 occasion, questioned by police or public about my unusual activities,
 nor about the fact my bike had wires on it. As we now know, <a
-href="http://www.boston.com/news/globe/city_region/breaking_news/2007/09/mit_student_arr.html">wires
+href="http://afp.google.com/article/ALeqM5i_pDxEAYSiWgBNlLs8ALAyGID7Lw">wires
 are evil</a> unless they come in a box with the name of a big company
 on it.
 
