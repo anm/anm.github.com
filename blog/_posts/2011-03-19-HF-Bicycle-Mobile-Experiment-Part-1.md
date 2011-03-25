@@ -67,5 +67,5 @@ Some ideas:
   capacity of rack - needs to stay out the way of panniers.
 
 <a
-href="/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html">Part
+rel="next" href="/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html">Part
 2 - Testing by the Sea</a>

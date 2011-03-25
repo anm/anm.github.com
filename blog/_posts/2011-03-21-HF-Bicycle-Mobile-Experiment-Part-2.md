@@ -4,7 +4,7 @@ title: HF Bicycle Mobile Experiment - Part 2
 ---
 
 This evening I tested the antenna system described in my <a
-href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">last
+rel="prev" href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">last
 post</a>, as well as a 2m J-pole.
 
 Immediately on leaving the house I was answered on 2m by GM8OTI. This
@@ -95,5 +95,5 @@ K-Index 1
 15 meter conditions were pronounced to be fair.
 
 <a
-href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">Part
+rel="next" href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">Part
 3 - Illustration - Photos and Video on Blackford Hill</a>

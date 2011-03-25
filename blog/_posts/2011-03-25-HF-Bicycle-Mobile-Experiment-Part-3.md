@@ -5,7 +5,7 @@ title: HF Bicycle Mobile Experiment - Part 3 - Illustration
 
 Today the unusually good weather required me to take the bike out for
 a spin. I took some photos and video of the station while I was
-out. It's described in more detail in <a
+out. It's described in more detail in <a rel="start"
 href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">Part
 1</a>.
 
