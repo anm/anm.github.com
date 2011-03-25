@@ -65,3 +65,7 @@ Some ideas:
   for easy removal, connection and disconnection. Must also be
   weather, oil and dirt proof. Should not reduce load carrying
   capacity of rack - needs to stay out the way of panniers.
+
+<a
+href="/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html">Part
+2 - Testing by the Sea</a>

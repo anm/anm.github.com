@@ -93,3 +93,7 @@ A-Index 3
 K-Index 1
 
 15 meter conditions were pronounced to be fair.
+
+<a
+href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">Part
+3 - Illustration - Photos and Video on Blackford Hill</a>
