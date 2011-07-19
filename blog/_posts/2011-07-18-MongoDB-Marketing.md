@@ -37,13 +37,6 @@ prompts avoids overwhelming the user and draws one in. After doing one or two,
 I kept going to see what interesting feature I would discover next. There were
 puzzles to solve and immediate feedback.
 
-The tutorial could probably be made a bit prettier, especially before it
-starts. Perhaps adding the leaf logo would help to decorate it. There is also
-the slight barrier of being presented with three choices before you can start
-- a direct link to the tutorial may be what most people want, then the book
-and Geospatial tutorial can follow. Once started though, I was too busy
-thinking about the tasks to notice the design.
-
 Where did this tutorial come from? Well it was made by <a
 href="http://openmymind.net/about">Karl Seguin</a>. Why? I don't know but
 presumably he enjoyed using it and could see that Mongo was something people
