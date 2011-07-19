@@ -8,11 +8,13 @@
 <!-- Syntax hightlighting -->
 <link type="text/css" href="https://github.com/mojombo/tpw/raw/master/css/syntax.css" rel="stylesheet" />
 
+{% if page.background-colour %}
 <style>
 body {
 background-color: {{ page.background-colour }};
 }
 </style>
+{% endif %}
 <title>
 {{page.title}}
 </title>
