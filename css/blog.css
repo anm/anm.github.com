@@ -49,3 +49,9 @@ a:hover {
     margin-top: 1em;
     width: 80%;
 }
+
+.float-left {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 0.5em;
+}
