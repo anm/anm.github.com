@@ -44,7 +44,7 @@ thinking about the tasks to notice the design.
 
 Where did this tutorial come from? Well it was made by <a
 href="http://openmymind.net/about">Karl Seguin</a>. Why? I don't know but
-presumably he enjoyed using it and could see that mongo was something people
+presumably he enjoyed using it and could see that Mongo was something people
 were interested in learning. He may well have thought that because of hacker
 news activity. Maybe he wanted to get a job.
 
@@ -62,19 +62,19 @@ is largely because it is a good product. It is the sort of thing hackers enjoy
 using. It is probably also something to do with <a
 href="http://www.10gen.com/team">the 10gen team</a> making an effort not just
 to develop it but to promote it. Note how many people have the words
-"marketing" or "community" in their blurb. Compare couchbase, which only lists
+"marketing" or "community" in their blurb. Compare Couchbase, which only lists
 leadership and technical teams. Marketing is mentioned only once on the
 leadership page.
 
 Compare the <a href="http://couchdb.apache.org/">CouchDB</a> and <a
 href="http://www.mongodb.org/">MongoDB</a> websites.  Couch has fairly dense
 text (although I do like the architecture diagram up front) whereas Mongo is
-rather prettier. Also note the "Try it out" button at the top of the mongo
+rather prettier. Also note the "Try it out" button at the top of the Mongo
 page, leading to a shell.
 
-Compare also the websites of <a href="http://www.couchbase.com/">couchbase</a>
+Compare also the websites of <a href="http://www.couchbase.com/">Couchbase</a>
 and <a href="http://www.10gen.com/">10gen</a>, companies which support Couch
-and Mongo respectivly. 10gen has "Download" and "Learn" buttons. Couchbase
+and Mongo respectively. 10gen has "Download" and "Learn" buttons. Couchbase
 has, ironically, only marketing speak.
 
 So what have I learnt from this? Make your product hacker friendly. If people
