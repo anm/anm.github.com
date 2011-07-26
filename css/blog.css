@@ -5,26 +5,48 @@ body {
     color: #000000;
 }
 
+/* Start Layout */
 #container {
-    width: 60em;
+    position: absolute;
     padding: 1em;
-    margin-left: 5em;
+    margin-left: 3em;
+    margin-right: auto;
+    left: 3em;
+}
+
+#header {
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 #main {
-    max-width: 45em;
+    width: 40em;
     text-align: left;
-    float: left;
+    position: absolute;
+    top: 0em;
+    left: 0;
 }
 
 #sidebar {
-    float: left;
+    position: absolute;
+    top: 0em;
+    left: 42em;
     width: 150px;
     margin-left: 50px;
-    padding: 20px;
-    background-color: #CCDDDD;
+    padding: 15px;
+
+    background-color: #C9D5D5;
+
     -moz-border-radius: 15px;
     border-radius: 15px;
+}
+
+
+/* End Layout */
+
+h2 {
+    font-size: medium;
 }
 
 #sidebar p {
@@ -34,15 +56,18 @@ body {
 #sidebar img {
     margin-left: 0;
     margin-right: auto;
-    width: 100%
+}
+
+#icons {
+    margin-top: 0.5em;
+}
+
+#icons img {
+    margin-right: 5px;
 }
 
 .byline {
     font-weight: bold;
-}
-
-#title {
-    margin-bottom: 3em;
 }
 
 a {
