@@ -23,3 +23,8 @@ code.block, pre.block {
 img {
     border: none;
 }
+
+img.rounded {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+}
