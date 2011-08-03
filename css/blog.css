@@ -2,29 +2,69 @@ body {
     font-family: 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans,
                   sans-serif;
 
-    max-width: 50em;
-
-    margin-left: auto;
-    margin-right: auto;
     background-color: #ECEEEE;
+    color: #333;
 }
 
+h1 {
+    margin-top: 0;
+}
+
+/* Start Layout */
 #container {
-    max-width: 50em;
+    position: absolute;
+    top: 2em;
+    left: 4em;
+}
+
+#main {
+    width: 40em;
     text-align: left;
+    position: absolute;
+    top: 0em;
+    left: 0;
+}
 
-    margin-left: auto;
+#sidebar {
+    position: absolute;
+    top: 0em;
+    left: 42em;
+    width: 150px;
+    margin-left: 50px;
+    padding: 15px;
+
+    background-color: #C9D5D5;
+
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+
+
+/* End Layout */
+
+h2 {
+    font-size: medium;
+}
+
+#sidebar p {
+    margin-bottom: 0;
+}
+
+#sidebar img {
+    margin-left: 0;
     margin-right: auto;
+}
 
-    padding: 1em;
+#icons {
+    margin-top: 0.5em;
+}
+
+#icons img {
+    margin-right: 5px;
 }
 
 .byline {
     font-weight: bold;
-}
-
-#title {
-    margin-bottom: 3em;
 }
 
 a {
