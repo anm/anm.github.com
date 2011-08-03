@@ -1,23 +1,20 @@
 body {
     font-family: 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans,
                   sans-serif;
+
     background-color: #ECEEEE;
     color: #000000;
+}
+
+h1 {
+    margin-top: 0;
 }
 
 /* Start Layout */
 #container {
     position: absolute;
-    padding: 1em;
-    margin-left: 3em;
-    margin-right: auto;
-    left: 3em;
-}
-
-#header {
-    position: absolute;
-    top: 0;
-    left: 0;
+    top: 2em;
+    left: 4em;
 }
 
 #main {
