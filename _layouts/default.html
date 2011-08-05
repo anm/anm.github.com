@@ -16,6 +16,12 @@
     </style>
     {% endif %}
 
+    {% if page.style %}
+    <style>
+      {{ page.style }}
+    </style>
+    {% endif %}
+
     <title>{{page.title}}</title>
   </head>
   <body>
