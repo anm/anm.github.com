@@ -1,0 +1,38 @@
+---
+layout: post
+title: Torchwood Spinning Triangle
+subtitle: Drawn with SVG and CSS3 3D transforms
+---
+
+<style>
+  .spin {
+    -webkit-transition: all 2s linear;
+    -webkit-transform: rotateY(180deg);
+  }
+</style>
+
+<script src=https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js></script>
+
+<script>
+  var angle = 180;
+      setInterval(function () {
+          if (angle == 0) { angle = 180 } else { angle = 0 }
+          $(".spin").css("-webkit-transform", "rotateY(" + angle + "deg)");
+      }, 2000);
+
+</script>
+
+<svg class="spin centre" width="100px" height="100px">
+  <polygon points="0,100  50,14 100,100" fill="none" stroke="#555" stroke-width="2"/> 
+</svg>
+
+<p>
+I was watching Torchwood this evening when for some reason the spinning
+triangle suddenly made me think of CSS 3D transforms. I had to do it.
+</p>
+
+<p>
+The triangle is an inline svg. CSS specifies that transitions should be done
+smoothly over time. Javascript pokes the triangle every two seconds to rotate
+it. Requires webkit for now.
+</p>

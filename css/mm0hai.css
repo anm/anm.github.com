@@ -20,6 +20,16 @@ code.block, pre.block {
     text-align: center;
 }
 
+svg.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+svg {
+    margin: 10px;
+}
+
 img {
     border: none;
 }
