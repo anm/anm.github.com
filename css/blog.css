@@ -1,6 +1,7 @@
 body {
-    font-family: 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans,
-                  sans-serif;
+    font-family: Palatino, 'Palatino Linotype', Book Antiqua, serif;
+    line-height: 1.2;
+    text-rendering: optimizelegibility;
 
     background-color: #ECEEEE;
     color: #333;
