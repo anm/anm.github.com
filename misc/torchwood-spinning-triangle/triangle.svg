@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml-stylesheet href="triangle.css" type="text/css"?>
+
+<svg style="filter: url(#glow);"
+id="svg" height="210" width="210" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<filter id="glow">
+    <feColorMatrix type="matrix"
+        values=
+            "0 0 0 0.9 0
+             0 0 0 0.9 0
+             0 0 0 0.9 0
+             0 0 0 1   0"/>
+    <feGaussianBlur stdDeviation="4"
+        result="glow"/>
+    <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <polygon points="5,200 105,28 205,200" fill="none" stroke="#555" stroke-width="3" stroke-linejoin="round"></polygon>
+
+</svg>

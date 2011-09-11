@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en-gb" manifest="cache.manifest">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+
+<!-- Fullscreen when run from icon -->
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<meta name="format-detection" content="telephone=no" />
+
+<meta name="description" content="Torchwood spinning traingle - the symbol of the Three Families." />
+<meta name="keywords" content="Torchwood, Triangle, The Families, The Three Families, spinning, iPhone, iPad, iPod" />
+
+<title>
+Torchwood Spinning Triangle
+</title>
+
+<style>
+body {
+    background-color: black;
+    color: white;
+    /* TODO glow */
+}
+
+#svg {
+    display: block;
+    margin-left: -100px;
+    left: 50%;
+
+    position: absolute;
+    top: 50%;
+    margin-top: -100px;
+}
+
+</style>
+
+<style>
+  #svg {
+    -webkit-transition: all 2s linear;
+    -webkit-transform: rotateY(180deg);
+    -moz-transition: all 2s linear;
+    -moz-transform: rotateY(180deg);
+  }
+</style>
+</head>
+
+<body>
+<script>
+  var angle = 180;
+      setInterval(function () {
+          if (angle == 0) { angle = 180 } else { angle = 0 }
+          document.getElementById("svg").style["-webkit-transform"] = "rotateY(" + angle + "deg)";
+      }, 2000);
+</script>
+
+<object id="svg" type="image/svg+xml" data="triangle.svg" width="210" height="210"></object>
+
+</body>
+</html>
