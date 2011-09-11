@@ -9,6 +9,24 @@ body {
 
 h1 {
     margin-top: 0;
+    margin-bottom: 0.3em;
+    font-size: 200%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+.subtitle {
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 110%;
+}
+
+.byline {
+    font-weight: bold;
 }
 
 /* Start Layout */
@@ -43,10 +61,6 @@ h1 {
 
 /* End Layout */
 
-h2 {
-    font-size: medium;
-}
-
 #sidebar p {
     margin-bottom: 0;
 }
@@ -62,10 +76,6 @@ h2 {
 
 #icons img {
     margin-right: 5px;
-}
-
-.byline {
-    font-weight: bold;
 }
 
 a {
