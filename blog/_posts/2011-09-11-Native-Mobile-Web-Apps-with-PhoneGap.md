@@ -114,3 +114,8 @@ I'll try and get someone to test it out for me tomorrow but here is the
 possibly working app for you to try just now: <a
 href="/misc/torchwood-spinning-triangle/Torchwood_Triangle.apk">Torchwood
 Triangle for Android</a>.
+
+Update: I'm afraid the Android app doesn't show the triangle. See further
+comments on <a
+href="http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html">this
+post</a>.
