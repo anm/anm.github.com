@@ -40,13 +40,13 @@ h3 {
     width: 40em;
     text-align: left;
     position: absolute;
-    top: 0em;
+    top: 4em;
     left: 0;
 }
 
 #sidebar {
     position: absolute;
-    top: 0em;
+    top: 4em;
     left: 42em;
     width: 150px;
     margin-left: 50px;
