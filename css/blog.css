@@ -106,3 +106,22 @@ a:hover {
     margin-right: 1em;
     margin-bottom: 0.5em;
 }
+
+.inline-tag-list {
+    display: inline;
+    list-style-type: none;
+    padding: 0;
+    margin-left: 0;
+}
+
+.inline-tag-list li {
+    display: inline;
+}
+
+.inline-tag-list li:after {
+    content: ", ";
+}
+
+.inline-tag-list li:last-child:after {
+    content: "";
+}
