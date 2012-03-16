@@ -1,6 +1,7 @@
 ---
 layout: clean
 title: Deleting Code
+tags: [software]
 ---
 
 <blockquote>

@@ -3,6 +3,7 @@ layout: post
 title: My introduction to the Arduino platform
 subtitle: Getting started with the Seeeduino V2.21 and Ethernet
 background-colour: white
+tags: [software, electronics]
 ---
 
 I have been meaning to do several microcontroller based projects for some time

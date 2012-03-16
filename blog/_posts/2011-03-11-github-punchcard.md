@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Github Punchcard - Visualising Commit Times
+tags: [software, git, visualisation]
 ---
 
 I pushed my [HTML5 Game of Life](/life/life.html) to

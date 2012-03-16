@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HF Bicycle Mobile Experiment - Part 1
+tags: [radio, cycling, antennas]
 ---
 Today I decided to make an HF antenna for my bike. I did an experiment
 with this once last year but it was not terribly successful. That

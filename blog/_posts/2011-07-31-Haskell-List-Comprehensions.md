@@ -1,6 +1,7 @@
 ---
 layout: post
 title: List Comprehensions in Haskell
+tags: [software, haskell]
 ---
 
 Why they're so good

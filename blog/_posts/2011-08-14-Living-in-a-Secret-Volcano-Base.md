@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Living in a Secret Volcano Base"
+tags: [life]
 background-colour: white
 style: "
     #main {

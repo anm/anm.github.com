@@ -2,6 +2,7 @@
 layout: post
 title: Native Mobile App Development with HTML5
 subtitle: Building an app with PhoneGap for Android
+tags: [software, mobile]
 ---
 
 A while ago I was having a play with CSS 3D transforms and I made a <a

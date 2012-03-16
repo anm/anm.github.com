@@ -2,6 +2,7 @@
 layout: post
 title: I accidentally the MongoDB
 subtitle: How I found myself using MongoDB without even deciding to.
+tags: [software, nosql]
 ---
 
 I read <a href="http://news.ycombinator.com/">hacker news</a> frequently and

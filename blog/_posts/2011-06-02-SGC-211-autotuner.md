@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SGC SG-211 Mini Smartuner Teardown
+tags: [radio, electronics]
 ---
 
 My<sup>1</sup> SGC autotuner had an accident when I stupidly put it down on a

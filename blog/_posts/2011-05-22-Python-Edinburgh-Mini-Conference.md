@@ -3,6 +3,7 @@ layout: post
 title: Python Edinburgh Mini Conference
 subtitle: or, OMG PWNIES
 background-colour: white
+tags: [software, python, edinburgh]
 ---
 
 This weekend we had the <a

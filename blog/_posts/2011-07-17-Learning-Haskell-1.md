@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning Haskell - Part 1
+tags: [software, haskell]
 ---
 
 I'm learning Haskell at the moment, and have been doing so slowly over the

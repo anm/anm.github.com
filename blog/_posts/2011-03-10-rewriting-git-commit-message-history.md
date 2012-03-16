@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rewriting git commit message history across multiple branches
+tags: [software, git]
 ---
 
 The usual way to modify a previous git commit is to rebase interactively:

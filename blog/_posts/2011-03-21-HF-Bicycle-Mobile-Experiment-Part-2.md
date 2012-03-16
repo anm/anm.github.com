@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HF Bicycle Mobile Experiment - Part 2
+tag: [radio, cycling, antennas]
 ---
 
 This evening I tested the antenna system described in my <a

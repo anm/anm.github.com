@@ -2,6 +2,7 @@
 layout: post
 title: Relaxing with beer on the CouchDB
 subtitle: How else can you market an open source project?
+tags: [software, nosql]
 ---
 
 I thought after my <a href="/blog/2011/07/18/MongoDB-Marketing.html">last post

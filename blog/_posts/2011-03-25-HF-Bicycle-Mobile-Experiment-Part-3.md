@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HF Bicycle Mobile Experiment - Part 3 - Illustration
+tag: [radio, cycling, antennas]
 ---
 
 Today the unusually good weather required me to take the bike out for
