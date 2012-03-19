@@ -35,6 +35,15 @@ class="addthis_toolbox addthis_default_style addthis_32x32_style">
 src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=mm0hai"></script>
 <!-- AddThis Button END -->
 
+<div id="tags">
+Tagged:
+<ul class="inline-tag-list">
+  {% for tag in page.tags %}
+  <li><a href="/blog/tag/{{tag}}">{{tag}}</a></li>
+  {% endfor %}
+</ul>
+</div>
+
 <hr />
 
 <div id="related">

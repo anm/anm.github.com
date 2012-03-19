@@ -101,6 +101,10 @@ a:hover {
     width: 80%;
 }
 
+#tags {
+    margin-top: 1em;
+}
+
 .float-left {
     float: left;
     margin-right: 1em;
