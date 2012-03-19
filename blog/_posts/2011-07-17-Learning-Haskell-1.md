@@ -69,7 +69,7 @@ Implementations</a>.
 
 Back to what I'm doing to learn Haskell then. I'm now on Chapter 14 of
 Thompson, Algebraic Types, but skipped most of the exercises, which I intend to
-go back to. I'm also doing <a href=http://projecteuler.net/">Project
+go back to. I'm also doing <a href="http://projecteuler.net/">Project
 Euler</a>. These mathematical problems seem well suited to a mathematical sort
 of language like Haskell but perhaps this is making it too easy. There is the
 old question of whether functional languages are suited to real problems, and
