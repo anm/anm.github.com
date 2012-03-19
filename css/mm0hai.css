@@ -38,3 +38,9 @@ img.rounded {
     border-radius: 10px;
     -moz-border-radius: 10px;
 }
+
+.plain-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}

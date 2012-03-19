@@ -1,0 +1,25 @@
+---
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Alistair MacLeod, MM0HAI: Posts tagged {{page.tag}}</title>
+ <link href="http://mm0hai.net/blog/tag/{{page.tag}}/index.xml" rel="self"/>
+ <link href="http://mm0hai.net"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://mm0hai.net/blog/tag/{{page.tag}}</id>
+ <author>
+   <name>Alistair N. MacLeod</name>
+   <email>anm@mm0hai.net</email>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://mm0hai.net{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://mm0hai.net{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+</feed>

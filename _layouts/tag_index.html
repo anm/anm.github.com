@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h2>{{page.title}}</h2>
+
+<ul class="plain-list">
+  {% for tag in page.tags %}
+      <li>
+        <a href="/blog/tag/{{tag[0]}}">{{tag[0]}} ({{tag[1]}})</a>
+      </li>
+  {% endfor %}
+</ul>
