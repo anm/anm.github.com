@@ -14,6 +14,8 @@
  </author>
 
  {% for post in site.posts %}
+ {% for tag in post.tags %}
+ {% if tag == page.tag %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://mm0hai.net{{ post.url }}"/>
@@ -21,5 +23,7 @@
    <id>http://mm0hai.net{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
+ {% endif %}
+ {% endfor %}
  {% endfor %}
 </feed>
