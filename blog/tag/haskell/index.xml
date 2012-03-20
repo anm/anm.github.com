@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Alistair MacLeod, MM0HAI: Posts tagged haskell</title>
+ <link href="http://mm0hai.net/blog/tag/haskell/index.xml" rel="self"/>
+ <link href="http://mm0hai.net"/>
+ <updated>2012-03-20T20:12:23+00:00</updated>
+ <id>http://mm0hai.net/blog/tag/haskell</id>
+ <author>
+   <name>Alistair N. MacLeod</name>
+   <email>anm@mm0hai.net</email>
+ </author>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title>List Comprehensions in Haskell</title>
+   <link href="http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html"/>
+   <updated>2011-07-31T00:00:00+01:00</updated>
+   <id>http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions</id>
+   <content type="html">Why they're so good
+-------------------
+
+I like list comprehensions. They are concise. Until recently though, I did not
+know why. Reading &lt;a
+href=&quot;http://www.cs.kent.ac.uk/people/staff/sjt/craft2e&quot;&gt;Thompson&lt;/a&gt;, I
+realised it is because they combine three fundamental patterns of functional
+programming with little syntax. The patterns are generate, filter, and map.
+
+The generation stage produces one or more lists, often using something like
+`[1..]`, the list of the natural numbers.  Filters are specified as comma
+separated boolean expressions.  The map operation is defined before the `|`.
+There is some more detail in the &lt;a
+href=&quot;http://haskell.org/onlinereport/exps.html#list-comprehensions&quot;&gt;Haskell
+Report&lt;/a&gt;.
+
+They're not set builder
+-----------------------
+
+It's tempting to think of list comprehensions as set builder notation, which
+clearly they are meant to resemble. The problem is they are not and thinking
+of them this way can lead to problems when it is time to evaluate them.
+
+Obviously, they are lists, not sets. This will restrict how they are evaluated
+- order matters. It's also unhelpful if you really do want a set but the way
+you write the list comprehension generates some values more than once.
+
+How you write them matters
+--------------------------
+
+Pure functions are (&lt;a
+href=&quot;http://en.wikipedia.org/wiki/Extensionality&quot;&gt;extensionally&lt;/a&gt;) equal if
+the outputs are the same for all inputs. When there are several ways to write
+the same function, a perfect compiler would know the most efficient way to
+calculate each result. Unfortunately, it seems that GHC is not perfect and there
+are in practice dramatic differences in execution time depending on how
+functions are written.
+
+For example, when solving Project Euler problem 9, I wrote something a bit
+like this:
+
+&lt;pre&gt;&lt;code&gt;
+slow n = [ (a, b, c) | a &lt;- [1..n], b &lt;- [1..n], c &lt;- [1..n], 
+          (a + b + c) == n ]
+&lt;/code&gt;&lt;/pre&gt;
+Which is equal to this in result:
+&lt;pre&gt;&lt;code&gt;
+fast n = [ (a, b, c) | a &lt;- [1..n], b &lt;- [1..n], let c = n - (a + b), 
+          (a + b + c) == n ]
+&lt;/code&gt;&lt;/pre&gt;
+
+but not in execution time. For n = 1000, fast took less than a second and slow
+did not complete within minutes.
+
+I would guess GHC is using nested loops, so slow will have time complexity
+`O(n^3)` and fast `O(n^2)`.
+</content>
+ </entry>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title>Learning Haskell - Part 1</title>
+   <link href="http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html"/>
+   <updated>2011-07-17T00:00:00+01:00</updated>
+   <id>http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1</id>
+   <content type="html">I'm learning Haskell at the moment, and have been doing so slowly over the
+past couple of months.
+
+I know many languages to some extent but have never really practiced
+functional programming seriously. I am familiar with some of the concepts,
+which I have picked up from languages with functional aspects, such as perl
+(see &lt;a href=&quot;http://hop.perl.plover.com&quot;&gt;Higher Order Perl&lt;/a&gt;) and
+javascript, from speaking to a more knowledgeable friend and of course from
+wikipedia. I also started to learn common lisp a few years ago and got as far
+as reading most of a book before having to do something else. (University
+work. It was quite good at getting in the way of me learning things.)
+
+I decided to have another go at learning functional programming properly. It
+is an important programming style which I do not fully understand and I think
+it is important that I should. I do not like not knowing things and I feel
+stupid when talking to people who know more about programming languages.
+
+I think Haskell is probably the best choice as a language to learn functional
+programming because, unlike lisp, it does its best to be &lt;a
+href=&quot;http://en.wikipedia.org/wiki/Purely_functional&quot;&gt;purely functional&lt;/a&gt;,
+that is functions have no side effects. This should force me to do things
+properly. It seems to be becoming quite popular so there is a chance people
+may even start to use it for things other than research. Also, I studied at
+Glasgow, home of the Glasgow Haskell Compiler (GHC). I'm actually in Edinburgh
+at the moment, home of &lt;a
+href=&quot;http://en.wikipedia.org/wiki/ML_(programming_language)&quot;&gt;ML&lt;/a&gt; but if
+you have a look in lib.ed.ac.uk, you will see hunners (a Glaswegian term) of
+Haskell books, not ML.
+
+Another good choice for learning functional programming would be &lt;a
+href=&quot;http://mitpress.mit.edu/sicp/&quot;&gt;Structure and Interpretation of Computer
+Programs&lt;/a&gt;, also called SICP and the Wizard Book, which uses scheme. I
+suspect it is worth following this course even if you do already know how to
+program functionally as it is generally highly thought of and I know of good
+programmers who have found it useful, despite it being designed as first year
+course.
+
+I first saw Haskell in second year at Glasgow when I went to a few classes on
+it. I was studying electronics too though so couldn't officially take the
+class and I didn't get very far. It seems I have now ended up using the
+Glasgow Haskell Compiler for the first time here in Edinburgh. :)
+
+Compilers and books then, which should you use? I am reading &lt;a
+href=&quot;http://www.cs.kent.ac.uk/people/staff/sjt/craft2e&quot;&gt;Thompson&lt;/a&gt;. This
+was used for the course in Glasgow and also fills the shelves of the Edinburgh
+University library. I noticed on the book website there is actually a &lt;a
+href=&quot;http://www.haskellcraft.com/craft3e/Home.html&quot;&gt; third edition&lt;/a&gt; now.
+
+A rather more trendy book is &lt;a href=&quot;http://learnyouahaskell.com/&quot;&gt;Learn You
+a Haskell for Great Good!&lt;/a&gt;. I am told this is less dry than Thomson but I'm
+not sure if soggy books are a good thing. It does have a nice picture of an
+elephant on the cover though and pretty colours on the website.
+
+What about a compiler and interpreter? An interactive interpreter, or REPL
+(Read Eval Print Loop) as lispers call it, is certainly a good thing to have
+and learn with. Thompson uses &lt;a href=&quot;http://www.haskell.org/hugs/&quot;&gt;HUGS&lt;/a&gt;,
+which I started with but the &lt;a href=&quot;http://www.haskell.org/ghc/&quot;&gt;GHC&lt;/a&gt;
+also has an interpreter, GHCi, which I have now switched to. I note that the
+latest edition of Thompson uses GHCi too. GHC seems to be the standard
+compiler so I would recommend using it. See also &lt;a
+href=&quot;http://www.haskell.org/haskellwiki/Implementations&quot;&gt;Haskell
+Implementations&lt;/a&gt;.
+
+Back to what I'm doing to learn Haskell then. I'm now on Chapter 14 of
+Thompson, Algebraic Types, but skipped most of the exercises, which I intend to
+go back to. I'm also doing &lt;a href=&quot;http://projecteuler.net/&quot;&gt;Project
+Euler&lt;/a&gt;. These mathematical problems seem well suited to a mathematical sort
+of language like Haskell but perhaps this is making it too easy. There is the
+old question of whether functional languages are suited to real problems, and
+the fact that I won't know how to print &quot;Hello, world!&quot; until Chapter
+18.
+
+I think I'll leave it at that for now but I intend to say more in further
+posts.</content>
+ </entry>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</feed>

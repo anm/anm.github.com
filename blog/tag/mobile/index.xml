@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Alistair MacLeod, MM0HAI: Posts tagged mobile</title>
+ <link href="http://mm0hai.net/blog/tag/mobile/index.xml" rel="self"/>
+ <link href="http://mm0hai.net"/>
+ <updated>2012-03-20T20:12:23+00:00</updated>
+ <id>http://mm0hai.net/blog/tag/mobile</id>
+ <author>
+   <name>Alistair N. MacLeod</name>
+   <email>anm@mm0hai.net</email>
+ </author>
+
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title>Native Mobile App Development with HTML5</title>
+   <link href="http://mm0hai.net/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap.html"/>
+   <updated>2011-09-11T00:00:00+01:00</updated>
+   <id>http://mm0hai.net/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap</id>
+   <content type="html">A while ago I was having a play with CSS 3D transforms and I made a &lt;a
+href=&quot;/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html&quot;&gt;spinning
+triangle symbol&lt;/a&gt; as seen on the TV show Torchwood. Last night, someone
+tweeted me about it saying he wanted a version for his phone. I'd done some
+mobile web app development before (my &lt;a href=&quot;/life/life.html&quot;&gt;HTML5 Game of
+Life&lt;/a&gt;) but had never made a native app. Learning native app development was
+not my top priority but I knew it was possible to make native apps using HTML
+and Javascript so thought I would try it.
+
+## Mobile Web Apps and Native Apps
+
+Native apps are written to a device specific API and use a device specific
+runtime and packaging system. This means they must be rewritten for every
+platform which is required. They are not a part of the web. This means that
+their resources cannot be linked to, for example.
+
+Mobile web apps use standard web technologies. They can run on many different
+platforms and interoperate with the rest of the web. They are created in much
+the same way as a normal web app but they can be designed to also work
+offline. The key technology to enable this is the HTML5 offline application
+cache. Further enhancements can be made to make mobile web apps look like
+native apps, for example providing an icon to use when installing the app in a
+home screen.
+
+I believe that whenever possible mobile web apps should be used in preference
+to native apps. This is because:
+
+- They are mostly cross platform.
+- You don't need to learn a totally different development ecosystem and, in
+  the case of iOS, Objective-C.
+- They interoperate with the web. Does not need to silo data, can be linked to.
+- Morally better: they reduce wasted time redoing work for other
+  platforms. This is time developers could be using to be creating something
+  new to benefit the world.
+
+Mobile web apps have some disadvantages though:
+
+- Users are less familiar with them: this may reduce installs and they may not
+  understand they can be used offline.
+- Not all device features are available through the DOM, e.g. a phone camera.
+- Payment infrastructure: The Apple App Store, for example, makes it easy to
+  sell apps.
+
+Thankfully, there is a way to develop using web standards as far as possible
+and then bundle the functionality in a native app. This preserves some of the
+benefits of web apps, such as reduced development time for many platforms,
+allows the apps to be included in app stores, and permits access to device
+features.
+
+There are many frameworks designed to do just this - here is wikipedia's list:
+&lt;a
+href=&quot;http://en.wikipedia.org/wiki/Multiple_phone_web_based_application_framework&quot;&gt;Mobile
+web based application frameworks&lt;/a&gt;.
+
+## Using PhoneGap
+
+I decided to use &lt;a href=&quot;http://en.wikipedia.org/wiki/PhoneGap&quot;&gt;PhoneGap&lt;/a&gt;
+for the Torchwood triangle project. This is something that could be
+done as a web app, in fact &lt;a href=&quot;/misc/torchwood-spinning-triangle/&quot;&gt;I did
+that too&lt;/a&gt;, but I wanted to learn about the technology.
+
+If I had needed to use features not available to web apps, I could have done
+so with PhoneGap. It adds javascript objects to the DOM to provide additional
+features, for example, here is how to &lt;a
+href=&quot;http://docs.phonegap.com/phonegap_camera_camera.md.html&quot;&gt;access a
+camera&lt;/a&gt;.
+
+First, I had to install the Android SDK. I also installed the eclipse plugins
+as the documentation suggested this would probably be the quickest way to get
+started. I usually prefer to work with emacs and the command line but this
+dealt with generating the boilerplate. I then downloaded and copied the
+necessary parts of PhoneGap to the project. This was all straightforward,
+following the &lt;a href=&quot;http://www.phonegap.com/start#android&quot;&gt;PhoneGap getting
+started guide&lt;/a&gt;.
+
+I then copied my html, css and image to the project and ran it in the
+simulator. It was very slow to start, and failed with an error the first time
+but it did eventually work.
+
+### Packaging
+
+I now had an Android application which worked in the simulator. I now had to
+work out how to package it and get it onto real devices. The android
+developers guide &lt;a
+href=&quot;http://developer.android.com/guide/publishing/preparing.html&quot;&gt;publishing
+section&lt;/a&gt; was helpful at this stage.
+
+Some points to note:
+
+- Signing applications is mandatory but is typically done with a self signed
+  key you create yourself.
+- &lt;a href=&quot;http://developer.android.com/guide/publishing/versioning.html&quot;&gt;Set
+  versions&lt;/a&gt; correctly.
+- Remove unneeded permissions from &lt;code&gt;AndroidManifest.xml&lt;/code&gt;.
+- Optimise performance by using &lt;a
+  href=&quot;http://developer.android.com/guide/developing/tools/zipalign.html&quot;&gt;zipalign&lt;/a&gt;.
+
+### Distribution
+
+I now had a &lt;code&gt;.apk&lt;/code&gt; file but I wasn't sure how these could be
+distributed. I tested in the emulator and found that they can simply be
+downloaded with a web browser and the device offers to install the app. The
+usual way to do it is probably to upload to the Android Marketplace but unlike
+the Apple equivalent this is not required.
+
+The only problem I had now was that I don't actually have an Android device!
+I'll try and get someone to test it out for me tomorrow but here is the
+possibly working app for you to try just now: &lt;a
+href=&quot;/misc/torchwood-spinning-triangle/Torchwood_Triangle.apk&quot;&gt;Torchwood
+Triangle for Android&lt;/a&gt;.
+
+Update: I'm afraid the Android app doesn't show the triangle. See further
+comments on &lt;a
+href=&quot;http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html&quot;&gt;this
+post&lt;/a&gt;.
+</content>
+ </entry>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</feed>
