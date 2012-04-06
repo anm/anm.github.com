@@ -24,7 +24,7 @@ href="http://docs.djangoproject.com/en/dev/intro/tutorial01/">tutorial</a>. It
 was very straightforward and I had an application running that evening. My
 main concern with the tutorial was that there was no magical pony on a stick.
 
-<img alt="Django pony" class=style=""
+<img alt="Django pony"
 src="http://dl-web.dropbox.com/u/10320/django/wallpaper/magic-django-pony-iphone.png"
 />
 
