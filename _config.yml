@@ -2,3 +2,5 @@ safe: false
 lsi: true
 pygments: true
 markdown: rdiscount
+url: http://mm0hai.net
+author: Alistair N. MacLeod

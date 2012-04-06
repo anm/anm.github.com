@@ -3,27 +3,24 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Alistair MacLeod, MM0HAI: Posts tagged {{page.tag}}</title>
- <link href="http://mm0hai.net/blog/tag/{{page.tag}}/index.xml" rel="self"/>
- <link href="http://mm0hai.net"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://mm0hai.net/blog/tag/{{page.tag}}</id>
- <author>
-   <name>Alistair N. MacLeod</name>
-   <email>anm@mm0hai.net</email>
- </author>
 
- {% for post in site.posts %}
- {% for tag in post.tags %}
- {% if tag == page.tag %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://mm0hai.net{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://mm0hai.net{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% endif %}
- {% endfor %}
- {% endfor %}
+  <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged {{page.tag}}]]></title>
+
+  <link href="{{ site.url }}/blog/tag/{{page.tag}}/index.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/blog/tag/{{page.tag}}</id>
+  <author>
+    <name><![CDATA[{{ site.author | strip_html }}]]></name>
+  </author>
+
+  {% for post in site.tags[page.tag] %}
+  <entry>
+    <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>{{ site.url }}{{ post.id }}</id>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | markdownify | cdata_escape }}]]></content>
+  </entry>
+  {% endfor %}
 </feed>
