@@ -1,226 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Alistair MacLeod, MM0HAI: Posts tagged nosql</title>
- <link href="http://mm0hai.net/blog/tag/nosql/index.xml" rel="self"/>
- <link href="http://mm0hai.net"/>
- <updated>2012-03-20T20:12:23+00:00</updated>
- <id>http://mm0hai.net/blog/tag/nosql</id>
- <author>
-   <name>Alistair N. MacLeod</name>
-   <email>anm@mm0hai.net</email>
- </author>
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <entry>
-   <title>Relaxing with beer on the CouchDB</title>
-   <link href="http://mm0hai.net/blog/2011/07/19/CouchDB-Marketing.html"/>
-   <updated>2011-07-19T00:00:00+01:00</updated>
-   <id>http://mm0hai.net/blog/2011/07/19/CouchDB-Marketing</id>
-   <content type="html">I thought after my &lt;a href=&quot;/blog/2011/07/18/MongoDB-Marketing.html&quot;&gt;last post
-on MongoDB&lt;/a&gt; it would only be fair to do one on &lt;a
-href=&quot;http://couchdb.apache.org/&quot;&gt;CouchDB&lt;/a&gt;. How do I know about CouchDB?
+  <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged nosql]]></title>
+
+  <link href="http://mm0hai.net/blog/tag/nosql/index.xml" rel="self"/>
+  <link href="http://mm0hai.net/"/>
+  <updated>2012-04-06T12:05:49+01:00</updated>
+  <id>http://mm0hai.net/blog/tag/nosql</id>
+  <author>
+    <name><![CDATA[Alistair N. MacLeod]]></name>
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Relaxing with beer on the CouchDB]]></title>
+    <link href="http://mm0hai.net/blog/2011/07/19/CouchDB-Marketing.html"/>
+    <updated>2011-07-19T00:00:00+01:00</updated>
+    <id>http://mm0hai.net/blog/2011/07/19/CouchDB-Marketing</id>
+    <content type="html"><![CDATA[<p>I thought after my <a href="/blog/2011/07/18/MongoDB-Marketing.html">last post
+on MongoDB</a> it would only be fair to do one on <a
+href="http://couchdb.apache.org/">CouchDB</a>. How do I know about CouchDB?
 Well, I think it shows up on hacker news less often than Mongo so the main
-reason I know about it is &lt;a href=&quot;http://twitter.com/#!/daleharvey/&quot;&gt;Dale
-Harvey&lt;/a&gt;. Dale works for &lt;a href=&quot;http://www.couchbase.com/&quot;&gt;Couchbase&lt;/a&gt;
-and is sometimes seen wearing his CouchDB t-shirt in Appleton Tower, hub of &lt;a
-href=&quot;http://startupcafe.co.uk/&quot;&gt;Edinburgh's startup scene&lt;/a&gt; and where I
-work.
+reason I know about it is <a href="http://twitter.com/#!/daleharvey/">Dale
+Harvey</a>. Dale works for <a href="http://www.couchbase.com/">Couchbase</a>
+and is sometimes seen wearing his CouchDB t-shirt in Appleton Tower, hub of <a
+href="http://startupcafe.co.uk/">Edinburgh's startup scene</a> and where I
+work.</p>
 
-He's &lt;a href=&quot;http://www.vimeo.com/16244683&quot;&gt;spoken about CouchDB&lt;/a&gt; at
+<p>He's <a href="http://www.vimeo.com/16244683">spoken about CouchDB</a> at
 Edinburgh's Tech Meetup. Most of the rest of what I know about Couch has come
-from Dale while in the pub.
+from Dale while in the pub.</p>
 
-What's the point of this post? Have a good ambassador. How do you get them?
+<p>What's the point of this post? Have a good ambassador. How do you get them?
 Make something hackers like. It probably helps to do it in a fun language like
-Erlang.
-</content>
- </entry>
- 
- 
- 
- 
- 
- 
- 
- <entry>
-   <title>I accidentally the MongoDB</title>
-   <link href="http://mm0hai.net/blog/2011/07/18/MongoDB-Marketing.html"/>
-   <updated>2011-07-18T00:00:00+01:00</updated>
-   <id>http://mm0hai.net/blog/2011/07/18/MongoDB-Marketing</id>
-   <content type="html">I read &lt;a href=&quot;http://news.ycombinator.com/&quot;&gt;hacker news&lt;/a&gt; frequently and
+Erlang.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[I accidentally the MongoDB]]></title>
+    <link href="http://mm0hai.net/blog/2011/07/18/MongoDB-Marketing.html"/>
+    <updated>2011-07-18T00:00:00+01:00</updated>
+    <id>http://mm0hai.net/blog/2011/07/18/MongoDB-Marketing</id>
+    <content type="html"><![CDATA[<p>I read <a href="http://news.ycombinator.com/">hacker news</a> frequently and
 was generally aware of NoSQL databases. I had a feeling I should learn at
 least one of them but did not have a real plan to do so yet. Partly, this was
-because I hadn't decided which one would be the best investment of time.
+because I hadn't decided which one would be the best investment of time.</p>
 
-&lt;img class=&quot;float-left rounded&quot;
-src=&quot;http://farm7.static.flickr.com/6023/5955214301_56dfd34107_m.jpg&quot;
-width=&quot;200&quot; height=&quot;195&quot; alt=&quot;MongoDB Mug&quot;&gt; Then, one day, I found myself in
+<p><img class="float-left rounded"
+src="http://farm7.static.flickr.com/6023/5955214301_56dfd34107_m.jpg"
+width="200" height="195" alt="MongoDB Mug"> Then, one day, I found myself in
 the middle of a MongoDB tutorial and using a live database. What? How did that
-happen? I had &lt;a
-href=&quot;http://knowyourmeme.com/memes/i-accidentally&quot;&gt;accidentally&lt;/a&gt; the
+happen? I had <a
+href="http://knowyourmeme.com/memes/i-accidentally">accidentally</a> the
 MongoDB. I note I also have a MongoDB mug - I don't even know exactly where it
-came from.
+came from.</p>
 
-This got me thinking about the marketing of open source products and how in
+<p>This got me thinking about the marketing of open source products and how in
 this case it had been done so successfully. Looking back, there are many
-things people had done to get me to this point.
+things people had done to get me to this point.</p>
 
-First, MongoDB showed up often on hacker news. In particular, this &lt;a
-href=&quot;http://www.mongly.com/tutorial/index&quot;&gt;interactive tutorial&lt;/a&gt;
+<p>First, MongoDB showed up often on hacker news. In particular, this <a
+href="http://www.mongly.com/tutorial/index">interactive tutorial</a>
 appeared. I thought it looked interesting and clicked it despite not really
 planning to do a tutorial at this stage. Instead of instructions to download
 and install packages, run commands and copy code in a webpage, I was presented
 with an initially rather bare screen. Within a few seconds though instructions
-started to appear. I was told &quot;It's easy, just enter
-&lt;code&gt;db.getCollectionNames();&lt;/code&gt;&quot; How could I not do something so simple?
+started to appear. I was told "It's easy, just enter
+<code>db.getCollectionNames();</code>" How could I not do something so simple?</p>
 
-From there, the tutorial progressed, building up to more interesting tasks,
+<p>From there, the tutorial progressed, building up to more interesting tasks,
 each slightly more complicated than the last. This method of using small
 prompts avoids overwhelming the user and draws one in. After doing one or two,
 I kept going to see what interesting feature I would discover next. There were
-puzzles to solve and immediate feedback.
+puzzles to solve and immediate feedback.</p>
 
-Where did this tutorial come from? Well it was made by &lt;a
-href=&quot;http://openmymind.net/about&quot;&gt;Karl Seguin&lt;/a&gt;. Why? I don't know but
+<p>Where did this tutorial come from? Well it was made by <a
+href="http://openmymind.net/about">Karl Seguin</a>. Why? I don't know but
 presumably he enjoyed using it and could see that Mongo was something people
 were interested in learning. He may well have thought that because of hacker
-news activity. Maybe he wanted to get a job.
+news activity. Maybe he wanted to get a job.</p>
 
-That's an important reason why someone may want to learn a technology - to get
+<p>That's an important reason why someone may want to learn a technology - to get
 a job at a company that uses it. If the sort of companies that hackers like
 (startups doing something exciting) are using your software then hackers will
 be more likely to be interested in it and promote it for you in things like
 their blog posts. The moral would seem to be solve problems cool companies
-have. This is related to Paul Graham's &lt;a
-href=&quot;http://ycombinator.com/ideas.html&quot;&gt;Startup Ideas We'd Like to Fund&lt;/a&gt;
-&quot;30. Startups for startups&quot;.
+have. This is related to Paul Graham's <a
+href="http://ycombinator.com/ideas.html">Startup Ideas We'd Like to Fund</a>
+"30. Startups for startups".</p>
 
-So why does Mongo show up so much on hacker news to start with? I suspect it
+<p>So why does Mongo show up so much on hacker news to start with? I suspect it
 is largely because it is a good product. It is the sort of thing hackers enjoy
-using. It is probably also something to do with &lt;a
-href=&quot;http://www.10gen.com/team&quot;&gt;the 10gen team&lt;/a&gt; making an effort not just
+using. It is probably also something to do with <a
+href="http://www.10gen.com/team">the 10gen team</a> making an effort not just
 to develop it but to promote it. Note how many people have the words
-&quot;marketing&quot; or &quot;community&quot; in their blurb. Compare Couchbase, which only lists
+"marketing" or "community" in their blurb. Compare Couchbase, which only lists
 leadership and technical teams. Marketing is mentioned only once on the
-leadership page.
+leadership page.</p>
 
-Compare the &lt;a href=&quot;http://couchdb.apache.org/&quot;&gt;CouchDB&lt;/a&gt; and &lt;a
-href=&quot;http://www.mongodb.org/&quot;&gt;MongoDB&lt;/a&gt; websites.  Couch has fairly dense
+<p>Compare the <a href="http://couchdb.apache.org/">CouchDB</a> and <a
+href="http://www.mongodb.org/">MongoDB</a> websites.  Couch has fairly dense
 text (although I do like the architecture diagram up front) whereas Mongo is
-rather prettier. Also note the &quot;Try it out&quot; button at the top of the Mongo
-page, leading to a shell.
+rather prettier. Also note the "Try it out" button at the top of the Mongo
+page, leading to a shell.</p>
 
-Compare also the websites of &lt;a href=&quot;http://www.couchbase.com/&quot;&gt;Couchbase&lt;/a&gt;
-and &lt;a href=&quot;http://www.10gen.com/&quot;&gt;10gen&lt;/a&gt;, companies which support Couch
-and Mongo respectively. 10gen has &quot;Download&quot; and &quot;Learn&quot; buttons. Couchbase
-has, ironically, only marketing speak.
+<p>Compare also the websites of <a href="http://www.couchbase.com/">Couchbase</a>
+and <a href="http://www.10gen.com/">10gen</a>, companies which support Couch
+and Mongo respectively. 10gen has "Download" and "Learn" buttons. Couchbase
+has, ironically, only marketing speak.</p>
 
-So what have I learnt from this? Make your product hacker friendly. If people
+<p>So what have I learnt from this? Make your product hacker friendly. If people
 like it they will promote it for you. Make it ridiculously easy to start
 learning it. Let people know what it does quickly, with a well designed
-website.
+website.</p>
 
-As for the mug, it must have come from a conference someone in the office went
+<p>As for the mug, it must have come from a conference someone in the office went
 to. I would like to think this would not change my opinion on what makes a
-good database but we know it does.</content>
- </entry>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+good database but we know it does.</p>
+]]></content>
+  </entry>
+  
 </feed>

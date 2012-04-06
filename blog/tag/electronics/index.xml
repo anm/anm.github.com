@@ -1,166 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Alistair MacLeod, MM0HAI: Posts tagged electronics</title>
- <link href="http://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
- <link href="http://mm0hai.net"/>
- <updated>2012-03-20T20:12:23+00:00</updated>
- <id>http://mm0hai.net/blog/tag/electronics</id>
- <author>
-   <name>Alistair N. MacLeod</name>
-   <email>anm@mm0hai.net</email>
- </author>
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <entry>
-   <title>SGC SG-211 Mini Smartuner Teardown</title>
-   <link href="http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner.html"/>
-   <updated>2011-06-02T00:00:00+01:00</updated>
-   <id>http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner</id>
-   <content type="html">My&lt;sup&gt;1&lt;/sup&gt; SGC autotuner had an accident when I stupidly put it down on a
+  <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged electronics]]></title>
+
+  <link href="http://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
+  <link href="http://mm0hai.net/"/>
+  <updated>2012-04-06T12:05:49+01:00</updated>
+  <id>http://mm0hai.net/blog/tag/electronics</id>
+  <author>
+    <name><![CDATA[Alistair N. MacLeod]]></name>
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[SGC SG-211 Mini Smartuner Teardown]]></title>
+    <link href="http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner.html"/>
+    <updated>2011-06-02T00:00:00+01:00</updated>
+    <id>http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner</id>
+    <content type="html"><![CDATA[<p>My<sup>1</sup> SGC autotuner had an accident when I stupidly put it down on a
 bench. The boat heeled and it landed on the connector, bending it. Luckily the
 connector was mounted on the case and wired up, rather than soldered directly
 to the board, so there was no damage other than a bent box. I took it apart
 so I could straighten it out and thought I might as well take some photos
-while I was at it.
+while I was at it.</p>
 
-The item in question is an &lt;a
-href=&quot;http://www.sgcworld.com/211ProductPage.html&quot;&gt;SG-211&lt;/a&gt;. I'm not going
+<p>The item in question is an <a
+href="http://www.sgcworld.com/211ProductPage.html">SG-211</a>. I'm not going
 to review it or say much other than it is pretty good and the case is soft
-aluminium.
+aluminium.</p>
 
-&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.flickr.com/photos/58967572@N03/5788517160/&quot; title=&quot;Top of board&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2327/5788517160_677a9ff43e_z.jpg&quot; width=&quot;640&quot; height=&quot;428&quot; alt=&quot;Top of board&quot;&gt;&lt;/a&gt;
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5788517160/" title="Top of board"><img src="http://farm3.static.flickr.com/2327/5788517160_677a9ff43e_z.jpg" width="640" height="428" alt="Top of board"></a></p>
 
-&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.flickr.com/photos/58967572@N03/5788523098/&quot; title=&quot;Bottom of board&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3273/5788523098_208ab1258e_z.jpg&quot; width=&quot;640&quot; height=&quot;441&quot; alt=&quot;Bottom of board&quot;&gt;&lt;/a&gt;
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5788523098/" title="Bottom of board"><img src="http://farm4.static.flickr.com/3273/5788523098_208ab1258e_z.jpg" width="640" height="441" alt="Bottom of board"></a></p>
 
-The relays are interesting. I have been meaning to design an automatic ground
-tuner for my &lt;a
-href=&quot;/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html&quot;&gt;bike&lt;/a&gt; but
+<p>The relays are interesting. I have been meaning to design an automatic ground
+tuner for my <a
+href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">bike</a> but
 one problem I have is the inability to find any latching relays. It seems SGC
 either had their own made, or have had some branded to hide where they get
-these mythical devices.
+these mythical devices.</p>
 
-&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.flickr.com/photos/58967572@N03/5787968241/&quot; title=&quot;Custom relays?&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2440/5787968241_e4bbc34dee_z.jpg&quot; width=&quot;640&quot; height=&quot;236&quot; alt=&quot;Custom relays?&quot;&gt;&lt;/a&gt;
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5787968241/" title="Custom relays?"><img src="http://farm3.static.flickr.com/2440/5787968241_e4bbc34dee_z.jpg" width="640" height="236" alt="Custom relays?"></a></p>
 
-&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.flickr.com/photos/58967572@N03/5787972187/&quot; title=&quot;Bottom half of case&quot;&gt;&lt;img src=&quot;http://farm6.static.flickr.com/5230/5787972187_20fb28eaa0_z.jpg&quot; width=&quot;640&quot; height=&quot;436&quot; alt=&quot;Bottom half of case&quot;&gt;&lt;/a&gt;
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5787972187/" title="Bottom half of case"><img src="http://farm6.static.flickr.com/5230/5787972187_20fb28eaa0_z.jpg" width="640" height="436" alt="Bottom half of case"></a></p>
 
-The white wire is connected to a front panel toggle switch which was added by
+<p>The white wire is connected to a front panel toggle switch which was added by
 SGC. The new switch disables retuning to avoid a problem where it would retune
 in the middle of an over. I'm not sure if the uninsulated wires above this are
 part of the mod. I hope they are not fixing a bad board. The switch is useful
 but I'm a bit concerned about what this will do for durability. The controller
-is a PIC.
+is a PIC.</p>
 
-&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.flickr.com/photos/58967572@N03/5788529612/&quot; title=&quot;PIC&quot;&gt;&lt;img src=&quot;http://farm6.static.flickr.com/5264/5788529612_7265d6aa5f_z.jpg&quot; width=&quot;415&quot; height=&quot;640&quot; alt=&quot;PIC&quot;&gt;&lt;/a&gt;
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5788529612/" title="PIC"><img src="http://farm6.static.flickr.com/5264/5788529612_7265d6aa5f_z.jpg" width="415" height="640" alt="PIC"></a></p>
 
-A reference / dummy load?
+<p>A reference / dummy load?</p>
 
-&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.flickr.com/photos/58967572@N03/5787974261/&quot; title=&quot;Reference / load?&quot;&gt;&lt;img src=&quot;http://farm6.static.flickr.com/5229/5787974261_2a675e013d_m.jpg&quot; width=&quot;240&quot; height=&quot;149&quot; alt=&quot;Reference / load R?&quot;&gt;&lt;/a&gt;
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5787974261/" title="Reference / load?"><img src="http://farm6.static.flickr.com/5229/5787974261_2a675e013d_m.jpg" width="240" height="149" alt="Reference / load R?"></a></p>
 
+<p>--</p>
 
---
-
-&lt;sup&gt;1&lt;/sup&gt; Actually borrowed, but he'll never know my bending was that good. :-)</content>
- </entry>
- 
- 
- 
- 
- 
- 
- 
- <entry>
-   <title>My introduction to the Arduino platform</title>
-   <link href="http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html"/>
-   <updated>2011-05-25T00:00:00+01:00</updated>
-   <id>http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino</id>
-   <content type="html">I have been meaning to do several microcontroller based projects for some time
+<p><sup>1</sup> Actually borrowed, but he'll never know my bending was that good. :-)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My introduction to the Arduino platform]]></title>
+    <link href="http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html"/>
+    <updated>2011-05-25T00:00:00+01:00</updated>
+    <id>http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino</id>
+    <content type="html"><![CDATA[<p>I have been meaning to do several microcontroller based projects for some time
 now. Ideally I wanted to do it without spending any money so I decided to make
 myself a PIC programmer with some samples from Microchip. This would also make
-the process more interesting.
+the process more interesting.</p>
 
-The plan was to make a &lt;a href=&quot;http://usbpicprog.org/&quot;&gt;usbpicprog&lt;/a&gt; and
+<p>The plan was to make a <a href="http://usbpicprog.org/">usbpicprog</a> and
 bootstrap it with a serial port based programmer using an old computer.  I
 bought all the parts, including copper clad board and ferric chloride but
 never quite got round to doing it. This was in part because I was not very
 keen to have to work with ferric chloride and I didn't want to dissolve the
-sink.
+sink.</p>
 
-Meanwhile, I had been hearing about the Arduino more and more. Initially I
+<p>Meanwhile, I had been hearing about the Arduino more and more. Initially I
 ignored it as something for artists and people who didn't know what they were
 doing. I had spent some time at university learning about and using real
 microcontrollers with none of this boot loader nonsense so I did not think I
 needed such things. Then I realised that being leet enough not to require
 simplification did not make quicker development a bad thing. :-) I decided I
 had wasted enough time and just wanted to get something done, so I bought an
-Arduino.
+Arduino.</p>
 
-&lt;img src=&quot;http://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg&quot;
-width=&quot;500&quot; height=&quot;375&quot; alt=&quot;Seeeduino and ethernet shield&quot;&gt;
+<p><img src="http://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg"
+width="500" height="375" alt="Seeeduino and ethernet shield"></p>
 
-I actually chose the seeedunio, an Arduino clone. The design is open so this
+<p>I actually chose the seeedunio, an Arduino clone. The design is open so this
 is allowed and in fact there are some improvements made in the
 seeeduino. Primarily I chose it though because it was the cheapest. I still
 don't like the idea of paying decapounds for a single basic microcontroller
 and some soldering. I also ordered an ethernet shield, which is what an
-expansion card is called in the Arduino world. These arrived yesterday.
+expansion card is called in the Arduino world. These arrived yesterday.</p>
 
-It took me longer than I would have liked to get started, with the blinking LED
+<p>It took me longer than I would have liked to get started, with the blinking LED
 hello world of microcontrollers, because there were no instructions about the
 correct settings. After some googling and trial and error I determined that I
 had to set the reset switch on the board to auto and, in the Arduino IDE, set
-the board type to &lt;type&gt;Deumilanove or Nano w/ ATmega328&lt;/type&gt;.  After that
+the board type to <type>Deumilanove or Nano w/ ATmega328</type>.  After that
 I very quickly had it beaconing my callsign on the board mounted LED attached
-to pin 13. So far quite reasonable.
+to pin 13. So far quite reasonable.</p>
 
-Then I decided to plug in the ethernet board and run the example programs.  I
+<p>Then I decided to plug in the ethernet board and run the example programs.  I
 had to stick all the source files in the same directory and change the ip
 address and then I was pinging the board. It took only a few minutes. This I
 thought was pretty ridiculous. Then I used the web server program. It
@@ -168,113 +115,60 @@ worked. I couldn't really believe this - this did not seem like electronics at
 all. I would expect this to have taken weeks of debugging, loose wires, errors
 in PCB design, software bugs and frustration but here it was working in a few
 minutes with no test gear in sight. I have certainly confirmed my get things
-done faster conjecture.
+done faster conjecture.</p>
 
-It was not quite as good though when I wanted to connect stuff up to it. The
+<p>It was not quite as good though when I wanted to connect stuff up to it. The
 board did not come with a data sheet and I could not find much at all online.
 In the end I went to Atmel's web site and downloaded the datasheet for the
-ATmega328P on my board. Included below are some useful figures from it.
+ATmega328P on my board. Included below are some useful figures from it.</p>
 
-Reference
-=========
+<h1>Reference</h1>
 
-Seeeduino - Summary of Initial Setup
------------------------------------
+<h2>Seeeduino - Summary of Initial Setup</h2>
 
-I am using the Seeeduino V2.21 which is also marked ARD128D2P.
+<p>I am using the Seeeduino V2.21 which is also marked ARD128D2P.</p>
 
-It uses the ATmega328P.
+<p>It uses the ATmega328P.</p>
 
-This is the error I got initially:
+<p>This is the error I got initially:</p>
 
-&lt;code&gt;avrdude: stk500_disable(): protocol error, expect=0x14, resp=0x00&lt;/code&gt;
+<p><code>avrdude: stk500_disable(): protocol error, expect=0x14, resp=0x00</code></p>
 
-The solution:
+<p>The solution:</p>
 
-- Move reset switch to auto
-- Set board type to &lt;code&gt;Deumilanove or Nano w/ ATmega328&lt;/code&gt;.
-
-ATmega328P Data
-===============
-
-Absolute Maximums
------------------
-
-&lt;table&gt;
-&lt;tr&gt;&lt;td&gt;Operating Temperature&lt;/td&gt;&lt;td&gt;-55°C to +125°C&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Voltage on any Pin except RESET with respect to Ground&lt;/td&gt; &lt;td&gt;-0.5V to VCC+0.5V&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Maximum Operating Voltage&lt;/td&gt;&lt;td&gt;6.0V&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;DC Current per I/O Pin&lt;/td&gt;&lt;td&gt;40.0mA&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;DC Current VCC and GND Pins&lt;/td&gt;&lt;td&gt;200.0mA&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-Programming
------------
-
-The Arduino environment uses C but with some magic, see
-&lt;a href=&quot;http://arduino.cc/en/Hacking/BuildProcess&quot;&gt;Arduino Build Process&lt;/a&gt;.
+<ul>
+<li>Move reset switch to auto</li>
+<li>Set board type to <code>Deumilanove or Nano w/ ATmega328</code>.</li>
+</ul>
 
 
-Ethernet board
---------------
+<h1>ATmega328P Data</h1>
 
-It's ENC28J60 based. This is not the same as the official one, which uses the
-Wiznet W5100.
+<h2>Absolute Maximums</h2>
 
-Bought from &lt;a
-href=&quot;http://www.ekitszone.com/Products/4-enc28j60-ethernet-shield-for-arduino.aspx&quot;&gt;ekitszone&lt;/a&gt;.
-Looks well made and works.
-</content>
- </entry>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+<table>
+<tr><td>Operating Temperature</td><td>-55°C to +125°C</td></tr>
+<tr><td>Voltage on any Pin except RESET with respect to Ground</td> <td>-0.5V to VCC+0.5V</td></tr>
+<tr><td>Maximum Operating Voltage</td><td>6.0V</td></tr>
+<tr><td>DC Current per I/O Pin</td><td>40.0mA</tr>
+<tr><td>DC Current VCC and GND Pins</td><td>200.0mA</td></tr>
+</table>
+
+
+<h2>Programming</h2>
+
+<p>The Arduino environment uses C but with some magic, see
+<a href="http://arduino.cc/en/Hacking/BuildProcess">Arduino Build Process</a>.</p>
+
+<h2>Ethernet board</h2>
+
+<p>It's ENC28J60 based. This is not the same as the official one, which uses the
+Wiznet W5100.</p>
+
+<p>Bought from <a
+href="http://www.ekitszone.com/Products/4-enc28j60-ethernet-shield-for-arduino.aspx">ekitszone</a>.
+Looks well made and works.</p>
+]]></content>
+  </entry>
+  
 </feed>

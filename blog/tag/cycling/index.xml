@@ -1,284 +1,211 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Alistair MacLeod, MM0HAI: Posts tagged cycling</title>
- <link href="http://mm0hai.net/blog/tag/cycling/index.xml" rel="self"/>
- <link href="http://mm0hai.net"/>
- <updated>2012-03-20T20:12:23+00:00</updated>
- <id>http://mm0hai.net/blog/tag/cycling</id>
- <author>
-   <name>Alistair N. MacLeod</name>
-   <email>anm@mm0hai.net</email>
- </author>
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <entry>
-   <title>HF Bicycle Mobile Experiment - Part 3 - Illustration</title>
-   <link href="http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html"/>
-   <updated>2011-03-25T00:00:00+00:00</updated>
-   <id>http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3</id>
-   <content type="html">Today the unusually good weather required me to take the bike out for
+  <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged cycling]]></title>
+
+  <link href="http://mm0hai.net/blog/tag/cycling/index.xml" rel="self"/>
+  <link href="http://mm0hai.net/"/>
+  <updated>2012-04-06T12:05:49+01:00</updated>
+  <id>http://mm0hai.net/blog/tag/cycling</id>
+  <author>
+    <name><![CDATA[Alistair N. MacLeod]]></name>
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 3 - Illustration]]></title>
+    <link href="http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html"/>
+    <updated>2011-03-25T00:00:00+00:00</updated>
+    <id>http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3</id>
+    <content type="html"><![CDATA[<p>Today the unusually good weather required me to take the bike out for
 a spin. I took some photos and video of the station while I was
-out. It's described in more detail in &lt;a rel=&quot;start&quot;
-href=&quot;/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html&quot;&gt;Part
-1&lt;/a&gt;.
+out. It's described in more detail in <a rel="start"
+href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">Part
+1</a>.</p>
 
-&lt;iframe title=&quot;YouTube video player&quot; width=&quot;480&quot; height=&quot;390&quot;
-src=&quot;http://www.youtube.com/embed/4OeF0XLYJO8&quot; frameborder=&quot;0&quot;
-allowfullscreen&gt;&lt;/iframe&gt;
+<iframe title="YouTube video player" width="480" height="390"
+src="http://www.youtube.com/embed/4OeF0XLYJO8" frameborder="0"
+allowfullscreen></iframe>
 
-Pay no attention to the audio behind the wind-noise - I think all I
-said was that I was using the FT-817 and 5W.
 
-&lt;img
-src=&quot;http://farm6.static.flickr.com/5309/5557283960_fc600b3d91.jpg&quot;
-width=&quot;375&quot; height=&quot;500&quot; alt=&quot;HF Bike Mobile on Blackford Hill&quot; /&gt;
+<p>Pay no attention to the audio behind the wind-noise - I think all I
+said was that I was using the FT-817 and 5W.</p>
 
-15m 1/4 wave and 2 J-Pole. The latter is held together with masking
+<p><img
+src="http://farm6.static.flickr.com/5309/5557283960_fc600b3d91.jpg"
+width="375" height="500" alt="HF Bike Mobile on Blackford Hill" /></p>
+
+<p>15m 1/4 wave and 2 J-Pole. The latter is held together with masking
 tape - I'll need to fix that better as well. Two sections of pole is
 the minimum for the J-Pole. Three sections seems to be ok on most
 roads. Four sections, as shown here, hits trees on some roads. It is
-no higher than a bus though so should be ok on main roads.
+no higher than a bus though so should be ok on main roads.</p>
 
-&lt;img
-src=&quot;http://farm6.static.flickr.com/5252/5557297492_6a1be9e006.jpg&quot;
-width=&quot;375&quot; height=&quot;500&quot; alt=&quot;101_0474.JPG&quot; /&gt;
+<p><img
+src="http://farm6.static.flickr.com/5252/5557297492_6a1be9e006.jpg"
+width="375" height="500" alt="101_0474.JPG" /></p>
 
-The ground tuning capacitor. Red goes to coax braid, yellow to frame.
+<p>The ground tuning capacitor. Red goes to coax braid, yellow to frame.</p>
 
-Everything survived being bashed down the back of the hill, where
+<p>Everything survived being bashed down the back of the hill, where
 there are now steps, some of which I rode over. Low trees ripped off
-the J-Pole though.
+the J-Pole though.</p>
 
-&lt;a href=&quot;http://www.flickr.com/photos/58967572@N03/sets/72157626343215344/&quot;&gt;More photos&lt;/a&gt;</content>
- </entry>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <entry>
-   <title>HF Bicycle Mobile Experiment - Part 2</title>
-   <link href="http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html"/>
-   <updated>2011-03-21T00:00:00+00:00</updated>
-   <id>http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2</id>
-   <content type="html">This evening I tested the antenna system described in my &lt;a
-rel=&quot;prev&quot; href=&quot;/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html&quot;&gt;last
-post&lt;/a&gt;, as well as a 2m J-pole.
+<p><a href="http://www.flickr.com/photos/58967572@N03/sets/72157626343215344/">More photos</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 2]]></title>
+    <link href="http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html"/>
+    <updated>2011-03-21T00:00:00+00:00</updated>
+    <id>http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2</id>
+    <content type="html"><![CDATA[<p>This evening I tested the antenna system described in my <a
+rel="prev" href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">last
+post</a>, as well as a 2m J-pole.</p>
 
-Immediately on leaving the house I was answered on 2m by GM8OTI. This
+<p>Immediately on leaving the house I was answered on 2m by GM8OTI. This
 was an unexpectedly good start - most often when I have tried 2m bike
 radio I get nothing. The J-Pole was probably much better than previous
 antennas and he said he had seen my post on SOTA watch so was
 expecting me. I extended only one section of the mast for the journey,
-which was just enough for the J-pole.
+which was just enough for the J-pole.</p>
+
+<iframe style="" width="425" height="350" frameborder="0"
+scrolling="no" marginheight="0" marginwidth="0"
+src="http://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=&amp;sll=55.982293,-3.196529&amp;sspn=0.000407,0.00121&amp;gl=uk&amp;ie=UTF8&amp;t=h&amp;ll=55.982313,-3.196528&amp;spn=0.000263,0.00057&amp;z=20&amp;output=embed"></iframe>
 
 
-&lt;iframe style=&quot;&quot; width=&quot;425&quot; height=&quot;350&quot; frameborder=&quot;0&quot;
-scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;
-src=&quot;http://maps.google.co.uk/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=&amp;amp;sll=55.982293,-3.196529&amp;amp;sspn=0.000407,0.00121&amp;amp;gl=uk&amp;amp;ie=UTF8&amp;amp;t=h&amp;amp;ll=55.982313,-3.196528&amp;amp;spn=0.000263,0.00057&amp;amp;z=20&amp;amp;output=embed&quot;&gt;&lt;/iframe&gt;
-
-I planned to operate in the vicinity of Newhaven Lighthouse in the
+<p>I planned to operate in the vicinity of Newhaven Lighthouse in the
 hope that proximity to sea water would provide a good ground
 plane. When I arrived at the lighthouse I could start operating very
 quickly as I only had to extend the mast. This is in contrast to the
-usual faff of setting up for &lt;a href=&quot;/sota&quot;&gt;SOTA&lt;/a&gt; which involves guy lines.
+usual faff of setting up for <a href="/sota">SOTA</a> which involves guy lines.</p>
 
-The band (15 meters) sounded dead - I heard no stations at all. I
+<p>The band (15 meters) sounded dead - I heard no stations at all. I
 thought conditions must be bad but I tried calling CQ anyway and,
-although rather slow, I got some results!
+although rather slow, I got some results!</p>
 
-&lt;table&gt;
-&lt;tr&gt;&lt;th&gt;Time&lt;/th&gt; &lt;th&gt;f&lt;/th&gt; &lt;th&gt;Station&lt;/th&gt;&lt;th&gt;Sent&lt;/th&gt; &lt;th&gt;Received&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;~1830&lt;/td&gt; &lt;td&gt;145.500&lt;/td&gt; &lt;td&gt;GM8OTI&lt;/td&gt; &lt;td&gt;59&lt;/td&gt; &lt;td&gt;59-57&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;~1915&lt;/td&gt; &lt;td&gt;21.280&lt;/td&gt;  &lt;td&gt;GM8OTI&lt;/td&gt; &lt;td&gt;21&lt;/td&gt; &lt;td&gt;?&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;1929&lt;/td&gt;  &lt;td&gt;21.280&lt;/td&gt;  &lt;td&gt;KA1ANW&lt;/td&gt; &lt;td&gt;57&lt;/td&gt; &lt;td&gt;57&lt;/td&gt; &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;1942&lt;/td&gt;  &lt;td&gt;21.280&lt;/td&gt;  &lt;td&gt;WD8BEY&lt;/td&gt; &lt;td&gt;59&lt;/td&gt; &lt;td&gt;59&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;2007&lt;/td&gt;  &lt;td&gt;21.315&lt;/td&gt;  &lt;td&gt;N8YHY&lt;/td&gt;  &lt;td&gt;58&lt;/td&gt; &lt;td&gt;59? Did not note&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;2009&lt;/td&gt;  &lt;td&gt;21.290&lt;/td&gt;  &lt;td&gt;C06LC&lt;/td&gt;  &lt;td&gt;59&lt;/td&gt; &lt;td&gt;59&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
+<table>
+<tr><th>Time</th> <th>f</th> <th>Station</th><th>Sent</th> <th>Received</th></tr>
+<tr><td>~1830</td> <td>145.500</td> <td>GM8OTI</td> <td>59</td> <td>59-57</td></tr>
+<tr><td>~1915</td> <td>21.280</td>  <td>GM8OTI</td> <td>21</td> <td>?</td></tr>
+<tr><td>1929</td>  <td>21.280</td>  <td>KA1ANW</td> <td>57</td> <td>57</td> </tr>
+<tr><td>1942</td>  <td>21.280</td>  <td>WD8BEY</td> <td>59</td> <td>59</td></tr>
+<tr><td>2007</td>  <td>21.315</td>  <td>N8YHY</td>  <td>58</td> <td>59? Did not note</td></tr>
+<tr><td>2009</td>  <td>21.290</td>  <td>C06LC</td>  <td>59</td> <td>59</td></tr>
+</table>
 
-I had never heard the CO prefix before but didn't think much of it
+
+<p>I had never heard the CO prefix before but didn't think much of it
 until I got home and looked it up. QRZ.com tells me C06LC is in Cuba,
 4441 miles away. I think voltage was down to about 10V or less at this
 point so I probably wasn't even using the nominal 5W I usually
 claim. I think that is my furthest contact - QRP or otherwise. It's at
-least 888 miles / watt and probably over 1000.
+least 888 miles / watt and probably over 1000.</p>
 
-&lt;img class=&quot;centre&quot;
-src=&quot;http://farm6.static.flickr.com/5016/5548844826_fa0f65df1a_z.jpg&quot;
-width=&quot;480&quot; height=&quot;640&quot; alt=&quot;Newhaven Lighthouse&quot; title=&quot;Newhaven
-Lighthouse&quot; /&gt;
+<p><img class="centre"
+src="http://farm6.static.flickr.com/5016/5548844826_fa0f65df1a_z.jpg"
+width="480" height="640" alt="Newhaven Lighthouse" title="Newhaven
+Lighthouse" /></p>
 
-Effectiveness varied greatly with location. Near the lighthouse
+<p>Effectiveness varied greatly with location. Near the lighthouse
 was good but when I tried moving north west along the coast it was far
 worse. I heard N8YHY at S1 - when I moved back to the lighthouse it
-increased to S8.
+increased to S8.</p>
 
-I spent some time after these contacts listening on bands from 160m to
+<p>I spent some time after these contacts listening on bands from 160m to
 10m. I was surprised to hear stations on 160 meters with my short
 antenna - one who sounded English on SSB and several morse which I
 didn't try and decode. I also tried adding a miracle whip tuner. I
 think it tuned on 17m and 20m but battery was now flat so could not
-test properly.
+test properly.</p>
 
-It was generally a pleasant evening - warm and dry but windy. The sky
+<p>It was generally a pleasant evening - warm and dry but windy. The sky
 was clear giving good star display and a shooting star. There were
 some very good photos I would like to have taken - with railings, bike
 and mast in the foreground, lighthouse beyond that and stars behind -
 but my camera phone was not up to the job. I was not, on this
 occasion, questioned by police or public about my unusual activities,
-nor about the fact my bike had wires on it. As we now know, &lt;a
-href=&quot;http://afp.google.com/article/ALeqM5i_pDxEAYSiWgBNlLs8ALAyGID7Lw&quot;&gt;wires
-are evil&lt;/a&gt; unless they come in a box with the name of a big company
-on it.
+nor about the fact my bike had wires on it. As we now know, <a
+href="http://afp.google.com/article/ALeqM5i_pDxEAYSiWgBNlLs8ALAyGID7Lw">wires
+are evil</a> unless they come in a box with the name of a big company
+on it.</p>
 
-In conclusion, I declare this operation successful and intend to
-experiment further.
+<p>In conclusion, I declare this operation successful and intend to
+experiment further.</p>
 
-&lt;div class=&quot;centre&quot;&gt; 
-&lt;img src=&quot;http://farm6.static.flickr.com/5103/5548844604_b085b8452f_z.jpg&quot;
-width=&quot;640&quot; height=&quot;480&quot; alt=&quot;Bicycle mobile - FT-817 in bar bag&quot;
-title=&quot;The clock is on GMT + 1 (local time was GMT)&quot; /&gt;
-&lt;/div&gt;
+<div class="centre"> 
+<img src="http://farm6.static.flickr.com/5103/5548844604_b085b8452f_z.jpg"
+width="640" height="480" alt="Bicycle mobile - FT-817 in bar bag"
+title="The clock is on GMT + 1 (local time was GMT)" />
+</div>
 
-&lt;h3&gt;Solar Data&lt;/h3&gt; For future reference / comparison, the solar data
+
+
+
+<h3>Solar Data</h3>
+
+
+<p> For future reference / comparison, the solar data
 from N0NBH for this evening (2115 UTC I think it was but I can't find
-historical data to check) was:
+historical data to check) was:</p>
 
-SFI 101
+<p>SFI 101
 SN 47
 A-Index 3
-K-Index 1
+K-Index 1</p>
 
-15 meter conditions were pronounced to be fair.
+<p>15 meter conditions were pronounced to be fair.</p>
 
-&lt;a
-rel=&quot;next&quot; href=&quot;/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html&quot;&gt;Part
-3 - Illustration - Photos and Video on Blackford Hill&lt;/a&gt;</content>
- </entry>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <entry>
-   <title>HF Bicycle Mobile Experiment - Part 1</title>
-   <link href="http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html"/>
-   <updated>2011-03-19T00:00:00+00:00</updated>
-   <id>http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1</id>
-   <content type="html">Today I decided to make an HF antenna for my bike. I did an experiment
+<p><a
+rel="next" href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">Part
+3 - Illustration - Photos and Video on Blackford Hill</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 1]]></title>
+    <link href="http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html"/>
+    <updated>2011-03-19T00:00:00+00:00</updated>
+    <id>http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1</id>
+    <content type="html"><![CDATA[<p>Today I decided to make an HF antenna for my bike. I did an experiment
 with this once last year but it was not terribly successful. That
-experiment used the &lt;a href=&quot;http://www.g4ilo.com/atx.html&quot;&gt;ATX
-antenna&lt;/a&gt;. No contacts were made but I learned something about
-grounding.
+experiment used the <a href="http://www.g4ilo.com/atx.html">ATX
+antenna</a>. No contacts were made but I learned something about
+grounding.</p>
 
-I decided to use the frame as a ground. &lt;a
-href=&quot;http://www.qrz.com/callsign/G4AKC&quot;&gt;G4AKC&lt;/a&gt; says that this can
+<p>I decided to use the frame as a ground. <a
+href="http://www.qrz.com/callsign/G4AKC">G4AKC</a> says that this can
 be improved by tuning the frame. I found that with a variable capacitor
 in series with the frame I could adjust for low SWR with the ATX set
-up as in the instructions. I can't remember what bands I tried it on.
+up as in the instructions. I can't remember what bands I tried it on.</p>
 
-The primary aim this time was to improve the ground. Last time, I had
+<p>The primary aim this time was to improve the ground. Last time, I had
 a very temporary setup with croc clips to the frame so I decided to
 improve it with fixed wires. I cleaned and sanded around a bolt on the
 carrier and two brazons on the frame and connected the points with
 some mains wire. I also attached a flexible wire to connect to the
-antenna system.
+antenna system.</p>
 
-While I was pondering how best to connect the aerial and earth with
+<p>While I was pondering how best to connect the aerial and earth with
 the very limited selection of BNC parts I had I decided I might as
 well make a proper antenna, which would make this easier. I took some
 of the sections of the fishing pole I use for SOTA and duct taped them
 to the carrier. The longest I thought I could reasonably get away with
 was 4m which is what I used. I decided to use the lowest HF band I
 could with the given antenna space, as the higher bands seem to be
-open far less often, so I decided on a 1/4 wave for the 21MHz band.
+open far less often, so I decided on a 1/4 wave for the 21MHz band.</p>
 
-I started with 3.5m of wire and found the tuning was way off. I
+<p>I started with 3.5m of wire and found the tuning was way off. I
 decided to try and tune it against a good earth so I drove in an earth
 stake. This actually made it slightly worse. I then laid out three
 radials and tried various combinations before giving up on finding an
 improvement. I then started trying to tune to what I had. I had to cut
 away quite a lot of wire but got the SWR down to 1.1. This was with
-the capacitor in series with the frame.
+the capacitor in series with the frame.</p>
 
-I tied a SLAB to the carrier and put the FT-817 in the bar bag and set
+<p>I tied a SLAB to the carrier and put the FT-817 in the bar bag and set
 off for a maiden voyage. The SWR remained constant despite shaking,
 moving of antenna and presumably different ground, although I did only
 go around the block. I could hear several American stations and one in
@@ -286,49 +213,32 @@ Africa but my CQs were not answered. Eventually though, some
 unexpected success! I replied to N8RA in Connecticut and received a
 (contest) 59. He had no trouble copying my callsign first time so it
 must have been a reasonable signal. I tried for a while longer but
-with no further contacts so stopped for the day.
+with no further contacts so stopped for the day.</p>
 
-&lt;h3&gt;Future Work&lt;/h3&gt;
-Some ideas:
+<h3>Future Work</h3>
 
-* Other bands - I think I can fit in 17m and 10m may be useful now too.
 
-* Replace top section of fibreglass and wire with bendy steel
-  wire. This should reduce wind resistance, weight and effect of
-  crashing into trees.
+<p>Some ideas:</p>
 
-* Try other earth tuning arrangements. Measure earth current -
-  possibly with a clip on ferrite transformer I got from the
-  electricity company.
+<ul>
+<li><p>Other bands - I think I can fit in 17m and 10m may be useful now too.</p></li>
+<li><p>Replace top section of fibreglass and wire with bendy steel
+wire. This should reduce wind resistance, weight and effect of
+crashing into trees.</p></li>
+<li><p>Try other earth tuning arrangements. Measure earth current -
+possibly with a clip on ferrite transformer I got from the
+electricity company.</p></li>
+<li><p>Physical improvement - replace duct tape. I require a system
+for easy removal, connection and disconnection. Must also be
+weather, oil and dirt proof. Should not reduce load carrying
+capacity of rack - needs to stay out the way of panniers.</p></li>
+</ul>
 
-* Physical improvement - replace duct tape. I require a system
-  for easy removal, connection and disconnection. Must also be
-  weather, oil and dirt proof. Should not reduce load carrying
-  capacity of rack - needs to stay out the way of panniers.
 
-&lt;a
-rel=&quot;next&quot; href=&quot;/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html&quot;&gt;Part
-2 - Testing by the Sea&lt;/a&gt;</content>
- </entry>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+<p><a
+rel="next" href="/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html">Part
+2 - Testing by the Sea</a></p>
+]]></content>
+  </entry>
+  
 </feed>
