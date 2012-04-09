@@ -28,7 +28,12 @@ edited commit, lets you programmatically edit all commit messages
 One of the things I wanted to do was remove the comments that had been
 added by git-svn. This command did the trick:
 
-<code class="block">git filter-branch -f --msg-filter 'sed s/git-svn.*$//g' -- --all</code>
+<code class="block">git filter-branch -f --msg-filter 'sed "s/git-svn.*$//g"' -- --all</code>
+
+If you have any tags, you should add <code>--tag-name-filter cat</code>. This
+updates the tags to point to the modified commits. It's more complicated if
+the tags are signed - see the <code>git-fliter-branch</code> man page for
+details.
 
 Before this operation, git makes a backup, referred to as the
 original. If there is already a backup git will, be default, refuse to
@@ -43,7 +48,7 @@ have not removed the originals, which have been kept as backups. To
 purge these from the repository, you need to remove all references to
 them and then run the garbage collector.
 
-Edit these files to remove any of these references:
+Edit these files to delete any lines which refer to the original commits:
 <pre class="block">
 <code class="block">
 .git/info/refs
