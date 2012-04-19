@@ -43,3 +43,5 @@ sailing the Atlantic and travelling in Patagonia came together.
 
 I resigned and started planning my trip. I heard that many boats cross from Las
 Palmas de Gran Canaria so I flew there to look for a boat.
+
+<a href="http://www.flickr.com/photos/58967572@N03/6431731859/" title="Cloud computing, or stupid things to carry to 6000ft by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7023/6431731859_5862ee9677_z.jpg" width="640" height="480" alt="Cloud computing, or stupid things to carry to 6000ft"></a>
