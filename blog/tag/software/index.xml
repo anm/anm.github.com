@@ -5,7 +5,7 @@
 
   <link href="http://mm0hai.net/blog/tag/software/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-04-09T19:08:19+01:00</updated>
+  <updated>2012-04-19T18:20:56+01:00</updated>
   <id>http://mm0hai.net/blog/tag/software</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -722,7 +722,12 @@ edited commit, lets you programmatically edit all commit messages</p>
 <p>One of the things I wanted to do was remove the comments that had been
 added by git-svn. This command did the trick:</p>
 
-<p><code class="block">git filter-branch -f --msg-filter 'sed s/git-svn.*$//g' -- --all</code></p>
+<p><code class="block">git filter-branch -f --msg-filter 'sed "s/git-svn.*$//g"' -- --all</code></p>
+
+<p>If you have any tags, you should add <code>--tag-name-filter cat</code>. This
+updates the tags to point to the modified commits. It's more complicated if
+the tags are signed - see the <code>git-fliter-branch</code> man page for
+details.</p>
 
 <p>Before this operation, git makes a backup, referred to as the
 original. If there is already a backup git will, be default, refuse to
@@ -737,7 +742,7 @@ have not removed the originals, which have been kept as backups. To
 purge these from the repository, you need to remove all references to
 them and then run the garbage collector.</p>
 
-<p>Edit these files to remove any of these references:</p>
+<p>Edit these files to delete any lines which refer to the original commits:</p>
 
 <pre class="block">
 <code class="block">
