@@ -4,13 +4,13 @@ style: 'body {background-image:
        url("/img/slide-cat.gif");
        color: white;} a, a:visited {color: white} #main, #sidebar {background-color: rgba(0,0,0,0.7); border-radius:15px; padding: 15px}'
 
-title: Nyancat, Psytrance, Meditation, Programming
+title: Nyan cat, Psytrance, Meditation, Programming
 tags: [software, life, nyancat]
 ---
 
 My highest score at <a href="http://nyan.cat">nyan.cat</a> was achieved when
 programming. I was at work and struggling to get much done. Then I put on
-nyancat and within a few hours I had resolved several issues. I guessed it
+nyan cat and within a few hours I had resolved several issues. I guessed it
 might be helping because it occupied the part of my brain that usually would be
 free to distract me by generating unrelated thoughts.
 
@@ -25,6 +25,6 @@ concentration. I think this state of focus is what some programmers call flow.
 
 I suspect now that trance music and meditation probably produce similar mental
 states, which aid concentration and getting things done. I therefore recommend
-that offices should play repetitive music such as nyancat to boost
+that offices should play repetitive music such as nyan cat to boost
 productivity and increase moral. :) I also recommend hacking at psytrance
 parties.
