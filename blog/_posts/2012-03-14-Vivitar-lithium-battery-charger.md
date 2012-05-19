@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vivitar Charger for Canon NB2L Battery
+title: 'Teardown: Vivitar Charger for Canon NB2L Battery'
 tags: [electronics]
 ---
 
