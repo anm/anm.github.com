@@ -5,7 +5,7 @@
 
   <link href="http://mm0hai.net/blog/tag/haskell/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-05-10T07:10:08+01:00</updated>
+  <updated>2012-05-21T20:19:17+01:00</updated>
   <id>http://mm0hai.net/blog/tag/haskell</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -17,63 +17,62 @@
     <link href="http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html"/>
     <updated>2011-07-31T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions</id>
-    <content type="html"><![CDATA[<h2>Why they're so good</h2>
+    <content type="html"><![CDATA[Why they're so good
+-------------------
 
-<p>I like list comprehensions. They are concise. Until recently though, I did not
+I like list comprehensions. They are concise. Until recently though, I did not
 know why. Reading <a
 href="http://www.cs.kent.ac.uk/people/staff/sjt/craft2e">Thompson</a>, I
 realised it is because they combine three fundamental patterns of functional
-programming with little syntax. The patterns are generate, filter, and map.</p>
+programming with little syntax. The patterns are generate, filter, and map.
 
-<p>The generation stage produces one or more lists, often using something like
-<code>[1..]</code>, the list of the natural numbers.  Filters are specified as comma
-separated boolean expressions.  The map operation is defined before the <code>|</code>.
+The generation stage produces one or more lists, often using something like
+`[1..]`, the list of the natural numbers.  Filters are specified as comma
+separated boolean expressions.  The map operation is defined before the `|`.
 There is some more detail in the <a
 href="http://haskell.org/onlinereport/exps.html#list-comprehensions">Haskell
-Report</a>.</p>
+Report</a>.
 
-<h2>They're not set builder</h2>
+They're not set builder
+-----------------------
 
-<p>It's tempting to think of list comprehensions as set builder notation, which
+It's tempting to think of list comprehensions as set builder notation, which
 clearly they are meant to resemble. The problem is they are not and thinking
-of them this way can lead to problems when it is time to evaluate them.</p>
+of them this way can lead to problems when it is time to evaluate them.
 
-<p>Obviously, they are lists, not sets. This will restrict how they are evaluated
+Obviously, they are lists, not sets. This will restrict how they are evaluated
 - order matters. It's also unhelpful if you really do want a set but the way
-you write the list comprehension generates some values more than once.</p>
+you write the list comprehension generates some values more than once.
 
-<h2>How you write them matters</h2>
+How you write them matters
+--------------------------
 
-<p>Pure functions are (<a
+Pure functions are (<a
 href="http://en.wikipedia.org/wiki/Extensionality">extensionally</a>) equal if
 the outputs are the same for all inputs. When there are several ways to write
 the same function, a perfect compiler would know the most efficient way to
 calculate each result. Unfortunately, it seems that GHC is not perfect and there
 are in practice dramatic differences in execution time depending on how
-functions are written.</p>
+functions are written.
 
-<p>For example, when solving Project Euler problem 9, I wrote something a bit
-like this:</p>
+For example, when solving Project Euler problem 9, I wrote something a bit
+like this:
 
 <pre><code>
 slow n = [ (a, b, c) | a <- [1..n], b <- [1..n], c <- [1..n], 
           (a + b + c) == n ]
 </code></pre>
-
-
-<p>Which is equal to this in result:</p>
-
+Which is equal to this in result:
 <pre><code>
 fast n = [ (a, b, c) | a <- [1..n], b <- [1..n], let c = n - (a + b), 
           (a + b + c) == n ]
 </code></pre>
 
+but not in execution time. For n = 1000, fast took less than a second and slow
+did not complete within minutes.
 
-<p>but not in execution time. For n = 1000, fast took less than a second and slow
-did not complete within minutes.</p>
-
-<p>I would guess GHC is using nested loops, so slow will have time complexity
-<code>O(n^3)</code> and fast <code>O(n^2)</code>.</p>
+I would guess GHC is using nested loops, so slow will have time complexity
+`O(n^3)` and fast `O(n^2)`.
 ]]></content>
   </entry>
   
@@ -82,24 +81,24 @@ did not complete within minutes.</p>
     <link href="http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html"/>
     <updated>2011-07-17T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1</id>
-    <content type="html"><![CDATA[<p>I'm learning Haskell at the moment, and have been doing so slowly over the
-past couple of months.</p>
+    <content type="html"><![CDATA[I'm learning Haskell at the moment, and have been doing so slowly over the
+past couple of months.
 
-<p>I know many languages to some extent but have never really practiced
+I know many languages to some extent but have never really practiced
 functional programming seriously. I am familiar with some of the concepts,
 which I have picked up from languages with functional aspects, such as perl
 (see <a href="http://hop.perl.plover.com">Higher Order Perl</a>) and
 javascript, from speaking to a more knowledgeable friend and of course from
 wikipedia. I also started to learn common lisp a few years ago and got as far
 as reading most of a book before having to do something else. (University
-work. It was quite good at getting in the way of me learning things.)</p>
+work. It was quite good at getting in the way of me learning things.)
 
-<p>I decided to have another go at learning functional programming properly. It
+I decided to have another go at learning functional programming properly. It
 is an important programming style which I do not fully understand and I think
 it is important that I should. I do not like not knowing things and I feel
-stupid when talking to people who know more about programming languages.</p>
+stupid when talking to people who know more about programming languages.
 
-<p>I think Haskell is probably the best choice as a language to learn functional
+I think Haskell is probably the best choice as a language to learn functional
 programming because, unlike lisp, it does its best to be <a
 href="http://en.wikipedia.org/wiki/Purely_functional">purely functional</a>,
 that is functions have no side effects. This should force me to do things
@@ -109,33 +108,33 @@ Glasgow, home of the Glasgow Haskell Compiler (GHC). I'm actually in Edinburgh
 at the moment, home of <a
 href="http://en.wikipedia.org/wiki/ML_(programming_language)">ML</a> but if
 you have a look in lib.ed.ac.uk, you will see hunners (a Glaswegian term) of
-Haskell books, not ML.</p>
+Haskell books, not ML.
 
-<p>Another good choice for learning functional programming would be <a
+Another good choice for learning functional programming would be <a
 href="http://mitpress.mit.edu/sicp/">Structure and Interpretation of Computer
 Programs</a>, also called SICP and the Wizard Book, which uses scheme. I
 suspect it is worth following this course even if you do already know how to
 program functionally as it is generally highly thought of and I know of good
 programmers who have found it useful, despite it being designed as first year
-course.</p>
+course.
 
-<p>I first saw Haskell in second year at Glasgow when I went to a few classes on
+I first saw Haskell in second year at Glasgow when I went to a few classes on
 it. I was studying electronics too though so couldn't officially take the
 class and I didn't get very far. It seems I have now ended up using the
-Glasgow Haskell Compiler for the first time here in Edinburgh. :)</p>
+Glasgow Haskell Compiler for the first time here in Edinburgh. :)
 
-<p>Compilers and books then, which should you use? I am reading <a
+Compilers and books then, which should you use? I am reading <a
 href="http://www.cs.kent.ac.uk/people/staff/sjt/craft2e">Thompson</a>. This
 was used for the course in Glasgow and also fills the shelves of the Edinburgh
 University library. I noticed on the book website there is actually a <a
-href="http://www.haskellcraft.com/craft3e/Home.html"> third edition</a> now.</p>
+href="http://www.haskellcraft.com/craft3e/Home.html"> third edition</a> now.
 
-<p>A rather more trendy book is <a href="http://learnyouahaskell.com/">Learn You
+A rather more trendy book is <a href="http://learnyouahaskell.com/">Learn You
 a Haskell for Great Good!</a>. I am told this is less dry than Thomson but I'm
 not sure if soggy books are a good thing. It does have a nice picture of an
-elephant on the cover though and pretty colours on the website.</p>
+elephant on the cover though and pretty colours on the website.
 
-<p>What about a compiler and interpreter? An interactive interpreter, or REPL
+What about a compiler and interpreter? An interactive interpreter, or REPL
 (Read Eval Print Loop) as lispers call it, is certainly a good thing to have
 and learn with. Thompson uses <a href="http://www.haskell.org/hugs/">HUGS</a>,
 which I started with but the <a href="http://www.haskell.org/ghc/">GHC</a>
@@ -143,20 +142,19 @@ also has an interpreter, GHCi, which I have now switched to. I note that the
 latest edition of Thompson uses GHCi too. GHC seems to be the standard
 compiler so I would recommend using it. See also <a
 href="http://www.haskell.org/haskellwiki/Implementations">Haskell
-Implementations</a>.</p>
+Implementations</a>.
 
-<p>Back to what I'm doing to learn Haskell then. I'm now on Chapter 14 of
+Back to what I'm doing to learn Haskell then. I'm now on Chapter 14 of
 Thompson, Algebraic Types, but skipped most of the exercises, which I intend to
 go back to. I'm also doing <a href="http://projecteuler.net/">Project
 Euler</a>. These mathematical problems seem well suited to a mathematical sort
 of language like Haskell but perhaps this is making it too easy. There is the
 old question of whether functional languages are suited to real problems, and
 the fact that I won't know how to print "Hello, world!" until Chapter
-18.</p>
+18.
 
-<p>I think I'll leave it at that for now but I intend to say more in further
-posts.</p>
-]]></content>
+I think I'll leave it at that for now but I intend to say more in further
+posts.]]></content>
   </entry>
   
 </feed>

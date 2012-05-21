@@ -5,7 +5,7 @@
 
   <link href="http://mm0hai.net/blog/tag/python/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-05-10T07:10:08+01:00</updated>
+  <updated>2012-05-21T20:19:17+01:00</updated>
   <id>http://mm0hai.net/blog/tag/python</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -17,35 +17,34 @@
     <link href="http://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference.html"/>
     <updated>2011-05-22T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference</id>
-    <content type="html"><![CDATA[<p>This weekend we had the <a
+    <content type="html"><![CDATA[This weekend we had the <a
 href="http://www.pythonedinburgh.org/wiki/2011-May-Mini-Conference">Python
 Edinburgh Mini Conference</a>. I don't really use python, as I typically use
 perl for the sorts of things I might want it for, but I thought it would be
-interesting to go along and see what was happening in the python world.</p>
+interesting to go along and see what was happening in the python world.
 
-<p>I thought it would probably be helpful if I actually knew some python, so on
+I thought it would probably be helpful if I actually knew some python, so on
 Friday night after the pub I went home to learn. It's just pseudocode with
 spaces, right? I wasn't actually a complete beginner - I had a play with it a
 couple of months ago when I wrote map and reduce scripts to implement a search
-indexer with Hadoop and solved a few of the Project Euler problems.</p>
+indexer with Hadoop and solved a few of the Project Euler problems.
 
-<p>It looked like the conference was going to have a large django component so I
+It looked like the conference was going to have a large django component so I
 did the <a
 href="http://docs.djangoproject.com/en/dev/intro/tutorial01/">tutorial</a>. It
 was very straightforward and I had an application running that evening. My
-main concern with the tutorial was that there was no magical pony on a stick.</p>
+main concern with the tutorial was that there was no magical pony on a stick.
 
-<p><img alt="Django pony"
+<img alt="Django pony"
 src="http://dl-web.dropbox.com/u/10320/django/wallpaper/magic-django-pony-iphone.png"
-/></p>
+/>
 
-<p>I discovered <a href="http://www.tipfy.org">Tipfy</a>, a framework for Google
+I discovered <a href="http://www.tipfy.org">Tipfy</a>, a framework for Google
 App Engine. One of the things that got me wondering if I should be using more
 python and less perl is that there are PaaS providers only for the former, so
 this is probably worth looking at more closely. I've also heard good things
 about <a href="http://www.nltk.org">NLTK</a> which I would like to play with
-some time.</p>
-]]></content>
+some time.]]></content>
   </entry>
   
 </feed>
