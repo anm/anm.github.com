@@ -5,7 +5,7 @@
 
   <link href="http://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-05-21T20:19:17+01:00</updated>
+  <updated>2012-06-27T15:17:56+01:00</updated>
   <id>http://mm0hai.net/blog/tag/electronics</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -17,20 +17,20 @@
     <link href="http://mm0hai.net/blog/2012/05/21/Multimeters-available-in-UK.html"/>
     <updated>2012-05-21T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2012/05/21/Multimeters-available-in-UK</id>
-    <content type="html"><![CDATA[I used to have only cheap and nasty multimeters, but Dave Jones of the EEVBlog
+    <content type="html"><![CDATA[<p>I used to have only cheap and nasty multimeters, but Dave Jones of the EEVBlog
 convinced me that it was worth getting a <a
 href="http://www.youtube.com/watch?v=ZoeUgMFLyAw">half decent</a> one. I like
 his videos; they are worth watching to learn about meters in general as well
-as the specific ones he reviews.
+as the specific ones he reviews.</p>
 
-I spent some time looking for where I could get good brand meters here for not
+<p>I spent some time looking for where I could get good brand meters here for not
 too ridiculous prices (relative to the US and Australia). I made a <a
 href="https://docs.google.com/spreadsheet/ccc?key=0AlSnQD_VeghadEpwSmQ5cFZRQkM5OWxxSjUwZm83OHc">spreadsheet
 of Amprobe, Extech and UNI-T meters between £25 and about £70 and where you
 can buy them</a>. Maybe some of the other brands available in the UK are a
-better deal but I have no data on their quality.
+better deal but I have no data on their quality.</p>
 
-I've now ordered an Extech EX330.
+<p>I've now ordered an Extech EX330.</p>
 ]]></content>
   </entry>
   
@@ -39,70 +39,68 @@ I've now ordered an Extech EX330.
     <link href="http://mm0hai.net/blog/2012/03/14/Vivitar-lithium-battery-charger.html"/>
     <updated>2012-03-14T00:00:00+00:00</updated>
     <id>http://mm0hai.net/blog/2012/03/14/Vivitar-lithium-battery-charger</id>
-    <content type="html"><![CDATA[I bought this battery charger with a Canon EOS 350D, my first SLR. I wanted to
+    <content type="html"><![CDATA[<p>I bought this battery charger with a Canon EOS 350D, my first SLR. I wanted to
 check if it was any good before I trusted it with a new battery. I am designing
 a power system for my bike at the moment and have been reading about batteries
 and methods of charging them so I am interested to see how it works and need
-to decide whether to use it on my bike or to make my own charger.
+to decide whether to use it on my bike or to make my own charger.</p>
 
-<a href="http://www.flickr.com/photos/58967572@N03/6838509368/" title="Vivitar charger for Canon NB2L lithium battery - front case by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7178/6838509368_63b77a3b61.jpg" width="343" height="500" alt="Vivitar charger for Canon NB2L lithium battery - front case"></a>
+<p><a href="http://www.flickr.com/photos/58967572@N03/6838509368/" title="Vivitar charger for Canon NB2L lithium battery - front case by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7178/6838509368_63b77a3b61.jpg" width="343" height="500" alt="Vivitar charger for Canon NB2L lithium battery - front case"></a></p>
 
-Taking it Apart
-===============
+<h1>Taking it Apart</h1>
 
-One of the first things I noticed was the missing components. The filter
+<p>One of the first things I noticed was the missing components. The filter
 inductors and capacitors on the mains input are missing. These components are
 important in a switching power supply to avoid transmitting noise over the HF
 spectrum. Probably what has happened is they were put in to meet regulator
 requirements, then once the design had been approved they were removed to save
 money - most people would not notice. This is really nasty and poor quality,
-and probably illegal.
+and probably illegal.</p>
 
-<a href="http://www.flickr.com/photos/58967572@N03/6984633733/" title="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7182/6984633733_4d0d050b5d.jpg" width="500" height="375" alt="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors"></a>
+<p><a href="http://www.flickr.com/photos/58967572@N03/6984633733/" title="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7182/6984633733_4d0d050b5d.jpg" width="500" height="375" alt="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors"></a></p>
 
-<a href="http://www.flickr.com/photos/58967572@N03/6984634431/" title="Vivitar charger for Canon NB2L lithium battery - Missing components by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7182/6984634431_111b073a25.jpg" width="473" height="500" alt="Vivitar charger for Canon NB2L lithium battery - Missing com-pents"></a>
+<p><a href="http://www.flickr.com/photos/58967572@N03/6984634431/" title="Vivitar charger for Canon NB2L lithium battery - Missing components by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7182/6984634431_111b073a25.jpg" width="473" height="500" alt="Vivitar charger for Canon NB2L lithium battery - Missing com-pents"></a></p>
 
-There is no DC converter chip or microcontroller - it is made from discrete
-components and a comparator IC.
+<p>There is no DC converter chip or microcontroller - it is made from discrete
+components and a comparator IC.</p>
 
-There are some more <a
+<p>There are some more <a
 href="http://www.flickr.com/photos/58967572@N03/sets/72157629225738410/">photos
-on flickr</a>.
+on flickr</a>.</p>
 
-Correctness
-===========
+<h1>Correctness</h1>
 
-Does the charger correctly implement a charging algorithm which is good for
-the battery?
+<p>Does the charger correctly implement a charging algorithm which is good for
+the battery?</p>
 
-I investigated the output by loading it with resistors. I powered the charger
-with the DC "car charger" input rather than the mains.
+<p>I investigated the output by loading it with resistors. I powered the charger
+with the DC "car charger" input rather than the mains.</p>
 
-<img src="/res/2012-03-14-Vivitar-lithium-battery-charger/VI-curve.png"
-alt="Graph of current and voltage output of charger with different loads. A table of this data is linked from this page.">
+<p><img src="/res/2012-03-14-Vivitar-lithium-battery-charger/VI-curve.png"
+alt="Graph of current and voltage output of charger with different loads. A table of this data is linked from this page."></p>
 
-The data shown above are <a
-href="/res/2012-03-14-Vivitar-lithium-battery-charger/VI-curve">here</a>.
+<p>The data shown above are <a
+href="/res/2012-03-14-Vivitar-lithium-battery-charger/VI-curve">here</a>.</p>
 
-The charger supplies 0.57A until the voltage reaches somewhere between 7.35
+<p>The charger supplies 0.57A until the voltage reaches somewhere between 7.35
 and 8.22 volts and then eventually settles down to a constant voltage of 8.39
-volts.
+volts.</p>
 
-The battery I have is 7.2V, 1200mAh (more than the original battery). 0.57A
+<p>The battery I have is 7.2V, 1200mAh (more than the original battery). 0.57A
 gives a charge rate of 0.78C. Between 0.2 and 0.7 C is recommended by [2] so
 this seems quite reasonable. I don't have a datasheet for the battery so I
 will assume the typical peak voltage of 4.2V / cell, 3.6V nominal. This means
 the maximum voltage from the charger should be 8.4V, so it is within a +/-
 50mV tolerance[1]. Within the normal charging range, it seems to do the right
-thing.
+thing.</p>
 
-However, typically when a cell is discharged to below about 2.5V, it must be
+<p>However, typically when a cell is discharged to below about 2.5V, it must be
 charged at 0.1C or less until it reaches 3V [3]. The charger is happy to
 supply 0.78C at 4.93V, or 2.47V / cell. It seems the charger could damage
 batteries which are severely discharged, perhaps by self discharge from being
-stored for some time.
+stored for some time.</p>
 
-The other difficulty is when to terminate the charge. This should happen when
+<p>The other difficulty is when to terminate the charge. This should happen when
 charging current drops to something like 10% to 3% of the peak charge current,
 depending on which source I believe. That is 17mA minimum anyway, and I did
 not measure that low, so I don't know what the charger does. It is still
@@ -110,32 +108,33 @@ charging at 42mA though. Some sources recommend a 1h timer to limit the
 constant voltage phase. It looks like the charger doesn't have this. One way
 to simplify the termination requirement could be to use a voltage less than the
 peak, which this charger seems to do by 10mV. This might avoid overcharging
-but not fully charge the battery. I don't know for sure though.
+but not fully charge the battery. I don't know for sure though.</p>
 
-I also note that the charger does not make use of the temperature terminal on
-the battery.
+<p>I also note that the charger does not make use of the temperature terminal on
+the battery.</p>
 
-Efficiency
-==========
+<h1>Efficiency</h1>
 
-At 14V in and 0.57A, 7.32V out, efficiency was 68%. That's rather
+<p>At 14V in and 0.57A, 7.32V out, efficiency was 68%. That's rather
 disappointing. I think 95% should be possible, or at least 90%. I got a rough
 idea of this from the datasheet for the MAX1556 - it claims around 95%
-efficiency at 600mA, 5V in, 3.3V out.
+efficiency at 600mA, 5V in, 3.3V out.</p>
 
-Conclusion
-==========
+<h1>Conclusion</h1>
 
-The charger is probably adequate if the battery is not discharged too far, it
+<p>The charger is probably adequate if the battery is not discharged too far, it
 is supervised, and the battery is not left in the charger for too long. I will
-use it for now but would really prefer something better.
+use it for now but would really prefer something better.</p>
 
-References
-==========
+<h1>References</h1>
 
-1. http://batteryuniversity.com/learn/article/charging_lithium_ion_batteries
-2. https://www.powerstream.com/li.htm
-3. http://www.ka7oei.com/ft817_roar.html]]></content>
+<ol>
+<li>http://batteryuniversity.com/learn/article/charging_lithium_ion_batteries</li>
+<li>https://www.powerstream.com/li.htm</li>
+<li>http://www.ka7oei.com/ft817_roar.html</li>
+</ol>
+
+]]></content>
   </entry>
   
   <entry>
@@ -143,50 +142,50 @@ References
     <link href="http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner.html"/>
     <updated>2011-06-02T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner</id>
-    <content type="html"><![CDATA[My<sup>1</sup> SGC autotuner had an accident when I stupidly put it down on a
+    <content type="html"><![CDATA[<p>My<sup>1</sup> SGC autotuner had an accident when I stupidly put it down on a
 bench. The boat heeled and it landed on the connector, bending it. Luckily the
 connector was mounted on the case and wired up, rather than soldered directly
 to the board, so there was no damage other than a bent box. I took it apart
 so I could straighten it out and thought I might as well take some photos
-while I was at it.
+while I was at it.</p>
 
-The item in question is an <a
+<p>The item in question is an <a
 href="http://www.sgcworld.com/211ProductPage.html">SG-211</a>. I'm not going
 to review it or say much other than it is pretty good and the case is soft
-aluminium.
+aluminium.</p>
 
-<a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5788517160/" title="Top of board"><img src="http://farm3.static.flickr.com/2327/5788517160_677a9ff43e_z.jpg" width="640" height="428" alt="Top of board"></a>
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5788517160/" title="Top of board"><img src="http://farm3.static.flickr.com/2327/5788517160_677a9ff43e_z.jpg" width="640" height="428" alt="Top of board"></a></p>
 
-<a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5788523098/" title="Bottom of board"><img src="http://farm4.static.flickr.com/3273/5788523098_208ab1258e_z.jpg" width="640" height="441" alt="Bottom of board"></a>
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5788523098/" title="Bottom of board"><img src="http://farm4.static.flickr.com/3273/5788523098_208ab1258e_z.jpg" width="640" height="441" alt="Bottom of board"></a></p>
 
-The relays are interesting. I have been meaning to design an automatic ground
+<p>The relays are interesting. I have been meaning to design an automatic ground
 tuner for my <a
 href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">bike</a> but
 one problem I have is the inability to find any latching relays. It seems SGC
 either had their own made, or have had some branded to hide where they get
-these mythical devices.
+these mythical devices.</p>
 
-<a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5787968241/" title="Custom relays?"><img src="http://farm3.static.flickr.com/2440/5787968241_e4bbc34dee_z.jpg" width="640" height="236" alt="Custom relays?"></a>
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5787968241/" title="Custom relays?"><img src="http://farm3.static.flickr.com/2440/5787968241_e4bbc34dee_z.jpg" width="640" height="236" alt="Custom relays?"></a></p>
 
-<a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5787972187/" title="Bottom half of case"><img src="http://farm6.static.flickr.com/5230/5787972187_20fb28eaa0_z.jpg" width="640" height="436" alt="Bottom half of case"></a>
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5787972187/" title="Bottom half of case"><img src="http://farm6.static.flickr.com/5230/5787972187_20fb28eaa0_z.jpg" width="640" height="436" alt="Bottom half of case"></a></p>
 
-The white wire is connected to a front panel toggle switch which was added by
+<p>The white wire is connected to a front panel toggle switch which was added by
 SGC. The new switch disables retuning to avoid a problem where it would retune
 in the middle of an over. I'm not sure if the uninsulated wires above this are
 part of the mod. I hope they are not fixing a bad board. The switch is useful
 but I'm a bit concerned about what this will do for durability. The controller
-is a PIC.
+is a PIC.</p>
 
-<a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5788529612/" title="PIC"><img src="http://farm6.static.flickr.com/5264/5788529612_7265d6aa5f_z.jpg" width="415" height="640" alt="PIC"></a>
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5788529612/" title="PIC"><img src="http://farm6.static.flickr.com/5264/5788529612_7265d6aa5f_z.jpg" width="415" height="640" alt="PIC"></a></p>
 
-A reference / dummy load?
+<p>A reference / dummy load?</p>
 
-<a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5787974261/" title="Reference / load?"><img src="http://farm6.static.flickr.com/5229/5787974261_2a675e013d_m.jpg" width="240" height="149" alt="Reference / load R?"></a>
+<p><a rel="nofollow" href="http://www.flickr.com/photos/58967572@N03/5787974261/" title="Reference / load?"><img src="http://farm6.static.flickr.com/5229/5787974261_2a675e013d_m.jpg" width="240" height="149" alt="Reference / load R?"></a></p>
 
+<p>--</p>
 
---
-
-<sup>1</sup> Actually borrowed, but he'll never know my bending was that good. :-)]]></content>
+<p><sup>1</sup> Actually borrowed, but he'll never know my bending was that good. :-)</p>
+]]></content>
   </entry>
   
   <entry>
@@ -194,46 +193,46 @@ A reference / dummy load?
     <link href="http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html"/>
     <updated>2011-05-25T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino</id>
-    <content type="html"><![CDATA[I have been meaning to do several microcontroller based projects for some time
+    <content type="html"><![CDATA[<p>I have been meaning to do several microcontroller based projects for some time
 now. Ideally I wanted to do it without spending any money so I decided to make
 myself a PIC programmer with some samples from Microchip. This would also make
-the process more interesting.
+the process more interesting.</p>
 
-The plan was to make a <a href="http://usbpicprog.org/">usbpicprog</a> and
+<p>The plan was to make a <a href="http://usbpicprog.org/">usbpicprog</a> and
 bootstrap it with a serial port based programmer using an old computer.  I
 bought all the parts, including copper clad board and ferric chloride but
 never quite got round to doing it. This was in part because I was not very
 keen to have to work with ferric chloride and I didn't want to dissolve the
-sink.
+sink.</p>
 
-Meanwhile, I had been hearing about the Arduino more and more. Initially I
+<p>Meanwhile, I had been hearing about the Arduino more and more. Initially I
 ignored it as something for artists and people who didn't know what they were
 doing. I had spent some time at university learning about and using real
 microcontrollers with none of this boot loader nonsense so I did not think I
 needed such things. Then I realised that being leet enough not to require
 simplification did not make quicker development a bad thing. :-) I decided I
 had wasted enough time and just wanted to get something done, so I bought an
-Arduino.
+Arduino.</p>
 
-<img src="http://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg"
-width="500" height="375" alt="Seeeduino and ethernet shield">
+<p><img src="http://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg"
+width="500" height="375" alt="Seeeduino and ethernet shield"></p>
 
-I actually chose the seeedunio, an Arduino clone. The design is open so this
+<p>I actually chose the seeedunio, an Arduino clone. The design is open so this
 is allowed and in fact there are some improvements made in the
 seeeduino. Primarily I chose it though because it was the cheapest. I still
 don't like the idea of paying decapounds for a single basic microcontroller
 and some soldering. I also ordered an ethernet shield, which is what an
-expansion card is called in the Arduino world. These arrived yesterday.
+expansion card is called in the Arduino world. These arrived yesterday.</p>
 
-It took me longer than I would have liked to get started, with the blinking LED
+<p>It took me longer than I would have liked to get started, with the blinking LED
 hello world of microcontrollers, because there were no instructions about the
 correct settings. After some googling and trial and error I determined that I
 had to set the reset switch on the board to auto and, in the Arduino IDE, set
 the board type to <type>Deumilanove or Nano w/ ATmega328</type>.  After that
 I very quickly had it beaconing my callsign on the board mounted LED attached
-to pin 13. So far quite reasonable.
+to pin 13. So far quite reasonable.</p>
 
-Then I decided to plug in the ethernet board and run the example programs.  I
+<p>Then I decided to plug in the ethernet board and run the example programs.  I
 had to stick all the source files in the same directory and change the ip
 address and then I was pinging the board. It took only a few minutes. This I
 thought was pretty ridiculous. Then I used the web server program. It
@@ -241,37 +240,36 @@ worked. I couldn't really believe this - this did not seem like electronics at
 all. I would expect this to have taken weeks of debugging, loose wires, errors
 in PCB design, software bugs and frustration but here it was working in a few
 minutes with no test gear in sight. I have certainly confirmed my get things
-done faster conjecture.
+done faster conjecture.</p>
 
-It was not quite as good though when I wanted to connect stuff up to it. The
+<p>It was not quite as good though when I wanted to connect stuff up to it. The
 board did not come with a data sheet and I could not find much at all online.
 In the end I went to Atmel's web site and downloaded the datasheet for the
-ATmega328P on my board. Included below are some useful figures from it.
+ATmega328P on my board. Included below are some useful figures from it.</p>
 
-Reference
-=========
+<h1>Reference</h1>
 
-Seeeduino - Summary of Initial Setup
------------------------------------
+<h2>Seeeduino - Summary of Initial Setup</h2>
 
-I am using the Seeeduino V2.21 which is also marked ARD128D2P.
+<p>I am using the Seeeduino V2.21 which is also marked ARD128D2P.</p>
 
-It uses the ATmega328P.
+<p>It uses the ATmega328P.</p>
 
-This is the error I got initially:
+<p>This is the error I got initially:</p>
 
-<code>avrdude: stk500_disable(): protocol error, expect=0x14, resp=0x00</code>
+<p><code>avrdude: stk500_disable(): protocol error, expect=0x14, resp=0x00</code></p>
 
-The solution:
+<p>The solution:</p>
 
-- Move reset switch to auto
-- Set board type to <code>Deumilanove or Nano w/ ATmega328</code>.
+<ul>
+<li>Move reset switch to auto</li>
+<li>Set board type to <code>Deumilanove or Nano w/ ATmega328</code>.</li>
+</ul>
 
-ATmega328P Data
-===============
 
-Absolute Maximums
------------------
+<h1>ATmega328P Data</h1>
+
+<h2>Absolute Maximums</h2>
 
 <table>
 <tr><td>Operating Temperature</td><td>-55°C to +125°C</td></tr>
@@ -281,22 +279,20 @@ Absolute Maximums
 <tr><td>DC Current VCC and GND Pins</td><td>200.0mA</td></tr>
 </table>
 
-Programming
------------
 
-The Arduino environment uses C but with some magic, see
-<a href="http://arduino.cc/en/Hacking/BuildProcess">Arduino Build Process</a>.
+<h2>Programming</h2>
 
+<p>The Arduino environment uses C but with some magic, see
+<a href="http://arduino.cc/en/Hacking/BuildProcess">Arduino Build Process</a>.</p>
 
-Ethernet board
---------------
+<h2>Ethernet board</h2>
 
-It's ENC28J60 based. This is not the same as the official one, which uses the
-Wiznet W5100.
+<p>It's ENC28J60 based. This is not the same as the official one, which uses the
+Wiznet W5100.</p>
 
-Bought from <a
+<p>Bought from <a
 href="http://www.ekitszone.com/Products/4-enc28j60-ethernet-shield-for-arduino.aspx">ekitszone</a>.
-Looks well made and works.
+Looks well made and works.</p>
 ]]></content>
   </entry>
   
