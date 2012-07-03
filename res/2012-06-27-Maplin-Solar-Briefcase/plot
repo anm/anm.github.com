@@ -1,0 +1,28 @@
+data = "sun"
+set output "sun.png"
+set title "Bright Sun"
+
+set term png
+
+set xlabel "Voltage (V)"
+set y2tics
+set y2label "Power (mW)"
+set ylabel "Current (mA)"
+
+#set y2range [0:50]
+
+k= 0.2
+l = 17
+m = 1
+n = 1
+I(x) = k * log(-m * x + l) + n
+fit I(x) data using 1:2 via k, l, m, n
+
+a = 1
+b = 11
+c = 30
+P(x) = -a * (x - b) ** 2 + c
+fit P(x) data using 1:3 via a, b, c
+
+plot data using 1:2 title "Current" axes x1y1, \
+     data using 1:3 title "Power" axes x1y2
