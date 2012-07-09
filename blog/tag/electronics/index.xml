@@ -5,12 +5,59 @@
 
   <link href="http://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-07-03T01:57:21+01:00</updated>
+  <updated>2012-07-09T19:26:20+01:00</updated>
   <id>http://mm0hai.net/blog/tag/electronics</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How to kill a MOSFET]]></title>
+    <link href="http://mm0hai.net/blog/2012/07/09/How-to-Kill-a-MOSFET.html"/>
+    <updated>2012-07-09T00:00:00+01:00</updated>
+    <id>http://mm0hai.net/blog/2012/07/09/How-to-Kill-a-MOSFET</id>
+    <content type="html"><![CDATA[<p>I've been making a constant current load for testing power supplies and solar
+panels. I've killed two MOSFETs so far and now learned something about why.</p>
+
+<p>Firstly, the obvious. Voltage, (V<sub>gs</sub> and V<sub>ds</sub>) must be
+within limits. The same for current, I<sub>d</sub>. There is also the power
+limit given by the maximum junction temperature. I calculated this limit given
+the T<sub>j (max)</sub>, the ambient temperature and the thermal resistance
+from junction to case, R<sub>θjc</sub>. I then operated my circuit within
+these limits and could not understand why the MOSFET was dying.</p>
+
+<p>When I looked at the safe operating area (SOA) graph in the datasheet I found
+values much smaller than expected from my calculations. I thought the SOA was
+limited only by the maximum voltage current and temperature as calculated with
+the R<sub>θjc</sub>, but it turns out there are other thermal limits.</p>
+
+<p>These are particularly notable in the transistor I was using, the <a href="http://www.infineon.com/dgdl/IPB114N03L_rev1.02.pdf?folderId=db3a30431a5c32f2011a809773886508&amp;fileId=db3a30431b3e89eb011bb1511cce0734">IPP114N03L
+G</a>.</p>
+
+<p><img alt="IPP114N03L G" src="http://i.stack.imgur.com/2Gsr6.gif" /></p>
+
+<p>Note the steep limits to the right, severely limiting current at higher
+voltages. This was the region I was trying to operate in.</p>
+
+<p>I think the problem is caused be high thermal gradients causing expansion and
+cracking of the die. This explains the quiet pop I heard when one failed - the
+silicon cracked. The thermal resistance seems like more of an average limit -
+if the whole die is at a similar temperature it applies. Temperature variation
+over the die seems to be higher in FETs designed for switchmode power
+supplies. They are optimised for on-off switching and can't cope with
+operation in this linear region. BJTs suffer from second breakdown, which
+limits the SOA. MOSFETs are not meant to do this but this seems to be a
+similar limit.</p>
+
+<p>Moral of the story: don't trust the headline figures. Sometimes these seem to
+be made up by the marketing department. Consult the SOA and give the limits a
+wide berth.</p>
+
+<p>I learnt most of this from <a href="http://electronics.stackexchange.com/questions/35352/apparent-inconsistency-of-mosfet-power-rating-in-datasheet-soa-v-max-power">my
+question on stackexchange</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Testing a Maplin Solar Briefcase and Maximum Power Point]]></title>
