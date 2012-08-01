@@ -11,10 +11,13 @@ on <a href="/sota">expeditions</a> but mostly just for interest and to learn.
 I didn't know anything about photovoltaics at the time and I decided to test
 the panel and try to work out what it did. I set it up in full sunlight,
 pointing straight at the sun. I measured the voltage and current output when
-loaded with various resistors. I then tried the same thing under some halogen
-light bulbs. Don't trust the figures too much as I was using <a
-href="/blog/2012/05/21/Multimeters-available-in-UK.html">cheap multimeters</a>, one
-of which I later discovered changed its readings when bent.
+loaded with various resistors. (I've since built a <a
+href="/blog/2012/08/01/Constant-Current-Load.html">constant current load</a>,
+which makes this sort of thing much easier.) I then tried the same thing under
+some halogen light bulbs. Don't trust the figures too much as I was using <a
+href="/blog/2012/05/21/Multimeters-available-in-UK.html">cheap
+multimeters</a>, one of which I later discovered changed its readings when
+bent.
 
 <img src="/res/2012-06-27-Maplin-Solar-Briefcase/sun.png">
 <img src="/res/2012-06-27-Maplin-Solar-Briefcase/lamp.png">
