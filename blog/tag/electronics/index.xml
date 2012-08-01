@@ -5,12 +5,53 @@
 
   <link href="http://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-07-09T19:26:20+01:00</updated>
+  <updated>2012-08-01T03:28:26+01:00</updated>
   <id>http://mm0hai.net/blog/tag/electronics</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ebay MC34063 based USB car PSU]]></title>
+    <link href="http://mm0hai.net/blog/2012/08/01/Message-to-an-ebay-seller.html"/>
+    <updated>2012-08-01T00:00:00+01:00</updated>
+    <id>http://mm0hai.net/blog/2012/08/01/Message-to-an-ebay-seller</id>
+    <content type="html"><![CDATA[<p>I bought this on ebay for £1.17 including postage, but it was worse than my low expectations.</p>
+
+<p><a href="http://www.flickr.com/photos/mm0hai/7688389090/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7249/7688389090_2b5c3ce8ca_n.jpg" width="319" height="320" alt="MC34063 based USB car charger"></a></p>
+
+<p><a href="http://www.flickr.com/photos/mm0hai/7688389772/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8430/7688389772_f9b45bed93_n.jpg" width="320" height="291" alt="MC34063 based USB car charger"></a></p>
+
+<p><a href="http://www.flickr.com/photos/mm0hai/7688390396/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8005/7688390396_f8834ba3ba_z.jpg" width="640" height="351" alt="MC34063 based USB car charger"></a></p>
+
+<p><a href="http://www.flickr.com/photos/mm0hai/7688390784/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8152/7688390784_86e180f45b.jpg" width="500" height="358" alt="MC34063 based USB car charger"></a></p>
+
+<p><a href="http://www.flickr.com/photos/mm0hai/7688391162/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7258/7688391162_0e23a40901.jpg" width="500" height="401" alt="MC34063 based USB car charger"></a></p>
+
+<p>Here's what I said to the seller:</p>
+
+<p>I have just tested this item and found it does not work.</p>
+
+<p>It is meant to supply 5V at up to 1A. In reality, it outputs 4.6V with no
+load, and this falls rapidly to 4.3V at 0.1A and only 2.4V at 0.8A.  This is
+not sufficient to charge USB devices, which is what the product is intended
+for.</p>
+
+<p>Furthermore, this is not just a faulty unit but an inadequate design. The
+MC34063 dc-dc converter IC used can supply a maximum of 750mA in the
+configuration used, so it is impossible for the supply to give 1A. The
+specifications given are wrong.</p>
+
+<p>The product also lacks a fuse. This is a basic safety precaution and without
+it the charger could cause a fire.</p>
+
+<p>This product is dangerous and does not meet its specification. You should stop
+selling it.</p>
+
+<p>Please refund.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to kill a MOSFET]]></title>
