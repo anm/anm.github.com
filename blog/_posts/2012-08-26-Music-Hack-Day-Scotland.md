@@ -1,0 +1,92 @@
+---
+layout: post
+title: River Song - Music Hack Day Scotland
+tags: [music, software, electronics, cycling]
+---
+
+This weekend saw a music hack day in Edinburgh. I signed up with a couple of
+ideas of things I might do but I wasn't really sure if I'd get much done. In
+the end my hack was quite successful and I won an iPad!
+
+One idea I had was to make a virtual <a
+href="http://en.wikipedia.org/wiki/Singing_bowl">Singing Bowl</a> using a wire
+and capacitive touch sensing. I thought this would be quite difficult because
+to do it at all well would probably require quite a sophisticated sensor,
+something like used in <a
+href="http://www.disneyresearch.com/research/projects/hci_botanicus_drp.htm">Disney's
+interactive plant project</a>.
+
+My other, which I built, was related to my touring bike. I was thinking about
+what to call my new bike when I get her, and I think I might choose <a
+href="http://en.wikipedia.org/wiki/River_Song_(Doctor_Who)">River
+Song</a>. The bike is for open ended touring without any particular rush to
+get anywhere. It is for living. I like the idea of the bike flowing through
+life, time and space.
+
+Make the bike sing.
+
+This gave me the idea that she ought to have a song. I wanted something to
+represent movement and flow. The most obvious idea was the sound of a river. I
+could also have tried to compose something but that seemed more difficult
+because it would require musical ability. I decided to make river sounds.
+
+I wanted the sound to change with movement. The simplest thing is to take the
+current speed. I also thought about using distance traveled recently
+(i.e. adding integral action to the music controller). I considered modeling
+a water system, such that movement caused rainfall, which then soaked through
+the ground and eventually reached the river. For this hack, I kept it simple
+and used only speed.
+
+<img
+src="/res/2012-08-26-Music-Hack-Day-Scotland/river-song-block-diagram.png"
+alt="Block diagram of system."
+title="The unicycle is not actually radially spoked." />
+
+Above is a diagram of the system I demonstrated. I used a unicycle rather than
+a bike for the demo because it was easier to get it into the lecture theatre
+and turn the wheel. I'll now discuss the design choices.
+
+I considered two ways of making the sound. One was synthesising from scratch,
+and the other using samples. I realised that I actually had recordings of a
+river and of water flowing in a pipe, the later which I took when walking on
+La Palma. I chose to use synthesis because it seemed like it would be easier
+to modify the sound with data and it made it more hackable for future changes
+to the sound.
+
+I had never done any sound synthesis before so I didn't know what software I
+should use. I thought about using a library for some programming language I
+already knew but decided to try using something designed for sound. The main
+contenders seemed to be SuperCollider and Pure Data. Asking around I found
+Pure Data seems to be the most popular, and this was confirmed at the
+presentation when I saw several hacks used it.
+
+Pure Data was difficult to get started with, and I almost gave up. The
+documentation is very poor and the Ubuntu package had various things wrong
+with it, like the sound test not working. I managed to get it working in the
+end. I didn't have time to learn much about the language never mind actually
+designing synthesisers and sounds but I found a Pure Data patch which made
+something which sounded like running water. Random hacking at this discovered
+a place where I could change a value to make the water sound more violent. I
+used this and also increased the volume when the bike went faster.
+
+To detect movement I used a magnet on the wheel and a reed switch from an old
+bike computer. This I connected to an Arduino (actually <a
+href="/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html">Seeeduino</a>)
+which measured the time between switch pulses and sent this over a USB serial
+connection to a laptop running Pure Data.
+
+In Pure Data, I used the comport module to receive data from the serial
+port. This was also not well documented but I worked it out from some blog
+posts.
+
+I finished soldering connectors together about 10 minutes before the
+presentations were meant to start and then ran to the event. I was tweaking
+the sensor position and patch parameters during the talks but soldering proper
+connectors paid off because there was no trouble - amazingly the thing
+actually worked at a demonstration! I was now on stage with a unicycle, so of
+course I had to try and ride it. I managed to idle briefly and long enough to
+trigger the sensor, so overall successful.
+
+I would have been quite pleased at that, but then there were prizes, and I won
+an iPad! I'm not sure what to do with it yet. Maybe duck tape it to my
+bike. :)
