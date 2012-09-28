@@ -5,7 +5,7 @@
 
   <link href="http://mm0hai.net/blog/tag/radio/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-09-02T06:08:25+01:00</updated>
+  <updated>2012-09-28T03:19:21+01:00</updated>
   <id>http://mm0hai.net/blog/tag/radio</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -15,6 +15,7 @@
   <entry>
     <title type="html"><![CDATA[SGC SG-211 Mini Smartuner Teardown]]></title>
     <link href="http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-06-02T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner</id>
     <content type="html"><![CDATA[<p>My<sup>1</sup> SGC autotuner had an accident when I stupidly put it down on a
@@ -66,6 +67,7 @@ is a PIC.</p>
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 3 - Illustration]]></title>
     <link href="http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-03-25T00:00:00+00:00</updated>
     <id>http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3</id>
     <content type="html"><![CDATA[<p>Today the unusually good weather required me to take the bike out for
@@ -109,6 +111,7 @@ the J-Pole though.</p>
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 2]]></title>
     <link href="http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-03-21T00:00:00+00:00</updated>
     <id>http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2</id>
     <content type="html"><![CDATA[<p>This evening I tested the antenna system described in my <a
@@ -218,6 +221,7 @@ rel="next" href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">Part
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 1]]></title>
     <link href="http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-03-19T00:00:00+00:00</updated>
     <id>http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1</id>
     <content type="html"><![CDATA[<p>Today I decided to make an HF antenna for my bike. I did an experiment

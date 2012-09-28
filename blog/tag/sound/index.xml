@@ -5,7 +5,7 @@
 
   <link href="http://mm0hai.net/blog/tag/sound/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-09-02T06:08:25+01:00</updated>
+  <updated>2012-09-28T03:19:21+01:00</updated>
   <id>http://mm0hai.net/blog/tag/sound</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -15,13 +15,15 @@
   <entry>
     <title type="html"><![CDATA[How to sound like a Dalek using Pure Data]]></title>
     <link href="http://mm0hai.net/blog/2012/09/02/Dalek-Voice-Pure-Data.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2012/09/02/Dalek-Voice-Pure-Data.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2012-09-02T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2012/09/02/Dalek-Voice-Pure-Data</id>
     <content type="html"><![CDATA[<p><img src="/res/2012-09-02-Dalek-Voice-Pure-Data/dalek-pd.png" alt="Pure Data
 patch to make Dalek voice." /></p>
 
-<p>This Pure Data patch amplitude modulates your voice from a microphone with a
-~30Hz sine wave. Holding the microphone close to your mouth seems to help.</p>
+<p>This <a href="/res/2012-09-02-Dalek-Voice-Pure-Data/dalek.pd">Pure Data
+patch</a> amplitude modulates your voice from a microphone with a ~30Hz sine
+wave. Holding the microphone close to your mouth seems to help.</p>
 ]]></content>
   </entry>
   

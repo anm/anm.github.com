@@ -5,7 +5,7 @@
 
   <link href="http://mm0hai.net/blog/tag/git/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-09-02T06:08:25+01:00</updated>
+  <updated>2012-09-28T03:19:21+01:00</updated>
   <id>http://mm0hai.net/blog/tag/git</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -15,6 +15,7 @@
   <entry>
     <title type="html"><![CDATA[Github Punchcard - Visualising Commit Times]]></title>
     <link href="http://mm0hai.net/blog/2011/03/11/github-punchcard.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/03/11/github-punchcard.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-03-11T00:00:00+00:00</updated>
     <id>http://mm0hai.net/blog/2011/03/11/github-punchcard</id>
     <content type="html"><![CDATA[<p>I pushed my <a href="/life/life.html">HTML5 Game of Life</a> to
@@ -38,6 +39,7 @@ hacker dating site at once.</p>
   <entry>
     <title type="html"><![CDATA[Rewriting git commit message history across multiple branches]]></title>
     <link href="http://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-03-10T00:00:00+00:00</updated>
     <id>http://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history</id>
     <content type="html"><![CDATA[<p>The usual way to modify a previous git commit is to rebase interactively:</p>

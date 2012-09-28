@@ -5,7 +5,7 @@
 
   <link href="http://mm0hai.net/blog/tag/visualisation/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2012-09-02T06:08:25+01:00</updated>
+  <updated>2012-09-28T03:19:21+01:00</updated>
   <id>http://mm0hai.net/blog/tag/visualisation</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -15,6 +15,7 @@
   <entry>
     <title type="html"><![CDATA[Torchwood Spinning Triangle]]></title>
     <link href="http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-08-08T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms</id>
     <content type="html"><![CDATA[
@@ -93,6 +94,7 @@ version and put it on the Android Marketplace.</p>
   <entry>
     <title type="html"><![CDATA[Github Punchcard - Visualising Commit Times]]></title>
     <link href="http://mm0hai.net/blog/2011/03/11/github-punchcard.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/03/11/github-punchcard.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-03-11T00:00:00+00:00</updated>
     <id>http://mm0hai.net/blog/2011/03/11/github-punchcard</id>
     <content type="html"><![CDATA[<p>I pushed my <a href="/life/life.html">HTML5 Game of Life</a> to
