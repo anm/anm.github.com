@@ -1,7 +1,7 @@
 body {
     font-family: Palatino, 'Palatino Linotype', Book Antiqua, serif;
     line-height: 1.2;
-    text-rendering: optimizelegibility;
+    text-rendering: optimizeLegibility;
 
     background-color: #ECEEEE;
     color: #333;
