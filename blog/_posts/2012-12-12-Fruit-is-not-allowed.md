@@ -37,3 +37,7 @@ probably mostly breadcrumbs. I need to get out of here.
 
 My water bottle holder does not work well for coffee cups. There is another
 gadget to rig up.
+
+In Nigeria if there is no meat in a meal people will be unimpressed and think
+you are poor. I suspect poor countries go through a phase of everyone wanting
+meat as a sign of affluence. Maybe they will grow out of it.
