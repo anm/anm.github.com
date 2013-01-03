@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaving Edinburgh for the New World
+title: Leaving Edinburgh
 tags: [cycling]
 ---
 
