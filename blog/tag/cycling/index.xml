@@ -5,12 +5,39 @@
 
   <link href="http://mm0hai.net/blog/tag/cycling/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-01-03T14:48:56-06:00</updated>
+  <updated>2013-01-09T01:33:22-06:00</updated>
   <id>http://mm0hai.net/blog/tag/cycling</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Test of Solar Charger]]></title>
+    <link href="http://mm0hai.net/blog/2012/12/14/First-Test-of-Solar-Charger.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2012/12/14/First-Test-of-Solar-Charger.html&amp;user_id=mm0hai" type="text/html" />
+    <updated>2012-12-14T00:00:00-06:00</updated>
+    <id>http://mm0hai.net/blog/2012/12/14/First-Test-of-Solar-Charger</id>
+    <content type="html"><![CDATA[<p>I designed and built a charger for Thinkpad batteries before I left, but there
+was not enough sun in Scotland to test it properly. Today in Tulum I tried it
+for real for the first time.</p>
+
+<p>Tropical mid-day sun was sufficient. It charged the battery for a while. When
+I tried a battery that was at a higher voltage, it did not charge it as
+designed. The voltage cutoff was lower than I had set at home, but basically
+it seems to work. I did not leave it long enough to see it cutoff when full
+though. I also would like to measure the power supplied so I know how long
+charging will let the computer run.</p>
+
+<p><a href="http://www.flickr.com/photos/mm0hai/8272408443/" title="First test of
+solar charger by mm0hai, on Flickr"><img
+src="http://farm9.staticflickr.com/8352/8272408443_0390543aa4_z.jpg"
+width="640" height="480" alt="First test of solar charger"></a></p>
+
+<p>The charger is not mounted on the bike yet, so it's just sitting on top while
+I measure voltages.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Leaving Edinburgh]]></title>
