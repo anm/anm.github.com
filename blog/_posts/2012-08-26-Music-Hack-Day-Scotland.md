@@ -90,3 +90,12 @@ trigger the sensor, so overall successful.
 I would have been quite pleased at that, but then there were prizes, and I won
 an iPad! I'm not sure what to do with it yet. Maybe duck tape it to my
 bike. :)
+
+<img src="http://twitpic.com/show/large/anmlwj.jpg"
+alt="Demonstration with unicycle at the hackday." />
+
+<img src="http://distilleryimage4.s3.amazonaws.com/da4b156aeed311e1aaa822000a1de2ba_7.jpg"
+alt="Preparing unicycle for talk." />
+
+I was still tweaking while the presentations were happening, but the demo
+worked!
