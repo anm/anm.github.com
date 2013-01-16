@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leaving Edinburgh
-tags: [cycling]
+tags: [cycling, cyclewho]
 ---
 
 After far too long in Edinburgh I am finally moving. I decided that even if I

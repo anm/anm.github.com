@@ -2,7 +2,7 @@
 layout: post
 title: First day in Mexico
 subtitle: Just some notes
-tags: [mexico]
+tags: [mexico, cyclewho]
 ---
 
 Police truck with armed man standing in back. I can't imagine how this is a

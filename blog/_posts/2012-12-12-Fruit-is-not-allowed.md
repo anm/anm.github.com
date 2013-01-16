@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fruit is not Allowed
-tags: [vegan, food, cancun]
+tags: [vegan, food, cancun, cyclewho]
 ---
 
 "Fruit is not allowed", the customs officer said dissaprovingly. This seems

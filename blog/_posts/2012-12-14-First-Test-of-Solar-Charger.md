@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Test of Solar Charger
-tags: [cycling, electronics]
+tags: [cycling, electronics, cyclewho]
 ---
 
 I designed and built a charger for Thinkpad batteries before I left, but there
