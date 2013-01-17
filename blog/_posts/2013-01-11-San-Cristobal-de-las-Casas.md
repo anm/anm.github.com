@@ -4,6 +4,10 @@ title: San Cristobal de las Casas
 tags: [mexico, vegan, cyclewho, life]
 ---
 
+<img
+src="http://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_the_EZLN.svg"
+width="640" alt="EZLN Flag"/>
+
 The streets smell of roasting coffee, grown by the coöps in the surrounding
 hills. I also smell chocolate and bread from the panaderias. There are punks
 on bikes - real bikes, not rusting Mexican style ones. Restaurants advertise
