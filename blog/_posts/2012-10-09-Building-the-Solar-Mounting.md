@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making a Solar Panel Mount for a Bike
-tags: [cycling, electronics]
+tags: [cycling, electronics, cyclewho]
 ---
 
 I had chosen to use a 15W, monocrystaline panel mounted under glass in a metal
