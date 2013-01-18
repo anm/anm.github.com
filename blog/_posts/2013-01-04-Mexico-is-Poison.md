@@ -5,6 +5,10 @@ subtitle: and made of poison
 tags: [mexico, cyclewho]
 ---
 
+WARNING: This post is mostly me complaining while in a bad mood. Maybe I
+should not have published it. Maybe you should skip it if you like to see a
+positive reality.
+
 I have felt sick since I got here three weeks ago. The poor hygiene at the
 Rainbow Gathering is partly to blame, but that is not all I mean.
 
@@ -39,9 +43,9 @@ bottled water. I could buy vegetables myself and eat raw, or cook if I have
 wood or get a stove. Vegetables here though are covered in bacteria, and it is
 necessary to soak them in poison to kill the bacteria first.
 
-Mexican traders border on thieves. In general anything without a marked price
-will have the price increased substantially if you are white. I have had some
-particularly bad experiences though.
+The Mexican traders I have met border on thieves. In general anything without
+a marked price will have the price increased substantially if you are white. I
+have had some particularly bad experiences though.
 
 I went to a restaurant with fixed menu for 90 peso, which included a
 drink. Bill added drink, with the excuse that water with lemon was not
@@ -63,18 +67,16 @@ about a house. I suspect it was begging and they were trying to say you are
 rich and going to stay in a house but I don't really know. Actually I don't
 have a house, only a bike, and was sleeping outside.
 
-Man in the posada I am staying in now initially asked for 20 pesos extra
+The man in the posada I am staying in now initially asked for 20 pesos extra
 because I have a bike. That was so ridiculous even his wife said so, and I did
-not pay. The room is dirty and smells and he does not
-care. He is a great slug living at the base of a tree and slowly killing
-it while he gets fat.
+not pay. The room is dirty and smells and he does not care. He is a great slug
+living at the base of a tree and slowly killing it while he gets fat.
 
 Almost all service I have received from restaurants and some shops in Palenque
-has been bad. Waitresses who seem to forget what they are there for and think
-who seem annoyed at having to do anything seem to be the norm. In a cafe I was
-asked to leave after an hour of using my laptop. It was not busy so they were
-not losing money on the table. I did not go back to what was until then my
-favourite cafe, so they are now losing for that.
+has been bad. Waitresses who seem annoyed at having to do anything are
+common. In a cafe I was asked to leave after an hour of using my laptop. It
+was not busy so they were not losing money on the table. I did not go back to
+what was until then my favourite cafe, so they are now losing for that.
 
 Today I had a new mounting frame made for my bike. The man did about the worst
 job possible that could possibly work. He made me feel like asking him to do
@@ -83,7 +85,8 @@ was paying him for.
 
 I feel sick from the food. If diet is also why I am always tired and weak,
 maybe everyone here is like that. That would explain why noone seems
-interested in or able to do their job. I certainly could not work well here.
+interested in or able to do their job. I certainly could not work well feeling
+like this.
 
 Summary: Mexican food is awful and the climate is stifling. Many Mexicans I
 have had to deal with are lazy, unhelpful, and borderline thieves.
