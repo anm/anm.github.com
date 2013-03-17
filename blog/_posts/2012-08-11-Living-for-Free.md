@@ -28,8 +28,9 @@ not have otherwise. I think what should have happened did. Things tend to work
 out for the best.
 
 I think I'll write separately about the practicalities of living without
-money. The main expenses which need to be removed are accommodation, food,
-transport. For now I'll cover more general ideas.
+money. The main expenses which need to be removed are accommodation, <a
+href="/blog/2012/08/12/Free-Food.html">food</a>, and transport. For now I'll
+cover more general ideas.
 
 "The bare necessities of life will come to you."
 ------------------------------------------------
