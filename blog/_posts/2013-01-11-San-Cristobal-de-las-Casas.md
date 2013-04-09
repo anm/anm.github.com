@@ -2,6 +2,7 @@
 layout: post
 title: San Cristobal de las Casas
 tags: [mexico, vegan, cyclewho, life]
+location: 16.7385777 -92.6332806
 ---
 
 <img
