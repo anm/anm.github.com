@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged life]]></title>
 
   <link href="http://mm0hai.net/blog/tag/life/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/life</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -40,6 +41,7 @@ it is probably safe. :)</p>
 <p>When I set off on this cycling journey I left a girl in Edinburgh. This
 morning a girl left me to travel south.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -145,6 +147,7 @@ the mountains.</p>
 <p>There was some excitement at the end of the gathering too. I'll write about
 that in a further blov post.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -345,6 +348,7 @@ simple label like Buddhist or Kadampa.</p>
 <p>I should research other forms of Buddhism to see if there is one with less
 religion, power and fear, and more useful lessons for living this life.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -384,6 +388,7 @@ of the earth where it came from.</p>
 <p>Mexico is sick and makes me feel sick. The world is sick. San Cristobal is a
 hill station for the recovery of humanity.</p>
 ]]></content>
+   <georss:point>16.7385777 -92.6332806</georss:point>
   </entry>
   
   <entry>
@@ -412,6 +417,7 @@ suffering. Modern life gives more comfort and less disease. With control of
 your environment, waterproof roofs, heating, and factory farming, there is no
 desperation, and no need for gods of rain and corn.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -506,6 +512,7 @@ accept what is given would be an excellent result.</p>
 
 <p>Happiness and love are contagious.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -567,6 +574,7 @@ because, unlike skipping, the food has been paid for by someone. I'm not
 really comfortable with the idea of other people buying food for me. If you
 need it though, you should know these places are there.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -677,6 +685,7 @@ its is beautiful! Do u have anywhere to sleep? U can have my apartment for the
 weekend when i go visit my boyfriend! So she gave us the key. AMAZING
 LIFE!!!"</p></blockquote>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -710,6 +719,7 @@ href="https://www.google.co.uk/search?q=as+a+service">service</a>? I suppose
 that's going to be called heaven.io and have plenty of node.js and rounded
 corners.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -740,6 +750,7 @@ src="http://www.youtube.com/embed/lVmmYMwFj1I" frameborder="0"
 allowfullscreen></iframe>
 
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -835,6 +846,7 @@ href="/blog/2012/05/02/Vegan-Crunk-Night.html">organise a Vegan Crunk Night</a>!
 
 <p>I've got lots more to say on this subject but will leave it at that for now.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -864,6 +876,7 @@ that offices should play repetitive music such as nyan cat to boost
 productivity and increase moral. :) I also recommend hacking at psytrance
 parties.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -884,6 +897,7 @@ large teddy bear he had found somewhere.</p>
 
 <p>"I thought you were a ghost. I thought you were my guide to see the aliens."</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -934,6 +948,7 @@ Palmas de Gran Canaria so I flew there to look for a boat.</p>
 
 <p><a href="http://www.flickr.com/photos/58967572@N03/6431731859/" title="Cloud computing, or stupid things to carry to 6000ft by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7023/6431731859_5862ee9677_z.jpg" width="640" height="480" alt="Cloud computing, or stupid things to carry to 6000ft"></a></p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -995,6 +1010,7 @@ width="640" height="425" alt=""></a></p>
 
 <p>Let me know if you decide on the volcano option. Do you have any hints?</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -1046,6 +1062,7 @@ to keep the bloody thing - a sofa.</p>
 <p><img src="http://farm7.static.flickr.com/6148/5976040942_e35f5e01f4_z.jpg"
 width="640" height="480" alt="IKEA, near treehouses"></p>
 ]]></content>
+   
   </entry>
   
 </feed>

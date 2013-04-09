@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged travel]]></title>
 
   <link href="http://mm0hai.net/blog/tag/travel/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/travel</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -71,6 +72,7 @@ because, unlike skipping, the food has been paid for by someone. I'm not
 really comfortable with the idea of other people buying food for me. If you
 need it though, you should know these places are there.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -181,6 +183,7 @@ its is beautiful! Do u have anywhere to sleep? U can have my apartment for the
 weekend when i go visit my boyfriend! So she gave us the key. AMAZING
 LIFE!!!"</p></blockquote>
 ]]></content>
+   
   </entry>
   
 </feed>

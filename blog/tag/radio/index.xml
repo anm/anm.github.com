@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged radio]]></title>
 
   <link href="http://mm0hai.net/blog/tag/radio/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/radio</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -62,6 +63,7 @@ is a PIC.</p>
 
 <p><sup>1</sup> Actually borrowed, but he'll never know my bending was that good. :-)</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -106,6 +108,7 @@ the J-Pole though.</p>
 
 <p><a href="http://www.flickr.com/photos/58967572@N03/sets/72157626343215344/">More photos</a></p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -216,6 +219,7 @@ K-Index 1</p>
 rel="next" href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">Part
 3 - Illustration - Photos and Video on Blackford Hill</a></p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -294,6 +298,7 @@ capacity of rack - needs to stay out the way of panniers.</p></li>
 rel="next" href="/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html">Part
 2 - Testing by the Sea</a></p>
 ]]></content>
+   
   </entry>
   
 </feed>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged nosql]]></title>
 
   <link href="http://mm0hai.net/blog/tag/nosql/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/nosql</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -36,6 +37,7 @@ from Dale while in the pub.</p>
 Make something hackers like. It probably helps to do it in a fun language like
 Erlang.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -121,6 +123,7 @@ website.</p>
 to. I would like to think this would not change my opinion on what makes a
 good database but we know it does.</p>
 ]]></content>
+   
   </entry>
   
 </feed>

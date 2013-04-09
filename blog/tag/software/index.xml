@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged software]]></title>
 
   <link href="http://mm0hai.net/blog/tag/software/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/software</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -114,6 +115,7 @@ alt="Preparing unicycle for talk." /></p>
 <p>I was still tweaking while the presentations were happening, but the demo
 worked!</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -143,6 +145,7 @@ that offices should play repetitive music such as nyan cat to boost
 productivity and increase moral. :) I also recommend hacking at psytrance
 parties.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -276,6 +279,7 @@ comments on <a
 href="http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html">this
 post</a>.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -355,6 +359,7 @@ app before and I don't even have a device to test it on! I'll be very
 surprised and pleased to hear if it does work. If so, I might make a better
 version and put it on the Android Marketplace.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -421,6 +426,7 @@ did not complete within minutes.</p>
 <p>I would guess GHC is using nested loops, so slow will have time complexity
 <code>O(n^3)</code> and fast <code>O(n^2)</code>.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -447,6 +453,7 @@ from Dale while in the pub.</p>
 Make something hackers like. It probably helps to do it in a fun language like
 Erlang.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -532,6 +539,7 @@ website.</p>
 to. I would like to think this would not change my opinion on what makes a
 good database but we know it does.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -615,6 +623,7 @@ the fact that I won't know how to print "Hello, world!" until Chapter
 <p>I think I'll leave it at that for now but I intend to say more in further
 posts.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -663,6 +672,7 @@ them serviceable.
 </blockquote>
 
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -772,6 +782,7 @@ Wiznet W5100.</p>
 href="http://www.ekitszone.com/Products/4-enc28j60-ethernet-shield-for-arduino.aspx">ekitszone</a>.
 Looks well made and works.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -809,6 +820,7 @@ this is probably worth looking at more closely. I've also heard good things
 about <a href="http://www.nltk.org">NLTK</a> which I would like to play with
 some time.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -833,6 +845,7 @@ diurnal, and nocturnal. What about matching up to people who like to
 work at the same time? Or sleep at the same time. :-) I must make a
 hacker dating site at once.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -915,6 +928,7 @@ git gc --prune=now
 </pre>
 
 ]]></content>
+   
   </entry>
   
 </feed>

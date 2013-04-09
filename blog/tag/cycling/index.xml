@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged cycling]]></title>
 
   <link href="http://mm0hai.net/blog/tag/cycling/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/cycling</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -71,6 +72,7 @@ have a different riding position. The saddle is a Brooks I've had for some
 time, but it has not been used on a tour before. It's breaking in much faster
 than at home, probably because of the heat and humidity.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -132,6 +134,7 @@ supporting an oil based system. But now I look out of the tent and the PEMEX
 sign is like a marker of an oasis. This and the glowing traffic cone landing
 lights, are beautiful.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -173,6 +176,7 @@ going to ride my bike today whether I have a map and a waterproof tent or not.</
 
 <p>Now I feel better. I'm going to have breakfast.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -201,6 +205,7 @@ considered decision about where to go. I just had to move.</p>
 
 <p>I started cycling and it worked. I felt better as soon as I was rolling.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -250,6 +255,7 @@ Angel Walk. Another day I had a good experience when I decided to stop thinking
 and follow my feelings, which led to an interesting result. I might write
 about these later.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -301,6 +307,7 @@ to Panama. We set up camp together. I stayed for the next two weeks.</p>
 
 <p><a href="http://www.flickr.com/photos/mm0hai/8366114804/" title="DSCF3146 by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8083/8366114804_cc0cd31ccb_z.jpg" width="640" height="480" alt="DSCF3146"></a></p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -328,6 +335,7 @@ width="640" height="480" alt="First test of solar charger"></a></p>
 <p>The charger is not mounted on the bike yet, so it's just sitting on top while
 I measure voltages.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -366,6 +374,7 @@ solar panel fell off as I ran but I did not have time to pick it up. Someone
 picked it up for me though and threw it on the train - it turned out to be
 Jannette who had come to see me off. :)</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -460,6 +469,7 @@ accept what is given would be an excellent result.</p>
 
 <p>Happiness and love are contagious.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -579,6 +589,7 @@ worked though.</p>
 
 <p>It worked until an awful road in Mexico. Update to follow...</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -661,6 +672,7 @@ screen or tablet on the handlebars.</p>
 <p>I now know that I'll have to try some more bikes before I make a decision
 about this.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -750,6 +762,7 @@ for now.</p>
 steel. It should be used with threadlock, stainless nyloc nut and plain
 stainless or zinc plated washers.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -854,6 +867,7 @@ alt="Preparing unicycle for talk." /></p>
 <p>I was still tweaking while the presentations were happening, but the demo
 worked!</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -915,6 +929,7 @@ country you can forget it - back to £3/MB, or something on the order of £1000
 / day. It would be possible if the maps are preloaded but still you can see
 the situation is ridiculous.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -930,6 +945,7 @@ bike does not fall over.</p>
 <p><img src="http://farm9.staticflickr.com/8020/7454535600_ff5221bb02_z.jpg"
 width="640" height="480" alt="Bicycle parking brake"></p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -974,6 +990,7 @@ the J-Pole though.</p>
 
 <p><a href="http://www.flickr.com/photos/58967572@N03/sets/72157626343215344/">More photos</a></p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -1084,6 +1101,7 @@ K-Index 1</p>
 rel="next" href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">Part
 3 - Illustration - Photos and Video on Blackford Hill</a></p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -1162,6 +1180,7 @@ capacity of rack - needs to stay out the way of panniers.</p></li>
 rel="next" href="/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html">Part
 2 - Testing by the Sea</a></p>
 ]]></content>
+   
   </entry>
   
 </feed>

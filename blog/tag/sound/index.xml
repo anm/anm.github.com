@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged sound]]></title>
 
   <link href="http://mm0hai.net/blog/tag/sound/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/sound</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -25,6 +26,7 @@ patch to make Dalek voice." /></p>
 patch</a> amplitude modulates your voice from a microphone with a ~30Hz sine
 wave. Holding the microphone close to your mouth seems to help.</p>
 ]]></content>
+   
   </entry>
   
 </feed>

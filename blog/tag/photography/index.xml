@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged photography]]></title>
 
   <link href="http://mm0hai.net/blog/tag/photography/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/photography</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -66,6 +67,7 @@ a cost for every exposure. I will try to get in right first time and not
 unnecessarily take further shots. I might also actually consider whether the
 photo would actually be interesting at all.</p>
 ]]></content>
+   
   </entry>
   
 </feed>

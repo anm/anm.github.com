@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged serbla]]></title>
 
   <link href="http://mm0hai.net/blog/tag/serbla/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/serbla</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -120,6 +121,7 @@ its is beautiful! Do u have anywhere to sleep? U can have my apartment for the
 weekend when i go visit my boyfriend! So she gave us the key. AMAZING
 LIFE!!!"</p></blockquote>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -153,6 +155,7 @@ href="https://www.google.co.uk/search?q=as+a+service">service</a>? I suppose
 that's going to be called heaven.io and have plenty of node.js and rounded
 corners.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -173,6 +176,7 @@ large teddy bear he had found somewhere.</p>
 
 <p>"I thought you were a ghost. I thought you were my guide to see the aliens."</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -223,6 +227,7 @@ Palmas de Gran Canaria so I flew there to look for a boat.</p>
 
 <p><a href="http://www.flickr.com/photos/58967572@N03/6431731859/" title="Cloud computing, or stupid things to carry to 6000ft by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7023/6431731859_5862ee9677_z.jpg" width="640" height="480" alt="Cloud computing, or stupid things to carry to 6000ft"></a></p>
 ]]></content>
+   
   </entry>
   
 </feed>

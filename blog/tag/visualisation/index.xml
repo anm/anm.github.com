@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged visualisation]]></title>
 
   <link href="http://mm0hai.net/blog/tag/visualisation/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/visualisation</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -89,6 +90,7 @@ app before and I don't even have a device to test it on! I'll be very
 surprised and pleased to hear if it does work. If so, I might make a better
 version and put it on the Android Marketplace.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -113,6 +115,7 @@ diurnal, and nocturnal. What about matching up to people who like to
 work at the same time? Or sleep at the same time. :-) I must make a
 hacker dating site at once.</p>
 ]]></content>
+   
   </entry>
   
 </feed>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged android]]></title>
 
   <link href="http://mm0hai.net/blog/tag/android/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/android</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -71,6 +72,7 @@ country you can forget it - back to £3/MB, or something on the order of £1000
 / day. It would be possible if the maps are preloaded but still you can see
 the situation is ridiculous.</p>
 ]]></content>
+   
   </entry>
   
 </feed>

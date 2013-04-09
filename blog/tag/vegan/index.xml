@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged vegan]]></title>
 
   <link href="http://mm0hai.net/blog/tag/vegan/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/vegan</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -49,6 +50,7 @@ of the earth where it came from.</p>
 <p>Mexico is sick and makes me feel sick. The world is sick. San Cristobal is a
 hill station for the recovery of humanity.</p>
 ]]></content>
+   <georss:point>16.7385777 -92.6332806</georss:point>
   </entry>
   
   <entry>
@@ -95,6 +97,7 @@ gadget to rig up.</p>
 you are poor. I suspect poor countries go through a phase of everyone wanting
 meat as a sign of affluence. Maybe they will grow out of it.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -125,6 +128,7 @@ src="http://www.youtube.com/embed/lVmmYMwFj1I" frameborder="0"
 allowfullscreen></iframe>
 
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -220,6 +224,7 @@ href="/blog/2012/05/02/Vegan-Crunk-Night.html">organise a Vegan Crunk Night</a>!
 
 <p>I've got lots more to say on this subject but will leave it at that for now.</p>
 ]]></content>
+   
   </entry>
   
 </feed>

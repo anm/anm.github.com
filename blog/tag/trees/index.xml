@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged trees]]></title>
 
   <link href="http://mm0hai.net/blog/tag/trees/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/trees</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -65,6 +66,7 @@ things are good or bad, I'm just noting how they are.
 -->
 
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -116,6 +118,7 @@ to keep the bloody thing - a sofa.</p>
 <p><img src="http://farm7.static.flickr.com/6148/5976040942_e35f5e01f4_z.jpg"
 width="640" height="480" alt="IKEA, near treehouses"></p>
 ]]></content>
+   
   </entry>
   
 </feed>

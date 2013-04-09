@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged electronics]]></title>
 
   <link href="http://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/electronics</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -37,6 +38,7 @@ width="640" height="480" alt="First test of solar charger"></a></p>
 <p>The charger is not mounted on the bike yet, so it's just sitting on top while
 I measure voltages.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -156,6 +158,7 @@ worked though.</p>
 
 <p>It worked until an awful road in Mexico. Update to follow...</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -260,6 +263,7 @@ alt="Preparing unicycle for talk." /></p>
 <p>I was still tweaking while the presentations were happening, but the demo
 worked!</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -334,6 +338,7 @@ equation</a> applies to component failures.</p>
 <p>Now, I should try and avoid gunk build up in the fan by not using the
 computer: in bed, in sand dunes, in caves, in a forest...</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -395,6 +400,7 @@ country you can forget it - back to £3/MB, or something on the order of £1000
 / day. It would be possible if the maps are preloaded but still you can see
 the situation is ridiculous.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -435,6 +441,7 @@ selling it.</p>
 
 <p>Please refund.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -474,6 +481,7 @@ the load.</p>
 <p>The device now works well and has been used many times already. It would be
 convenient if it had a current meter though.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -522,6 +530,7 @@ wide berth.</p>
 <p>I learnt most of this from <a href="http://electronics.stackexchange.com/questions/35352/apparent-inconsistency-of-mosfet-power-rating-in-datasheet-soa-v-max-power">my
 question on stackexchange</a>.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -576,6 +585,7 @@ converter.</p>
 not done much testing on it yet but I'll be using it in my touring bike setup
 which I'm working on now.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -599,6 +609,7 @@ better deal but I have no data on their quality.</p>
 
 <p>I've now ordered an Extech EX330.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -703,6 +714,7 @@ use it for now but would really prefer something better.</p>
 </ol>
 
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -755,6 +767,7 @@ is a PIC.</p>
 
 <p><sup>1</sup> Actually borrowed, but he'll never know my bending was that good. :-)</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -864,6 +877,7 @@ Wiznet W5100.</p>
 href="http://www.ekitszone.com/Products/4-enc28j60-ethernet-shield-for-arduino.aspx">ekitszone</a>.
 Looks well made and works.</p>
 ]]></content>
+   
   </entry>
   
 </feed>

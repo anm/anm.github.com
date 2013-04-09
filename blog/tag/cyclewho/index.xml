@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged cyclewho]]></title>
 
   <link href="http://mm0hai.net/blog/tag/cyclewho/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/cyclewho</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -40,6 +41,7 @@ it is probably safe. :)</p>
 <p>When I set off on this cycling journey I left a girl in Edinburgh. This
 morning a girl left me to travel south.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -145,6 +147,7 @@ the mountains.</p>
 <p>There was some excitement at the end of the gathering too. I'll write about
 that in a further blov post.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -345,6 +348,7 @@ simple label like Buddhist or Kadampa.</p>
 <p>I should research other forms of Buddhism to see if there is one with less
 religion, power and fear, and more useful lessons for living this life.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -384,6 +388,7 @@ of the earth where it came from.</p>
 <p>Mexico is sick and makes me feel sick. The world is sick. San Cristobal is a
 hill station for the recovery of humanity.</p>
 ]]></content>
+   <georss:point>16.7385777 -92.6332806</georss:point>
   </entry>
   
   <entry>
@@ -445,6 +450,7 @@ have a different riding position. The saddle is a Brooks I've had for some
 time, but it has not been used on a tour before. It's breaking in much faster
 than at home, probably because of the heat and humidity.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -506,6 +512,7 @@ supporting an oil based system. But now I look out of the tent and the PEMEX
 sign is like a marker of an oasis. This and the glowing traffic cone landing
 lights, are beautiful.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -547,6 +554,7 @@ going to ride my bike today whether I have a map and a waterproof tent or not.</
 
 <p>Now I feel better. I'm going to have breakfast.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -575,6 +583,7 @@ considered decision about where to go. I just had to move.</p>
 
 <p>I started cycling and it worked. I felt better as soon as I was rolling.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -624,6 +633,7 @@ Angel Walk. Another day I had a good experience when I decided to stop thinking
 and follow my feelings, which led to an interesting result. I might write
 about these later.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -654,6 +664,7 @@ travelling.</p>
 
 <p>I'm afraid I didn't take a photo for this post.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -682,6 +693,7 @@ suffering. Modern life gives more comfort and less disease. With control of
 your environment, waterproof roofs, heating, and factory farming, there is no
 desperation, and no need for gods of rain and corn.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -727,6 +739,7 @@ water. I slept in my damp sleeping bag and missed the morning ceremonies.</p>
 anything could have happened. Maybe the rest outside the Rainbow had gone. I
 would have to check it out later.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -778,6 +791,7 @@ to Panama. We set up camp together. I stayed for the next two weeks.</p>
 
 <p><a href="http://www.flickr.com/photos/mm0hai/8366114804/" title="DSCF3146 by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8083/8366114804_cc0cd31ccb_z.jpg" width="640" height="480" alt="DSCF3146"></a></p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -805,6 +819,7 @@ width="640" height="480" alt="First test of solar charger"></a></p>
 <p>The charger is not mounted on the bike yet, so it's just sitting on top while
 I measure voltages.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -832,6 +847,7 @@ panniers. Far superior service to busses in the UK.</p>
 Manchester. The ADO bus, when I was on it, rolled along with a similar
 feeling.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -878,6 +894,7 @@ gadget to rig up.</p>
 you are poor. I suspect poor countries go through a phase of everyone wanting
 meat as a sign of affluence. Maybe they will grow out of it.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -924,6 +941,7 @@ multimeters and components, not washing machines. They had isopropanol and
 thermal paste. I wanted to do that job on Thinkpad before I left. Ha. You can
 always buy stuff later.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -962,6 +980,7 @@ solar panel fell off as I ran but I did not have time to pick it up. Someone
 picked it up for me though and threw it on the train - it turned out to be
 Jannette who had come to see me off. :)</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -1056,6 +1075,7 @@ accept what is given would be an excellent result.</p>
 
 <p>Happiness and love are contagious.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -1175,6 +1195,7 @@ worked though.</p>
 
 <p>It worked until an awful road in Mexico. Update to follow...</p>
 ]]></content>
+   
   </entry>
   
 </feed>

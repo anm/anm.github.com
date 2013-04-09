@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged rainbow]]></title>
 
   <link href="http://mm0hai.net/blog/tag/rainbow/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/rainbow</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -115,6 +116,7 @@ the mountains.</p>
 <p>There was some excitement at the end of the gathering too. I'll write about
 that in a further blov post.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -164,6 +166,7 @@ Angel Walk. Another day I had a good experience when I decided to stop thinking
 and follow my feelings, which led to an interesting result. I might write
 about these later.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -194,6 +197,7 @@ travelling.</p>
 
 <p>I'm afraid I didn't take a photo for this post.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -222,6 +226,7 @@ suffering. Modern life gives more comfort and less disease. With control of
 your environment, waterproof roofs, heating, and factory farming, there is no
 desperation, and no need for gods of rain and corn.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -267,6 +272,7 @@ water. I slept in my damp sleeping bag and missed the morning ceremonies.</p>
 anything could have happened. Maybe the rest outside the Rainbow had gone. I
 would have to check it out later.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -318,6 +324,7 @@ to Panama. We set up camp together. I stayed for the next two weeks.</p>
 
 <p><a href="http://www.flickr.com/photos/mm0hai/8366114804/" title="DSCF3146 by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8083/8366114804_cc0cd31ccb_z.jpg" width="640" height="480" alt="DSCF3146"></a></p>
 ]]></content>
+   
   </entry>
   
 </feed>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged mexico]]></title>
 
   <link href="http://mm0hai.net/blog/tag/mexico/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/mexico</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -49,6 +50,7 @@ of the earth where it came from.</p>
 <p>Mexico is sick and makes me feel sick. The world is sick. San Cristobal is a
 hill station for the recovery of humanity.</p>
 ]]></content>
+   <georss:point>16.7385777 -92.6332806</georss:point>
   </entry>
   
   <entry>
@@ -110,6 +112,7 @@ supporting an oil based system. But now I look out of the tent and the PEMEX
 sign is like a marker of an oasis. This and the glowing traffic cone landing
 lights, are beautiful.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -138,6 +141,7 @@ considered decision about where to go. I just had to move.</p>
 
 <p>I started cycling and it worked. I felt better as soon as I was rolling.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -168,6 +172,7 @@ travelling.</p>
 
 <p>I'm afraid I didn't take a photo for this post.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -195,6 +200,7 @@ panniers. Far superior service to busses in the UK.</p>
 Manchester. The ADO bus, when I was on it, rolled along with a similar
 feeling.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -241,6 +247,7 @@ multimeters and components, not washing machines. They had isopropanol and
 thermal paste. I wanted to do that job on Thinkpad before I left. Ha. You can
 always buy stuff later.</p>
 ]]></content>
+   
   </entry>
   
 </feed>

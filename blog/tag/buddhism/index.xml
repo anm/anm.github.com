@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged buddhism]]></title>
 
   <link href="http://mm0hai.net/blog/tag/buddhism/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/buddhism</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -40,6 +41,7 @@ it is probably safe. :)</p>
 <p>When I set off on this cycling journey I left a girl in Edinburgh. This
 morning a girl left me to travel south.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -240,6 +242,7 @@ simple label like Buddhist or Kadampa.</p>
 <p>I should research other forms of Buddhism to see if there is one with less
 religion, power and fear, and more useful lessons for living this life.</p>
 ]]></content>
+   
   </entry>
   
 </feed>

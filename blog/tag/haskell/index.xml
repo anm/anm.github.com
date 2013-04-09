@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
 
   <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged haskell]]></title>
 
   <link href="http://mm0hai.net/blog/tag/haskell/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-04-03T02:13:39-06:00</updated>
+  <updated>2013-04-09T01:52:52-05:00</updated>
   <id>http://mm0hai.net/blog/tag/haskell</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -76,6 +77,7 @@ did not complete within minutes.</p>
 <p>I would guess GHC is using nested loops, so slow will have time complexity
 <code>O(n^3)</code> and fast <code>O(n^2)</code>.</p>
 ]]></content>
+   
   </entry>
   
   <entry>
@@ -159,6 +161,7 @@ the fact that I won't know how to print "Hello, world!" until Chapter
 <p>I think I'll leave it at that for now but I intend to say more in further
 posts.</p>
 ]]></content>
+   
   </entry>
   
 </feed>
