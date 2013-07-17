@@ -125,9 +125,11 @@ all detail and treat his subjects only in outline, but that every word tell.
 
 I would like to learn more about the perception of data graphics. For example,
 if you present some circles sized to represent some data, do people perceive
-the value as the diameter of the circle, the area, or something else? Is it
-even linear? Should your graphics be adjusted to allow for human perceptual
-anomalies?
+the value as the diameter of the circle, the area, or something else? Should
+your graphics be adjusted to allow for human perceptual anomalies? (I write
+about these questions in a further post on <a
+href="/blog/2011/08/03/Visualisation-with-Area-and-Circles.html">area and
+circles</a>.)
 
 There is of course the artistic aspect to the design as well. If art is theft,
 books of good visualisations like I have seen should help in this regard. I
