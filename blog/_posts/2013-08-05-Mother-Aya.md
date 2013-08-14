@@ -1,0 +1,73 @@
+---
+layout: post
+title: Mother Aya, Aunt Jurema
+tags: [life, cyclewho, psychedelic, shit]
+---
+
+Burning bush? Yes, you can talk with plants.
+
+It tasted like black treacle, but sweeter, and with a hint of marmite.
+
+I had read "DMT: The Spirit Molecule", and wondered if I would experience any
+of the common patterns. Maybe I would meet alien entities, or find myself in a
+nursery. Maybe I would learn the secrets of the universe. What is its true
+nature? What is it all about?
+
+I started to feel the effect of the Ayahuasca in my body after the first dose,
+but did not notice any mental effect until shortly after the second, which was
+double the size and washed down with a glass of the bitter, astringent,
+Jurema. I am wary of mixing things, especially if I've not had them before,
+but these plants both contain the same chemically active ingredient, DMT, and
+spiritually I guess they are sisters so I thought they would be able to get
+along.
+
+At first all was black, but then colour noise appeared - red, green and blue
+dots, always switching on and off. Then these formed into lines, which made up
+constantly changing shapes. They were square and triangular and zig
+zag. Seemed quite binary, angular, computer generated. The lines were in
+rainbow colours, the rainbows moved and sparkled. It was very beautiful. With
+open eyes, the picture seem quantised into simpler geometrical shapes. Leaves
+and gaps between them angular, and they moved like an animation with
+insufficient framerate. The images were very beautiful, and if I would have
+noticed pain, my face would probably have been hurting from smiling.
+
+I enjoyed this a lot, but I didn't just want pretty pictures. I wanted to
+learn something. I said this and asked, "what can you show me?". I didn't get
+a direct answer - no voice or character speaking to me - but the answer became
+obvious. You are a baby. You know nothing about how the world works. You're
+not ready for that sort of thing. Here - play with the pretty sparklies. I
+realised I knew nothing, and I might as well enjoy it. When I accepted it, I
+realised that being a baby is wonderful. You don't need to do anything or
+worry about anything. You are looked after. Like any mother, Mother Aya just
+wants her babies to healthy and happy.
+
+I thought I was just happy because of the beauty, but then I realised it was
+not just beauty, it was love. I thought I was loving the pictures, but then I
+realised that was ridiculous - I am just a tiny spec - almost nothing - how
+could I produce so much love? It was clear that this was all there - an
+immense field of love - is this what everything is made of? I could only bathe
+in it.
+
+Ayahuasca is what is politely called purgative, or cleansing. I was sick
+once. When I crawled out of the circle to vomit I felt like a snake. It was
+worse for the boy next to me though, who had diarrhoea which at one point
+splatted on my face. At first I tried to work out some way in which that had
+not actually just happened, but my attempt to deny reality was clearly not
+going to work.
+
+There was a lesson though. I had been thinking earlier about how a baby has an
+easy life, but it does things like shitting and pissing everywhere. Now I
+experienced that this is not always enjoyable for everyone else who has to be
+around it. While it is good and right to be a baby when you have to, when you
+can you should grow up. I saw birds hatching and flying and making new nests.
+
+I think it is clear that humans as a race are babies. How can we be told the
+secrets of the universe when we can't even look after ourselves? We are
+shitting all over this planet and can't even feed ourselves without making
+such a mess that it will kill us all and everything else that lives
+here. Maybe in a few million years, if we survive that long, we will will be
+ready to understand.
+
+I asked someone to heat water for me so I could wash my hair and face. Someone
+else fed me chocolate. I could enjoy being looked after a little more, but
+tomorrow I must grow up.
