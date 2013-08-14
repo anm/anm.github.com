@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/nosql/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-07-17T00:14:55-06:00</updated>
+  <updated>2013-08-13T21:32:45-05:00</updated>
   <id>http://mm0hai.net/blog/tag/nosql</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -17,7 +17,7 @@
     <title type="html"><![CDATA[Relaxing with beer on the CouchDB]]></title>
     <link href="http://mm0hai.net/blog/2011/07/19/CouchDB-Marketing.html"/>
     <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/07/19/CouchDB-Marketing.html&amp;user_id=mm0hai" type="text/html" />
-    <updated>2011-07-19T00:00:00-06:00</updated>
+    <updated>2011-07-19T00:00:00-05:00</updated>
     <id>http://mm0hai.net/blog/2011/07/19/CouchDB-Marketing</id>
     <content type="html"><![CDATA[<p>I thought after my <a href="/blog/2011/07/18/MongoDB-Marketing.html">last post
 on MongoDB</a> it would only be fair to do one on <a
@@ -44,7 +44,7 @@ Erlang.</p>
     <title type="html"><![CDATA[I accidentally the MongoDB]]></title>
     <link href="http://mm0hai.net/blog/2011/07/18/MongoDB-Marketing.html"/>
     <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/07/18/MongoDB-Marketing.html&amp;user_id=mm0hai" type="text/html" />
-    <updated>2011-07-18T00:00:00-06:00</updated>
+    <updated>2011-07-18T00:00:00-05:00</updated>
     <id>http://mm0hai.net/blog/2011/07/18/MongoDB-Marketing</id>
     <content type="html"><![CDATA[<p>I read <a href="http://news.ycombinator.com/">hacker news</a> frequently and
 was generally aware of NoSQL databases. I had a feeling I should learn at
