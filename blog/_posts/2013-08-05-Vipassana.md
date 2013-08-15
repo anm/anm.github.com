@@ -4,6 +4,11 @@ title: Vipassana
 tags: [life, cyclewho, meditation]
 ---
 
+<a href="http://www.flickr.com/photos/mm0hai/9392460997/" title="Cushion-25 by
+mm0hai, on Flickr"><img
+src="http://farm6.staticflickr.com/5496/9392460997_3ab694ea18_z.jpg"
+width="640" height="480" alt="Cushion-25"></a>
+
 I spent 10 full days sitting on a cushion meditating, on a course run by
 S. N. Goenka (by audio recording) and his assistant teacher, Mirjam Berns, who
 was present in Costa Rica. I had heard about these courses several times from
