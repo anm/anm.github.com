@@ -26,7 +26,7 @@ on schedule. I also took a bus to hospital one day in Guatemala.
 
 ### Is it not hard?
 
-It is hard. It is too hot and humid, often boring, and occasionaly a bit
+It is hard. It is too hot and humid, often boring, and occasionally a bit
 uncomfortable, but actually with a Brooks saddle that is very minor.
 
 <a href="http://www.flickr.com/photos/mm0hai/9256567267/" title="DSCF5067 by
@@ -41,12 +41,12 @@ provoked by the almost universal fear of everyone else's country. Some places
 are more dangerous than others, but that is not a good reason not to cycle in
 them, if you are aware of the situation and mitigate the risk. I have cycled
 through the some of the most violent cities in the world, which also have
-awful traffic and roads, and not come to any harm. In generaly, the world is
+awful traffic and roads, and not come to any harm. In generally, the world is
 much safer than you think. Never listen to the negative opinion of someone who
 has never even been to the country in question! If they know it well, then
 listen, remember what they said, but take it with a pinch of salt.
 
-You need to be careful about diseases, but once you have taken precations, it
+You need to be careful about diseases, but once you have taken precautions, it
 makes no sense to worry about it. Be aware of malaria, dengue, various biting
 insects with other diseases. Avoid damaging the skin, and if you do take it
 seriously - keep it clean. Small wounds that can be ignored in Europe can get
@@ -94,7 +94,7 @@ src="http://farm4.staticflickr.com/3770/9565451544_d9a97d2cfa.jpg" width="375"
 height="500" alt="DSCF4905"></a>
 
 When cycling in remote places, mostly rice, pasta, vegetables, fruit, and
-sometimes bread. Whene there is tasty street food, I sometimes eat that. When
+sometimes bread. When there is tasty street food, I sometimes eat that. When
 in towns, I am probably more likely to go to a restaurant / comedor than to
 cook, except if I am in a hostel, where I can cook good food and not have to
 eat chicken, which is the only thing you can get in comedors in many places in
