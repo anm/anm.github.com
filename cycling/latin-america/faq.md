@@ -122,11 +122,6 @@ limited to simpler pasta and rice based food on my petrol powered stove.
           </time>
         </span>
        &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-        (<ul class="inline-tag-list">
-          {% for tag in post.tags %}<li><a href="/blog/tag/{{tag}}">{{tag}}</a></li>
-        {% endfor %}
-        </ul>)
-
       </li>
   {% endif %}
   {% endfor %}
