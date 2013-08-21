@@ -1,6 +1,6 @@
 tags:
 	rm -rf blog/tag
-	jekyll
+	jekyll build
 	cp -r _site/blog/tag blog/
 
 	git reset
