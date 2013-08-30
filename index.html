@@ -24,6 +24,12 @@
 <link href="atom.xml" type="application/atom+xml" rel="alternate" title="ANM's Blog" />
 
 <link type="text/css" href="/css/mm0hai.css" rel="stylesheet" />
+
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+<![endif]-->
+
 <title>
 ANM, Alistair MacLeod
 </title>
@@ -40,7 +46,6 @@ ANM, Alistair MacLeod
 </script>
 </head>
 <body>
-
 
 <h1 title="CAN HAS STDIO? VISIBLE &quot;HAI WORLD!&quot; KTHXBYE"><a href="hai.html"><img src="anm-glider-icon-32.png" alt="glider logo" width="32" height="32"/> HAI!</a></h1>
 <p>This is the homepage of Alistair MacLeod (anm), and his <a href="radio">amateur
@@ -119,6 +124,8 @@ _gaq.push(['_trackEvent', 'Tickybox', 'toggle', 'tickybox']);
 
 
 <h1>Bloviations from the Phrontistery</h1>
+<div id="map" style="width: 600px; height: 400px"></div>
+
 <div id="blog">
     <ul class="posts">
     {% for post in site.posts %}
@@ -138,6 +145,22 @@ Google+: <a href="https://plus.google.com/118014097628270005061" rel="me">+Alist
 </address>
 
 &copy; 2013 Alistair N. MacLeod
+
+<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+<script src="leaflet/leaflet-providers.js"></script>
+<script src="geotagged-blog-posts.js"></script>
+<script>
+var map = L.map('map');
+L.tileLayer.provider('Esri.WorldPhysical').addTo(map);
+
+for (var i = 0; i < geotagged_posts.length; i++) {
+                    post = geotagged_posts[i];
+                    llarr = post.latlon.split(' ');
+                    L.marker(llarr).addTo(map).bindPopup('<a href="' + post.url +
+                    '"> ' + post.title + '</a>').openPopup();
+}
+map.setView([11, -88], 5);
+</script>
 
 <script type="text/javascript">
   (function() {
