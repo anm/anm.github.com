@@ -2,6 +2,7 @@
 layout: post
 title: Leaving Edinburgh
 tags: [cycling, cyclewho]
+location: 55.951095 -3.195691
 ---
 
 After far too long in Edinburgh I am finally moving. I decided that even if I

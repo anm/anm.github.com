@@ -2,6 +2,7 @@
 layout: post
 title: Oaxaca Healing Rainbow
 tags: [life, rainbow, cyclewho]
+location: 15.927404 -95.632067
 ---
 
 <a href="http://www.flickr.com/photos/mm0hai/8542647331/" title="Rainbow

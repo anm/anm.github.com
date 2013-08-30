@@ -2,6 +2,7 @@
 layout: post
 title: Mother Aya, Aunt Jurema
 tags: [life, cyclewho, psychedelic, shit]
+location: 8.764126 -83.014069
 ---
 
 <a href="http://www.flickr.com/photos/mm0hai/9497148473/" title="Magic Potions

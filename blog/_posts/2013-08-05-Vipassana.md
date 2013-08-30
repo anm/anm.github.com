@@ -2,6 +2,7 @@
 layout: post
 title: Vipassana
 tags: [life, cyclewho, meditation]
+location: 9.328286 -83.749638
 ---
 
 <a href="http://www.flickr.com/photos/mm0hai/9392460997/" title="Cushion-25 by

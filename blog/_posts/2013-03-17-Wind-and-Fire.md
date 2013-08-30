@@ -2,6 +2,7 @@
 layout: post
 title: Wind and Fire
 tags: [rainbow, mexico, oaxaca, life, cyclewho, fire]
+location: 15.927404 -95.632076
 ---
 
 I could feel something today. Some energy in the air, like something was going

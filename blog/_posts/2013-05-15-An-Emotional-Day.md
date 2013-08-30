@@ -2,6 +2,7 @@
 layout: post
 title: An emotional day
 tags: [cyclewho, life, belize]
+location: 17.163385 -88.756828
 ---
 
 I thought this day might be interesting as an example of some thoughts and

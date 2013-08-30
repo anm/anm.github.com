@@ -2,6 +2,7 @@
 layout: post
 title: Guatemala
 tags: [cyclewho, guatemala]
+location: 16.914282 -89.917603
 ---
 
 I don't have a lot to say about this country, because I wasn't there for very

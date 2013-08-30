@@ -2,6 +2,7 @@
 layout: post
 title: USA Calling
 tags: [cyclewho, usa, food]
+location: 14.906967 -87.808228
 ---
 
 I have thought about giving up this cycling nonsense and moving to the USA. I
