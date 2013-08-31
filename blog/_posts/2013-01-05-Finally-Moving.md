@@ -2,6 +2,7 @@
 layout: post
 title: Finally Moving
 tags: [mexico, cycling, cyclewho]
+location: 17.510204 -91.98104
 ---
 
 I spent over two weeks at the Rainbow Gathering, then a couple of days in

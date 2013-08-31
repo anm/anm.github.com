@@ -2,6 +2,7 @@
 layout: post
 title: The Palenque Rainbow Gathering
 tags: [cycling, cyclewho, rainbow]
+location: 17.483017 -91.925139
 ---
 
 I spent the last two weeks at the Palenque Rainbow Gathering. Unfortunately I

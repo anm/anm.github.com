@@ -2,6 +2,7 @@
 layout: post
 title: Intimate Shitting
 tags: [rainbow, shit, mexico, cyclewho]
+location: 17.483017 -91.925139
 ---
 
 <!--- date approximate -->

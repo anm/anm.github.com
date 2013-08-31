@@ -2,6 +2,7 @@
 layout: post
 title: The Bike is Important
 tags: [cycling, cyclewho]
+location: 17.510204 -91.98104
 ---
 
 I don't think you understand how important this is. This is not a toy or for

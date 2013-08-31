@@ -2,6 +2,7 @@
 layout: post
 title: Going to the Palenque Rainbow Gathering
 tags: [cycling, cyclewho, rainbow]
+location: 17.510204 -91.98104
 ---
 
 > When the earth is ravaged and the animals are dying, a new tribe of people

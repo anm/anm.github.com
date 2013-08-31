@@ -2,6 +2,7 @@
 layout: post
 title: Babylon by Bus
 tags: [cyclewho, oaxaca, mexico, life]
+location: 15.970548 -95.621588
 ---
 
 When it came time to leave the Oaxaca Rainbow Gathering, we were offered a
