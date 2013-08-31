@@ -130,7 +130,7 @@ _gaq.push(['_trackEvent', 'Tickybox', 'toggle', 'tickybox']);
     <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span>
-       &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+       &raquo; <a href="{{ post.url }}?utm_content=list">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
 </div>
@@ -157,7 +157,7 @@ for (var i = 0; i < geotagged_posts.length; i++) {
                     post = geotagged_posts[i];
                     llarr = post.latlon.split(' ');
                     L.marker(llarr).addTo(map).bindPopup('<a href="' + post.url +
-                    '"> ' + post.title + '</a>').openPopup();
+                    '?utm_content=map"> ' + post.title + '</a>').openPopup();
 }
 map.setView([11, -88], 5);
 </script>
