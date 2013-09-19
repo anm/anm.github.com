@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/mexico/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-08-21T13:32:24-05:00</updated>
+  <updated>2013-09-19T01:55:46-05:00</updated>
   <id>http://mm0hai.net/blog/tag/mexico</id>
   <author>
     <name><![CDATA[Alistair N. MacLeod]]></name>
@@ -47,7 +47,7 @@ home to San Cristobal.</p>
 
 <p>I would like to travel by hippie bus one day.</p>
 ]]></content>
-   
+   <georss:point>15.970548 -95.621588</georss:point>
   </entry>
   
   <entry>
@@ -89,7 +89,7 @@ mm0hai, on Flickr"><img
 src="http://farm9.staticflickr.com/8522/8543751136_b140416fd0_z.jpg"
 width="640" height="480" alt="DSCF3623"></a></p>
 ]]></content>
-   
+   <georss:point>15.927404 -95.632076</georss:point>
   </entry>
   
   <entry>
@@ -220,7 +220,7 @@ considered decision about where to go. I just had to move.</p>
 
 <p>I started cycling and it worked. I felt better as soon as I was rolling.</p>
 ]]></content>
-   
+   <georss:point>17.510204 -91.98104</georss:point>
   </entry>
   
   <entry>
@@ -251,7 +251,7 @@ travelling.</p>
 
 <p>I'm afraid I didn't take a photo for this post.</p>
 ]]></content>
-   
+   <georss:point>17.483017 -91.925139</georss:point>
   </entry>
   
   <entry>
@@ -279,7 +279,7 @@ panniers. Far superior service to busses in the UK.</p>
 Manchester. The ADO bus, when I was on it, rolled along with a similar
 feeling.</p>
 ]]></content>
-   
+   <georss:point>21.164483 -86.828384</georss:point>
   </entry>
   
   <entry>
