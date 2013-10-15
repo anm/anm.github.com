@@ -5,7 +5,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"
   xmlns:georss="http://www.georss.org/georss">
 
-  <title><![CDATA[Alistair MacLeod, MM0HAI: Posts tagged {{page.tag}}]]></title>
+  <title><![CDATA[River MacLeod, MM0HAI: Posts tagged {{page.tag}}]]></title>
 
   <link href="{{ site.url }}/blog/tag/{{page.tag}}/index.xml" rel="self"/>
   <link href="{{ site.url }}/"/>

@@ -5,15 +5,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom"
   xmlns:georss="http://www.georss.org/georss">
 
-  <title>Alistair MacLeod, MM0HAI</title>
+  <title>River MacLeod, MM0HAI</title>
  <link href="http://mm0hai.net/atom.xml" rel="self"/>
  <link href="http://mm0hai.net"/>
 
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://mm0hai.net/blog</id>
  <author>
-   <name>Alistair N. MacLeod</name>
-   <email>anm@mm0hai.net</email>
+   <name>River MacLeod</name>
+   <email>river@mm0hai.net</email>
  </author>
 
  {% for post in site.posts %}
