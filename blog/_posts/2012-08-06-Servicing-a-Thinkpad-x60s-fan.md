@@ -69,3 +69,7 @@ equation</a> applies to component failures.
 
 Now, I should try and avoid gunk build up in the fan by not using the
 computer: in bed, in sand dunes, in caves, in a forest...
+
+I have also written about
+<a href="/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html">oiling the X61
+fans</a>.
