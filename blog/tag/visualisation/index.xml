@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/visualisation/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2013-10-16T02:45:28-05:00</updated>
+  <updated>2014-04-11T01:16:00+01:00</updated>
   <id>http://mm0hai.net/blog/tag/visualisation</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -17,7 +17,7 @@
     <title type="html"><![CDATA[Torchwood Spinning Triangle]]></title>
     <link href="http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html"/>
     <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html&amp;user_id=mm0hai" type="text/html" />
-    <updated>2011-08-08T00:00:00-05:00</updated>
+    <updated>2011-08-08T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms</id>
     <content type="html"><![CDATA[
 
@@ -102,7 +102,7 @@ version and put it on the Android Marketplace.</del></p>
     <title type="html"><![CDATA[Visualisation with Area and Circles]]></title>
     <link href="http://mm0hai.net/blog/2011/08/03/Visualisation-with-Area-and-Circles.html"/>
     <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/08/03/Visualisation-with-Area-and-Circles.html&amp;user_id=mm0hai" type="text/html" />
-    <updated>2011-08-03T00:00:00-05:00</updated>
+    <updated>2011-08-03T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/08/03/Visualisation-with-Area-and-Circles</id>
     <content type="html"><![CDATA[<p>In this post I will explain why the use of area in visualisations should
 usually be avoided. Circles do have some uses though, so I also offer advice
@@ -128,10 +128,8 @@ as it should. "people's judgements of area typically are not proportional to
 area, but rather to area raised to a power less than one". [3]</p>
 
 <p>One idea is to scale the circle to match typical human perception.
-A possible scaling law is given in Tufte[2]:</p>
-
-<pre><code>      reported perceived area = (actual area)^x, where x = 0.8 ± 0.3
-</code></pre>
+A possible scaling law is given in Tufte[2]:
+          reported perceived area = (actual area)<sup>x</sup>, where x = 0.8 ± 0.3</p>
 
 <p>The problem with this idea is that perception varies greatly with many
 variables: among people and with the context of the graphic, for example.
@@ -184,7 +182,7 @@ Rob Waller</p>
     <title type="html"><![CDATA[Learning Visualisation: Tools, Books, Notes]]></title>
     <link href="http://mm0hai.net/blog/2011/05/26/Visualisation-Resources-and-Techniques.html"/>
     <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/05/26/Visualisation-Resources-and-Techniques.html&amp;user_id=mm0hai" type="text/html" />
-    <updated>2011-05-26T00:00:00-05:00</updated>
+    <updated>2011-05-26T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/05/26/Visualisation-Resources-and-Techniques</id>
     <content type="html"><![CDATA[<p>I started to become interested in visualisation last year, particularly at <a
 href="http://culturehackscotland.com/">Culture Hack Scotland</a>. They
@@ -353,7 +351,7 @@ Edward Tufte</p>
     <title type="html"><![CDATA[Github Punchcard - Visualising Commit Times]]></title>
     <link href="http://mm0hai.net/blog/2011/03/11/github-punchcard.html"/>
     <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/03/11/github-punchcard.html&amp;user_id=mm0hai" type="text/html" />
-    <updated>2011-03-11T00:00:00-05:00</updated>
+    <updated>2011-03-11T00:00:00+00:00</updated>
     <id>http://mm0hai.net/blog/2011/03/11/github-punchcard</id>
     <content type="html"><![CDATA[<p>I pushed my <a href="/life/life.html">HTML5 Game of Life</a> to
 <a href="https://github.com/anm/HTML5-Game-of-Life/">github</a> today. I hadn't
