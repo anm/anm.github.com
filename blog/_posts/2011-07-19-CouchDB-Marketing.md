@@ -9,7 +9,7 @@ I thought after my <a href="/blog/2011/07/18/MongoDB-Marketing.html">last post
 on MongoDB</a> it would only be fair to do one on <a
 href="http://couchdb.apache.org/">CouchDB</a>. How do I know about CouchDB?
 Well, I think it shows up on hacker news less often than Mongo so the main
-reason I know about it is <a href="http://twitter.com/#!/daleharvey/">Dale
+reason I know about it is <a href="http://twitter.com/daleharvey/">Dale
 Harvey</a>. Dale works for <a href="http://www.couchbase.com/">Couchbase</a>
 and is sometimes seen wearing his CouchDB t-shirt in Appleton Tower, hub of <a
 href="http://startupcafe.co.uk/">Edinburgh's startup scene</a> and where I
