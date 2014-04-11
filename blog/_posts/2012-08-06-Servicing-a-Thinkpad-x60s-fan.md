@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Servicing a Thinkpad x60s Fan and cooling system
-tags: [electronics]
+tags: [electronics, thinkpad]
 ---
 
 The fan in my x60s had started to sound rough. I was worried it was going to
