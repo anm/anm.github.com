@@ -15,8 +15,14 @@ Yes. It is a 15W monocrystaline panel.
 ### What is it for?
 
 It charges my laptop, phone, camera batteries, lights, and anything else USB I
-might plug into it. I bought the panel, and made the mounting for my bike and
-the battery charger.
+might plug into it. It doesn't drive the bike, which is entirely pedal
+powered. I bought the panel on ebay in the UK, and made the mounting for my
+bike and the battery charger.
+
+### Where did you get the bike / gear?
+
+I have had the bike for many years. It came with me from Scotland on the
+plane. Most other gear, including solar panel, came with me from there too.
 
 ###  Do you cycle all the way?
 
