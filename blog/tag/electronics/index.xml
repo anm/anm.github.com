@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2014-05-21T01:37:30+01:00</updated>
+  <updated>2014-05-22T02:33:37+01:00</updated>
   <id>http://mm0hai.net/blog/tag/electronics</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -188,6 +188,68 @@ to work with because they are so difficult to bend into the right shape. It
 worked though.</p>
 
 <p>It worked until an awful road in Mexico. Update to follow...</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Teardown: (Probably fake) Griffin USB Car Charger (FAIL)]]></title>
+    <link href="http://mm0hai.net/blog/2012/09/30/Griffin-USB-Car-Charger.html"/>
+    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2012/09/30/Griffin-USB-Car-Charger.html&amp;user_id=mm0hai" type="text/html" />
+    <updated>2012-09-30T00:00:00+01:00</updated>
+    <id>http://mm0hai.net/blog/2012/09/30/Griffin-USB-Car-Charger</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/mm0hai/8045423849/" title="Griffin
+PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img
+src="http://farm9.staticflickr.com/8312/8045423849_f1d5c13f51_n.jpg"
+width="320" height="263" alt="Griffin PowerJolt Dual Universal Micro"></a></p>
+
+<p>After my previous <a
+href="/blog/2012/08/01/Message-to-an-ebay-seller.html">teardown of an MC34063
+based cigarette lighter port USB power supply</a> showed it to be inadequate I
+still needed a USB supply. I thought I would buy another one of these devices
+but this time a branded one that cost more than one pound.</p>
+
+<p>I chose what was claimed to be the Griffin PowerJolt Dual Universal Micro. It
+is specified as having 2A output (1A per port). Since I wrote this article,
+several people have pointed out that they think I got a fake. I suppose a good
+quality one would cost more that the £2, including postage, which I paid on
+ebay.</p>
+
+<p><a href="http://www.flickr.com/photos/mm0hai/8045424303/" title="Griffin
+PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img
+src="http://farm9.staticflickr.com/8452/8045424303_38475eba6f.jpg" width="422"
+height="500" alt="Griffin PowerJolt Dual Universal Micro"></a></p>
+
+<p>A bad power supply can destroy expensive equipment so this is a case where
+"don't turn it on, take it apart" is very good advice.</p>
+
+<p>My first impressions were the bad soldering. The joints are mottled and balled
+up. Then I noticed an odd lump of solder that had been trimmed with side
+cutters. This was on the end of a wire from the inductor (a toroid) and was
+not secured to anything. A thin piece of solder extended to one pin of the IC,
+and if the wire was pressed against the board this may have made
+contact. Looking at the PCB, the solder mask goes right up to the hole for
+this wire. I suspect a faulty PCB design and this is some bodge that might
+make it work sometimes if it doesn't come loose.</p>
+
+<p><a href="http://www.flickr.com/photos/mm0hai/8045424471/" title="Griffin
+PowerJolt - Loose wire by mm0hai, on Flickr"><img
+src="http://farm9.staticflickr.com/8182/8045424471_ff68928117_o.jpg"
+width="233" height="195" alt="Griffin PowerJolt - Loose wire"></a></p>
+
+<p>The IC is marked O&amp;P 1510 2B23. I can't find it by googling. The capacitors
+are tiny. I expect the filtering would be bad. There is no fuse. Griffin says
+it has "SmartFuse circuit-breaker protection", so I was expecting a separate
+protection device, such as a polyswitch, which is not there.</p>
+
+<p>I was going to test the output voltage, current and ripple, but the thing
+won't even work without me fixing it first, so I'm probably not going to
+bother.</p>
+
+<h2>Conclusions</h2>
+
+<p>You need to pay more than £2 for something that is not crap. There are
+imitation branded electronics on ebay.</p>
 ]]></content>
    
   </entry>
