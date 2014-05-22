@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Teardown: Griffin USB Car Charger (FAIL)"
-tags: []
+title: "Teardown: (Probably fake) Griffin USB Car Charger (FAIL)"
+tags: [electronics]
 ---
 
 <a href="http://www.flickr.com/photos/mm0hai/8045423849/" title="Griffin
@@ -15,8 +15,11 @@ based cigarette lighter port USB power supply</a> showed it to be inadequate I
 still needed a USB supply. I thought I would buy another one of these devices
 but this time a branded one that cost more than one pound.
 
-I chose the Griffin PowerJolt Dual Universal Micro. It claims 2A output (1A per
-port). It cost £2 from ebay, including postage.
+I chose what was claimed to be the Griffin PowerJolt Dual Universal Micro. It
+is specified as having 2A output (1A per port). Since I wrote this article,
+several people have pointed out that they think I got a fake. I suppose a good
+quality one would cost more that the £2, including postage, which I paid on
+ebay.
 
 <a href="http://www.flickr.com/photos/mm0hai/8045424303/" title="Griffin
 PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img
@@ -52,5 +55,5 @@ bother.
 Conclusions
 -----------
 
-Griffin cannot be trusted as an electronics brand. You need to pay more than
-£2 for something that is not crap.
+You need to pay more than £2 for something that is not crap. There are
+imitation branded electronics on ebay.
