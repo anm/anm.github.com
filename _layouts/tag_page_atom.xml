@@ -19,7 +19,6 @@
   <entry>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
     <link href="{{ site.url }}{{ post.url }}"/>
-    <link rel="payment" href="https://flattr.com/submit/auto?url={{site.url}}{{post.url}}&amp;user_id=mm0hai" type="text/html" />
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.id }}</id>
     <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | markdownify | cdata_escape }}]]></content>

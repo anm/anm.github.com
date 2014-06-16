@@ -8,7 +8,6 @@
   <title>River MacLeod, MM0HAI</title>
  <link href="http://mm0hai.net/atom.xml" rel="self"/>
  <link href="http://mm0hai.net"/>
-
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://mm0hai.net/blog</id>
  <author>
@@ -20,7 +19,6 @@
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://mm0hai.net{{ post.url }}"/>
-   <link rel="payment" href="https://flattr.com/submit/auto?url={{site.url}}{{post.url}}&amp;user_id=mm0hai" type="text/html" />
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://mm0hai.net{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
