@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/haskell/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2014-05-22T02:33:37+01:00</updated>
+  <updated>2014-10-16T05:06:39+01:00</updated>
   <id>http://mm0hai.net/blog/tag/haskell</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,6 @@
   <entry>
     <title type="html"><![CDATA[List Comprehensions in Haskell]]></title>
     <link href="http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html"/>
-    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-07-31T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions</id>
     <content type="html"><![CDATA[<h2>Why they're so good</h2>
@@ -83,7 +82,6 @@ did not complete within minutes.</p>
   <entry>
     <title type="html"><![CDATA[Learning Haskell - Part 1]]></title>
     <link href="http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html"/>
-    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-07-17T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1</id>
     <content type="html"><![CDATA[<p>I'm learning Haskell at the moment, and have been doing so slowly over the

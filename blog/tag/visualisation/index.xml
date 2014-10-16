@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/visualisation/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2014-05-22T02:33:37+01:00</updated>
+  <updated>2014-10-16T05:06:39+01:00</updated>
   <id>http://mm0hai.net/blog/tag/visualisation</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,6 @@
   <entry>
     <title type="html"><![CDATA[Torchwood Spinning Triangle]]></title>
     <link href="http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html"/>
-    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-08-08T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms</id>
     <content type="html"><![CDATA[
@@ -101,7 +100,6 @@ version and put it on the Android Marketplace.</del></p>
   <entry>
     <title type="html"><![CDATA[Visualisation with Area and Circles]]></title>
     <link href="http://mm0hai.net/blog/2011/08/03/Visualisation-with-Area-and-Circles.html"/>
-    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/08/03/Visualisation-with-Area-and-Circles.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-08-03T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/08/03/Visualisation-with-Area-and-Circles</id>
     <content type="html"><![CDATA[<p>In this post I will explain why the use of area in visualisations should
@@ -181,7 +179,6 @@ Rob Waller</p>
   <entry>
     <title type="html"><![CDATA[Learning Visualisation: Tools, Books, Notes]]></title>
     <link href="http://mm0hai.net/blog/2011/05/26/Visualisation-Resources-and-Techniques.html"/>
-    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/05/26/Visualisation-Resources-and-Techniques.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-05-26T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/05/26/Visualisation-Resources-and-Techniques</id>
     <content type="html"><![CDATA[<p>I started to become interested in visualisation last year, particularly at <a
@@ -350,7 +347,6 @@ Edward Tufte</p>
   <entry>
     <title type="html"><![CDATA[Github Punchcard - Visualising Commit Times]]></title>
     <link href="http://mm0hai.net/blog/2011/03/11/github-punchcard.html"/>
-    <link rel="payment" href="https://flattr.com/submit/auto?url=http://mm0hai.net/blog/2011/03/11/github-punchcard.html&amp;user_id=mm0hai" type="text/html" />
     <updated>2011-03-11T00:00:00+00:00</updated>
     <id>http://mm0hai.net/blog/2011/03/11/github-punchcard</id>
     <content type="html"><![CDATA[<p>I pushed my <a href="/life/life.html">HTML5 Game of Life</a> to
