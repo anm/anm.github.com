@@ -23,12 +23,12 @@ I then had to access the fan. It was not designed to be removed from the
 fansink but it was possible by bending the metal tabs which held the case over
 the rotor, and peeling back some foil tape.
 
-<a href="http://www.flickr.com/photos/mm0hai/7720829624/" title="Thinkpad x60s Fansink by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8287/7720829624_26bd0a7aaf_z.jpg" width="640" height="480" alt="Thinkpad x60s Fansink"></a>
+<a href="https://www.flickr.com/photos/mm0hai/7720829624/" title="Thinkpad x60s Fansink by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8287/7720829624_26bd0a7aaf_z.jpg" width="640" height="480" alt="Thinkpad x60s Fansink"></a>
 
 I cleaned out quite a lot of dust which had built up by the fan blades and in
 the heatsink fins. I then applied 3 in 1 oil to the bearing surfaces.
 
-<a href="http://www.flickr.com/photos/mm0hai/7720821532/" title="Thinkpad x60s Fansink: Fan motor, rotor removed by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7111/7720821532_d81fbebcc6.jpg" width="500" height="375" alt="Thinkpad x60s Fansink: Fan motor, rotor removed"></a>
+<a href="https://www.flickr.com/photos/mm0hai/7720821532/" title="Thinkpad x60s Fansink: Fan motor, rotor removed by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7111/7720821532_d81fbebcc6.jpg" width="500" height="375" alt="Thinkpad x60s Fansink: Fan motor, rotor removed"></a>
 
 Replacing the heatsink requires replacing the thermal paste, and I expected
 that doing this well would improve cooling in any case. It should reduce the
@@ -44,7 +44,7 @@ isopropanol, which has proven useful for many other electronics
 applications. I was excited to discover I actually had one of these mythical
 "soft lint free cloths". In real life it's called a camera lens cleaner.
 
-<a href="http://www.flickr.com/photos/mm0hai/7258837974/" title="Intel Core Duo, in Thinkpad x60s by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7094/7258837974_5b20049508.jpg" width="500" height="375" alt="Intel Core Duo, in Thinkpad x60s"></a>
+<a href="https://www.flickr.com/photos/mm0hai/7258837974/" title="Intel Core Duo, in Thinkpad x60s by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7094/7258837974_5b20049508.jpg" width="500" height="375" alt="Intel Core Duo, in Thinkpad x60s"></a>
 
 The memory controller is also cooled directly by the fansink. It has a thermal
 pad instead of paste. I did not replace this because I didn't have another

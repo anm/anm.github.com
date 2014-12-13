@@ -5,9 +5,9 @@ tags: [elsalvador, cycling, cyclewho]
 location: 13.357627 -87.914057
 ---
 
-<a href="http://www.flickr.com/photos/mm0hai/9120315746/" title="El Salvador
+<a href="https://www.flickr.com/photos/mm0hai/9120315746/" title="El Salvador
 Honduras Border, by mm0hai, on Flickr"><img
-src="http://farm8.staticflickr.com/7407/9120315746_21ef809110_z.jpg"
+src="https://farm8.staticflickr.com/7407/9120315746_21ef809110_z.jpg"
 width="640" height="480" alt="DSCF4937"></a>
 
 My route through Honduras did not leave very good options for visiting El

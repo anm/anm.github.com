@@ -15,14 +15,14 @@ leave to catch the train so I had to throw things in without time to decide
 what I really needed. It was the first time I had ridden the bike loaded with
 the new panniers and all gear.
 
-<a href="http://www.flickr.com/photos/mm0hai/8340847482/" title="Leaving by
+<a href="https://www.flickr.com/photos/mm0hai/8340847482/" title="Leaving by
 mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8072/8340847482_4f02f7752a_z.jpg"
+src="https://farm9.staticflickr.com/8072/8340847482_4f02f7752a_z.jpg"
 width="480" height="640" alt="Leaving"></a>
 
-<a href="http://www.flickr.com/photos/mm0hai/8340848528/" title="Leaving by
+<a href="https://www.flickr.com/photos/mm0hai/8340848528/" title="Leaving by
 mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8498/8340848528_82c8c559b5_z.jpg"
+src="https://farm9.staticflickr.com/8498/8340848528_82c8c559b5_z.jpg"
 width="640" height="480" alt="Leaving"></a>
 
 The handling with front panniers is very different. It felt like I had a flat

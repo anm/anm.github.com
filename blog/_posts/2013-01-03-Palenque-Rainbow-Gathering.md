@@ -31,15 +31,15 @@ because I was generally in a bad mood at least partly because of illness, and
 because it was so hot I found it tiring to walk. I also didn't like how there
 were so many people trying to sell things.
 
-<a href="http://www.flickr.com/photos/mm0hai/8362733937/" title="DSCF3053 by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8080/8362733937_29a136bb45_z.jpg" width="640" height="480" alt="DSCF3053"></a>
+<a href="https://www.flickr.com/photos/mm0hai/8362733937/" title="DSCF3053 by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8080/8362733937_29a136bb45_z.jpg" width="640" height="480" alt="DSCF3053"></a>
 
 I learnt something about how palm oil is produced. The gathering was in a palm
 plantation, and one day some people came round with a donkey to harvest the
 nuts from which oil is extracted.
 
-<a href="http://www.flickr.com/photos/mm0hai/8362701093/" title="DSCF3024 by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8378/8362701093_2e4e3d9fb6_z.jpg" width="480" height="640" alt="DSCF3024"></a>
+<a href="https://www.flickr.com/photos/mm0hai/8362701093/" title="DSCF3024 by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8378/8362701093_2e4e3d9fb6_z.jpg" width="480" height="640" alt="DSCF3024"></a>
 
-<a href="http://www.flickr.com/photos/mm0hai/8362703347/" title="DSCF3025 by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8186/8362703347_7b85d7f92f_z.jpg" width="640" height="480" alt="DSCF3025"></a>
+<a href="https://www.flickr.com/photos/mm0hai/8362703347/" title="DSCF3025 by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8186/8362703347_7b85d7f92f_z.jpg" width="640" height="480" alt="DSCF3025"></a>
 
 I had a couple of quite special experiences. One evening I participated in an
 Angel Walk. Another day I had a good experience when I decided to stop thinking

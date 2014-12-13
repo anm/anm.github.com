@@ -8,9 +8,9 @@ I have been designing power supplies and testing solar panels recently. An
 easily and finely adjustable constant current load is very useful for these
 tasks, so I made one.
 
-<a href="http://www.flickr.com/photos/mm0hai/7690254990/" title="Constant
+<a href="https://www.flickr.com/photos/mm0hai/7690254990/" title="Constant
 Current Load by mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8287/7690254990_1f846f9bb6_z.jpg"
+src="https://farm9.staticflickr.com/8287/7690254990_1f846f9bb6_z.jpg"
 width="640" height="523" alt="Constant Current Load"></a>
 
 My design is basically the same as shown in this <a

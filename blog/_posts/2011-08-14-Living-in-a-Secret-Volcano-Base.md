@@ -12,9 +12,9 @@ style: "
      background-color: #ddd }"
 ---
 
-<a href="http://www.flickr.com/photos/canete/2641080054/" title="Llaima 2 by
+<a href="https://www.flickr.com/photos/canete/2641080054/" title="Llaima 2 by
 i.canete, on Flickr"><img
-src="http://farm4.static.flickr.com/3022/2641080054_8db36ea327_z.jpg"
+src="https://farm4.static.flickr.com/3022/2641080054_8db36ea327_z.jpg"
 width="640" height="480" alt="Llaima 2"></a>
 
 No one ever really thinks about the practicalities of living in a
@@ -40,9 +40,9 @@ There are issues common to all volcano types. Lava can overrun your base. The
 ground can melt and quake underneath it. Noxious gases can be a problem, depending on
 your state of evil mutation.
 
-<a href="http://www.flickr.com/photos/photoknipser/2094172110/"
+<a href="https://www.flickr.com/photos/photoknipser/2094172110/"
 title="Gletscher im Mutnovsky-Krater by photoknipser, on Flickr"><img
-src="http://farm3.static.flickr.com/2171/2094172110_48058f47a5_z.jpg?zz=1"
+src="https://farm3.static.flickr.com/2171/2094172110_48058f47a5_z.jpg?zz=1"
 width="640" height="423" alt="Gletscher im Mutnovsky-Krater"></a>
 
 Given these difficulties, why would you still want your base in a volcano?
@@ -55,9 +55,9 @@ Some good reasons include:
 - Extremely convenient for disposing of bodies.
 - Explosions and smoke will be masked by natural seismic activity and should not draw too much attention.
 
-<a href="http://www.flickr.com/photos/21331626@N07/3932218443/"
+<a href="https://www.flickr.com/photos/21331626@N07/3932218443/"
 title="Untitled by Adrien Cretin, on Flickr"><img
-src="http://farm4.static.flickr.com/3501/3932218443_a501ef5cbe_z.jpg"
+src="https://farm4.static.flickr.com/3501/3932218443_a501ef5cbe_z.jpg"
 width="640" height="425" alt=""></a>
 
 Let me know if you decide on the volcano option. Do you have any hints?

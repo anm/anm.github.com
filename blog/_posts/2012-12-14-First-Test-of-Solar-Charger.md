@@ -16,9 +16,9 @@ it seems to work. I did not leave it long enough to see it cutoff when full
 though. I also would like to measure the power supplied so I know how long
 charging will let the computer run.
 
-<a href="http://www.flickr.com/photos/mm0hai/8272408443/" title="First test of
+<a href="https://www.flickr.com/photos/mm0hai/8272408443/" title="First test of
 solar charger by mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8352/8272408443_0390543aa4_z.jpg"
+src="https://farm9.staticflickr.com/8352/8272408443_0390543aa4_z.jpg"
 width="640" height="480" alt="First test of solar charger"></a>
 
 The charger is not mounted on the bike yet, so it's just sitting on top while

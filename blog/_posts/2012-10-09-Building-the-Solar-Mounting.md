@@ -84,12 +84,12 @@ rack. Fibreglass looked like it could give a very nice structure, but it would
 also be messy to work with and I didn't have anywhere I could do that work. It
 would also be expensive and I suspect very time consuming. 
 
-<a href="http://www.flickr.com/photos/mm0hai/sets/72157632529416559/"><img
-src="http://farm9.staticflickr.com/8515/8384167611_3eb618f479_z.jpg"
+<a href="https://www.flickr.com/photos/mm0hai/sets/72157632529416559/"><img
+src="https://farm9.staticflickr.com/8515/8384167611_3eb618f479_z.jpg"
 width="640" height="480" alt="101_0663"></a>
 
 The final design. More detailed photos are on <a
-href="http://www.flickr.com/photos/mm0hai/sets/72157632529416559/">flickr</a>.
+href="https://www.flickr.com/photos/mm0hai/sets/72157632529416559/">flickr</a>.
 
 I had never made anything like this before and didn't know anything about
 working metal. I didn't even know where to buy it. One day though I found what
@@ -106,8 +106,8 @@ sand first would work. I did this, but one of the bends still flattened out to
 the point I was concerned it might break. It survived a little testing round
 Edinburgh though so I kept it.
 
-<a href="http://www.flickr.com/photos/mm0hai/8385254986/" title="I was concerned about these bends, particularly on the left."><img
-src="http://farm9.staticflickr.com/8351/8385254986_5cb5afc812_m.jpg"
+<a href="https://www.flickr.com/photos/mm0hai/8385254986/" title="I was concerned about these bends, particularly on the left."><img
+src="https://farm9.staticflickr.com/8351/8385254986_5cb5afc812_m.jpg"
 width="240" height="180" alt="101_0665"></a>
 
 The tubes I attached to the bike at the front by screwing onto the rack

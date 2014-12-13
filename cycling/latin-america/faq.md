@@ -10,7 +10,7 @@ date: 21 Aug 2013
 
 Yes. It is a 15W monocrystaline panel.
 
-<a href="http://www.flickr.com/photos/mm0hai/9259347194/" title="Steep road. Pulled bike up. by mm0hai, on Flickr"><img src="http://farm6.staticflickr.com/5549/9259347194_02bd4e6c4a_z.jpg" width="640" height="480" alt="Steep road. Pulled bike up."></a>
+<a href="https://www.flickr.com/photos/mm0hai/9259347194/" title="Steep road. Pulled bike up. by mm0hai, on Flickr"><img src="https://farm6.staticflickr.com/5549/9259347194_02bd4e6c4a_z.jpg" width="640" height="480" alt="Steep road. Pulled bike up."></a>
 
 ### What is it for?
 
@@ -35,9 +35,9 @@ on schedule. I also took a bus to hospital one day in Guatemala.
 It is hard. It is too hot and humid, often boring, and occasionally a bit
 uncomfortable, but actually with a Brooks saddle that is very minor.
 
-<a href="http://www.flickr.com/photos/mm0hai/9256567267/" title="DSCF5067 by
+<a href="https://www.flickr.com/photos/mm0hai/9256567267/" title="DSCF5067 by
 mm0hai, on Flickr"><img
-src="http://farm6.staticflickr.com/5345/9256567267_619517f3d3_z.jpg"
+src="https://farm6.staticflickr.com/5345/9256567267_619517f3d3_z.jpg"
 width="640" height="480" alt="DSCF5067"></a>
 
 ### Have you had any problems?
@@ -76,9 +76,9 @@ without suspension, but with brazeons for front and rear racks. I use almost
 smooth tyres. Overall I think this is a very good setup for touring involving
 a fair amount of dirt roads.
 
-<a href="http://www.flickr.com/photos/mm0hai/9120388576/" title="Volcán San
+<a href="https://www.flickr.com/photos/mm0hai/9120388576/" title="Volcán San
 Cristóbal by mm0hai, on Flickr"><img
-src="http://farm3.staticflickr.com/2893/9120388576_18ecf15f35_z.jpg"
+src="https://farm3.staticflickr.com/2893/9120388576_18ecf15f35_z.jpg"
 width="640" height="480" alt="Volcán San Cristóbal"></a>
 
 ### How do you carry your stuff?
@@ -94,9 +94,9 @@ what I feel like...
 
 ### What do you eat?
 
-<a class="float-left" href="http://www.flickr.com/photos/mm0hai/9565451544/" title="DSCF4905 by
+<a class="float-left" href="https://www.flickr.com/photos/mm0hai/9565451544/" title="DSCF4905 by
 mm0hai, on Flickr"><img
-src="http://farm4.staticflickr.com/3770/9565451544_d9a97d2cfa.jpg" width="375"
+src="https://farm4.staticflickr.com/3770/9565451544_d9a97d2cfa.jpg" width="375"
 height="500" alt="DSCF4905"></a>
 
 When cycling in remote places, mostly rice, pasta, vegetables, fruit, and

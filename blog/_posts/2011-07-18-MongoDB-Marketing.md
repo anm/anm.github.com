@@ -11,7 +11,7 @@ least one of them but did not have a real plan to do so yet. Partly, this was
 because I hadn't decided which one would be the best investment of time.
 
 <img class="float-left rounded"
-src="http://farm7.static.flickr.com/6023/5955214301_56dfd34107_m.jpg"
+src="https://farm7.static.flickr.com/6023/5955214301_56dfd34107_m.jpg"
 width="200" height="195" alt="MongoDB Mug"> Then, one day, I found myself in
 the middle of a MongoDB tutorial and using a live database. What? How did that
 happen? I had <a

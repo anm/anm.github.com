@@ -5,9 +5,9 @@ tags: [life, cyclewho, meditation]
 location: 9.328286 -83.749638
 ---
 
-<a href="http://www.flickr.com/photos/mm0hai/9392460997/" title="Cushion-25 by
+<a href="https://www.flickr.com/photos/mm0hai/9392460997/" title="Cushion-25 by
 mm0hai, on Flickr"><img
-src="http://farm6.staticflickr.com/5496/9392460997_3ab694ea18_z.jpg"
+src="https://farm6.staticflickr.com/5496/9392460997_3ab694ea18_z.jpg"
 width="640" height="480" alt="Cushion-25"></a>
 
 I spent 10 full days sitting on a cushion meditating, on a course run by

@@ -5,18 +5,18 @@ tags: [life, rainbow, cyclewho]
 location: 15.927404 -95.632067
 ---
 
-<a href="http://www.flickr.com/photos/mm0hai/8542647331/" title="Rainbow
+<a href="https://www.flickr.com/photos/mm0hai/8542647331/" title="Rainbow
 Welcome by mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8087/8542647331_1bf5f02ec0_z.jpg"
+src="https://farm9.staticflickr.com/8087/8542647331_1bf5f02ec0_z.jpg"
 width="640" height="481" alt="Rainbow Welcome"></a>
 
 Somewhere over the rainbow, I found a coconut palm beach. Tropical, on the
 pacific coast, warm sea and freshwater lagoon, plentiful coconuts and mangoes,
 and rainbows living there.
 
-<a href="http://www.flickr.com/photos/mm0hai/8546100414/" title="DSCF3667 by
+<a href="https://www.flickr.com/photos/mm0hai/8546100414/" title="DSCF3667 by
 mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8105/8546100414_b26a1edde2_z.jpg"
+src="https://farm9.staticflickr.com/8105/8546100414_b26a1edde2_z.jpg"
 width="640" height="480" alt="DSCF3667"></a>
 
 This was a Healing Rainbow Gathering. This meant that there was no smoking,
@@ -76,9 +76,9 @@ consume in small quantities from things like washed vegetables and tooth
 brushing. At the rainbow though I drank well water and accidentally swallowed
 some from the laguna than many birds swam in, and I did not get ill.
 
-<a href="http://www.flickr.com/photos/mm0hai/8544851505/" title="DSCF3658 by
+<a href="https://www.flickr.com/photos/mm0hai/8544851505/" title="DSCF3658 by
 mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8235/8544851505_f9b04fae13_z.jpg"
+src="https://farm9.staticflickr.com/8235/8544851505_f9b04fae13_z.jpg"
 width="640" height="480" alt="DSCF3658"></a>
 
 I was also introduced to coconut cheese. Some people discovered that some old
@@ -90,9 +90,9 @@ already, as it is very good.
 I slept in my hammock most of the time. I slept well. It turns out thought that
 it was not very comfortable for two, because there was no space to move.
 
-<a href="http://www.flickr.com/photos/mm0hai/8544856681/" title="DD Frontline
+<a href="https://www.flickr.com/photos/mm0hai/8544856681/" title="DD Frontline
 Hammock by mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8086/8544856681_e83c8aa46c_z.jpg"
+src="https://farm9.staticflickr.com/8086/8544856681_e83c8aa46c_z.jpg"
 width="640" height="480" alt="DD Frontline Hammock"></a>
 
 Overall, I enjoyed this gathering. I was much happier than at the Palenque

@@ -4,9 +4,9 @@ title: "Teardown: (Probably fake) Griffin USB Car Charger (FAIL)"
 tags: [electronics]
 ---
 
-<a href="http://www.flickr.com/photos/mm0hai/8045423849/" title="Griffin
+<a href="https://www.flickr.com/photos/mm0hai/8045423849/" title="Griffin
 PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8312/8045423849_f1d5c13f51_n.jpg"
+src="https://farm9.staticflickr.com/8312/8045423849_f1d5c13f51_n.jpg"
 width="320" height="263" alt="Griffin PowerJolt Dual Universal Micro"></a>
 
 After my previous <a
@@ -21,9 +21,9 @@ several people have pointed out that they think I got a fake. I suppose a good
 quality one would cost more that the £2, including postage, which I paid on
 ebay.
 
-<a href="http://www.flickr.com/photos/mm0hai/8045424303/" title="Griffin
+<a href="https://www.flickr.com/photos/mm0hai/8045424303/" title="Griffin
 PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8452/8045424303_38475eba6f.jpg" width="422"
+src="https://farm9.staticflickr.com/8452/8045424303_38475eba6f.jpg" width="422"
 height="500" alt="Griffin PowerJolt Dual Universal Micro"></a>
 
 A bad power supply can destroy expensive equipment so this is a case where
@@ -38,9 +38,9 @@ contact. Looking at the PCB, the solder mask goes right up to the hole for
 this wire. I suspect a faulty PCB design and this is some bodge that might
 make it work sometimes if it doesn't come loose.
 
-<a href="http://www.flickr.com/photos/mm0hai/8045424471/" title="Griffin
+<a href="https://www.flickr.com/photos/mm0hai/8045424471/" title="Griffin
 PowerJolt - Loose wire by mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8182/8045424471_ff68928117_o.jpg"
+src="https://farm9.staticflickr.com/8182/8045424471_ff68928117_o.jpg"
 width="233" height="195" alt="Griffin PowerJolt - Loose wire"></a>
 
 The IC is marked O&P 1510 2B23. I can't find it by googling. The capacitors

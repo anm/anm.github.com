@@ -7,13 +7,13 @@ tags: [electronics]
 
 I bought this on ebay for £1.17 including postage, but it was worse than my low expectations.
 
-<a href="http://www.flickr.com/photos/mm0hai/7688389772/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8430/7688389772_f9b45bed93_n.jpg" width="320" height="291" alt="MC34063 based USB car charger"></a>
+<a href="https://www.flickr.com/photos/mm0hai/7688389772/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8430/7688389772_f9b45bed93_n.jpg" width="320" height="291" alt="MC34063 based USB car charger"></a>
 
-<a href="http://www.flickr.com/photos/mm0hai/7688390396/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8005/7688390396_f8834ba3ba_z.jpg" width="640" height="351" alt="MC34063 based USB car charger"></a>
+<a href="https://www.flickr.com/photos/mm0hai/7688390396/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8005/7688390396_f8834ba3ba_z.jpg" width="640" height="351" alt="MC34063 based USB car charger"></a>
 
-<a href="http://www.flickr.com/photos/mm0hai/7688390784/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8152/7688390784_86e180f45b.jpg" width="500" height="358" alt="MC34063 based USB car charger"></a>
+<a href="https://www.flickr.com/photos/mm0hai/7688390784/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8152/7688390784_86e180f45b.jpg" width="500" height="358" alt="MC34063 based USB car charger"></a>
 
-<a href="http://www.flickr.com/photos/mm0hai/7688391162/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7258/7688391162_0e23a40901.jpg" width="500" height="401" alt="MC34063 based USB car charger"></a>
+<a href="https://www.flickr.com/photos/mm0hai/7688391162/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7258/7688391162_0e23a40901.jpg" width="500" height="401" alt="MC34063 based USB car charger"></a>
 
 Here's what I said to the seller:
 

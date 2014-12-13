@@ -18,7 +18,7 @@ Pay no attention to the audio behind the wind-noise - I think all I
 said was that I was using the FT-817 and 5W.
 
 <img
-src="http://farm6.static.flickr.com/5309/5557283960_fc600b3d91.jpg"
+src="https://farm6.static.flickr.com/5309/5557283960_fc600b3d91.jpg"
 width="375" height="500" alt="HF Bike Mobile on Blackford Hill" />
 
 15m 1/4 wave and 2 J-Pole. The latter is held together with masking
@@ -28,7 +28,7 @@ roads. Four sections, as shown here, hits trees on some roads. It is
 no higher than a bus though so should be ok on main roads.
 
 <img
-src="http://farm6.static.flickr.com/5252/5557297492_6a1be9e006.jpg"
+src="https://farm6.static.flickr.com/5252/5557297492_6a1be9e006.jpg"
 width="375" height="500" alt="101_0474.JPG" />
 
 The ground tuning capacitor. Red goes to coax braid, yellow to frame.
@@ -37,4 +37,4 @@ Everything survived being bashed down the back of the hill, where
 there are now steps, some of which I rode over. Low trees ripped off
 the J-Pole though.
 
-<a href="http://www.flickr.com/photos/58967572@N03/sets/72157626343215344/">More photos</a>
+<a href="https://www.flickr.com/photos/58967572@N03/sets/72157626343215344/">More photos</a>

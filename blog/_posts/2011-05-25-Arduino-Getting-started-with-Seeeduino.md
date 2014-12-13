@@ -27,7 +27,7 @@ simplification did not make quicker development a bad thing. :-) I decided I
 had wasted enough time and just wanted to get something done, so I bought an
 Arduino.
 
-<img src="http://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg"
+<img src="https://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg"
 width="500" height="375" alt="Seeeduino and ethernet shield">
 
 I actually chose the seeedunio, an Arduino clone. The design is open so this

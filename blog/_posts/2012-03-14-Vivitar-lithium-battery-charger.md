@@ -10,7 +10,7 @@ a power system for my bike at the moment and have been reading about batteries
 and methods of charging them so I am interested to see how it works and need
 to decide whether to use it on my bike or to make my own charger.
 
-<a href="http://www.flickr.com/photos/58967572@N03/6838509368/" title="Vivitar charger for Canon NB2L lithium battery - front case by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7178/6838509368_63b77a3b61.jpg" width="343" height="500" alt="Vivitar charger for Canon NB2L lithium battery - front case"></a>
+<a href="https://www.flickr.com/photos/58967572@N03/6838509368/" title="Vivitar charger for Canon NB2L lithium battery - front case by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7178/6838509368_63b77a3b61.jpg" width="343" height="500" alt="Vivitar charger for Canon NB2L lithium battery - front case"></a>
 
 Taking it Apart
 ===============
@@ -23,15 +23,15 @@ requirements, then once the design had been approved they were removed to save
 money - most people would not notice. This is really nasty and poor quality,
 and probably illegal.
 
-<a href="http://www.flickr.com/photos/58967572@N03/6984633733/" title="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7182/6984633733_4d0d050b5d.jpg" width="500" height="375" alt="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors"></a>
+<a href="https://www.flickr.com/photos/58967572@N03/6984633733/" title="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7182/6984633733_4d0d050b5d.jpg" width="500" height="375" alt="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors"></a>
 
-<a href="http://www.flickr.com/photos/58967572@N03/6984634431/" title="Vivitar charger for Canon NB2L lithium battery - Missing components by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7182/6984634431_111b073a25.jpg" width="473" height="500" alt="Vivitar charger for Canon NB2L lithium battery - Missing com-pents"></a>
+<a href="https://www.flickr.com/photos/58967572@N03/6984634431/" title="Vivitar charger for Canon NB2L lithium battery - Missing components by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7182/6984634431_111b073a25.jpg" width="473" height="500" alt="Vivitar charger for Canon NB2L lithium battery - Missing com-pents"></a>
 
 There is no DC converter chip or microcontroller - it is made from discrete
 components and a comparator IC.
 
 There are some more <a
-href="http://www.flickr.com/photos/58967572@N03/sets/72157629225738410/">photos
+href="https://www.flickr.com/photos/58967572@N03/sets/72157629225738410/">photos
 on flickr</a>.
 
 Correctness

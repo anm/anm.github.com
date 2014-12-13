@@ -5,9 +5,9 @@ tags: [life, cyclewho, psychedelic, shit]
 location: 8.764126 -83.014069
 ---
 
-<a href="http://www.flickr.com/photos/mm0hai/9497148473/" title="Magic Potions
+<a href="https://www.flickr.com/photos/mm0hai/9497148473/" title="Magic Potions
 from the Rainforest by mm0hai, on Flickr"><img
-src="http://farm8.staticflickr.com/7439/9497148473_c779f76ed7_z.jpg"
+src="https://farm8.staticflickr.com/7439/9497148473_c779f76ed7_z.jpg"
 width="640" height="480" alt="Magic Potions from the Rainforest"></a>
 
 Burning bush? Yes, you can talk with plants.

@@ -4,9 +4,9 @@ title: Vegan Crunk Night
 tags: [life, food, vegan]
 ---
 
-<a href="http://www.flickr.com/photos/58967572@N03/7135620371/" title="Vegan
+<a href="https://www.flickr.com/photos/58967572@N03/7135620371/" title="Vegan
 Crunk Night by mm0hai, on Flickr"><img
-src="http://farm8.staticflickr.com/7076/7135620371_13a888b2f4_z.jpg"
+src="https://farm8.staticflickr.com/7076/7135620371_13a888b2f4_z.jpg"
 width="640" height="480" alt="Vegan Crunk Night"></a>
 
 <q>I organise a vegan crunk night.</q>

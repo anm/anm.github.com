@@ -48,7 +48,7 @@ claim. I think that is my furthest contact - QRP or otherwise. It's at
 least 888 miles / watt and probably over 1000.
 
 <img class="centre"
-src="http://farm6.static.flickr.com/5016/5548844826_fa0f65df1a_z.jpg"
+src="https://farm6.static.flickr.com/5016/5548844826_fa0f65df1a_z.jpg"
 width="480" height="640" alt="Newhaven Lighthouse" title="Newhaven
 Lighthouse" />
 
@@ -79,7 +79,7 @@ In conclusion, I declare this operation successful and intend to
 experiment further.
 
 <div class="centre"> 
-<img src="http://farm6.static.flickr.com/5103/5548844604_b085b8452f_z.jpg"
+<img src="https://farm6.static.flickr.com/5103/5548844604_b085b8452f_z.jpg"
 width="640" height="480" alt="Bicycle mobile - FT-817 in bar bag"
 title="The clock is on GMT + 1 (local time was GMT)" />
 </div>

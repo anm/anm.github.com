@@ -33,7 +33,7 @@ from there, it was not long before it brought the fire to the camp. Everyone
 was driven out. Anything left behind was burnt. Many people lost things,
 attachments maybe, and many moved on that morning.
 
-<a href="http://www.flickr.com/photos/mm0hai/8543751136/" title="DSCF3623 by
+<a href="https://www.flickr.com/photos/mm0hai/8543751136/" title="DSCF3623 by
 mm0hai, on Flickr"><img
-src="http://farm9.staticflickr.com/8522/8543751136_b140416fd0_z.jpg"
+src="https://farm9.staticflickr.com/8522/8543751136_b140416fd0_z.jpg"
 width="640" height="480" alt="DSCF3623"></a>
