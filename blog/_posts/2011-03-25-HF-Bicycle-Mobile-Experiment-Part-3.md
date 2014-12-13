@@ -11,7 +11,7 @@ href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">Part
 1</a>.
 
 <iframe title="YouTube video player" width="480" height="390"
-src="http://www.youtube.com/embed/4OeF0XLYJO8" frameborder="0"
+src="https://www.youtube.com/embed/4OeF0XLYJO8" frameborder="0"
 allowfullscreen></iframe>
 
 Pay no attention to the audio behind the wind-noise - I think all I

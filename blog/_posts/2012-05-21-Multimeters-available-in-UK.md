@@ -6,7 +6,7 @@ tags: [electronics]
 
 I used to have only cheap and nasty multimeters, but Dave Jones of the EEVBlog
 convinced me that it was worth getting a <a
-href="http://www.youtube.com/watch?v=ZoeUgMFLyAw">half decent</a> one. I like
+href="https://www.youtube.com/watch?v=ZoeUgMFLyAw">half decent</a> one. I like
 his videos; they are worth watching to learn about meters in general as well
 as the specific ones he reviews.
 
