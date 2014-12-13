@@ -202,7 +202,7 @@
 			}
 		},
 		Esri: {
-			url: 'http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}',
+			url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}',
 			options: {
 				attribution: 'Tiles &copy; Esri'
 			},
@@ -255,7 +255,7 @@
 					}
 				},
 				WorldPhysical: {
-					url: 'http://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}',
+					url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Physical_Map/MapServer/tile/{z}/{y}/{x}',
 					options: {
 						maxZoom: 8,
 						attribution: '{attribution.Esri} &mdash; Source: US National Park Service'
