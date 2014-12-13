@@ -78,4 +78,4 @@ accidentally implemented a paint program. You can make the cell size
 small for high-res graphics :-). I'm afraid it doesn't read mail yet.
 
 
--- Alistair MacLeod (anm), January 2011
+-- River MacLeod, January 2011
