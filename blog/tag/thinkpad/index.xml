@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/thinkpad/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2014-10-16T05:06:39+01:00</updated>
+  <updated>2014-12-13T08:29:19+01:00</updated>
   <id>http://mm0hai.net/blog/tag/thinkpad</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Oiling Thinkpad X61 fans]]></title>
     <link href="http://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html"/>
-    <updated>2014-04-11T00:00:00+01:00</updated>
+    <updated>2014-04-11T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans</id>
     <content type="html"><![CDATA[<p>I previously wrote about oiling the
 <a href="/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"> noisy fan in a
@@ -46,7 +46,7 @@ the x60s has of a burning hot palm rest.</p>
   <entry>
     <title type="html"><![CDATA[Servicing a Thinkpad x60s Fan and cooling system]]></title>
     <link href="http://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"/>
-    <updated>2012-08-06T00:00:00+01:00</updated>
+    <updated>2012-08-06T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan</id>
     <content type="html"><![CDATA[<p>The fan in my x60s had started to sound rough. I was worried it was going to
 die soon, which would be very inconvenient when cycle touring or in
@@ -67,12 +67,12 @@ doesn't seem to have caused any problems.</p>
 fansink but it was possible by bending the metal tabs which held the case over
 the rotor, and peeling back some foil tape.</p>
 
-<p><a href="http://www.flickr.com/photos/mm0hai/7720829624/" title="Thinkpad x60s Fansink by mm0hai, on Flickr"><img src="http://farm9.staticflickr.com/8287/7720829624_26bd0a7aaf_z.jpg" width="640" height="480" alt="Thinkpad x60s Fansink"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7720829624/" title="Thinkpad x60s Fansink by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8287/7720829624_26bd0a7aaf_z.jpg" width="640" height="480" alt="Thinkpad x60s Fansink"></a></p>
 
 <p>I cleaned out quite a lot of dust which had built up by the fan blades and in
 the heatsink fins. I then applied 3 in 1 oil to the bearing surfaces.</p>
 
-<p><a href="http://www.flickr.com/photos/mm0hai/7720821532/" title="Thinkpad x60s Fansink: Fan motor, rotor removed by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7111/7720821532_d81fbebcc6.jpg" width="500" height="375" alt="Thinkpad x60s Fansink: Fan motor, rotor removed"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7720821532/" title="Thinkpad x60s Fansink: Fan motor, rotor removed by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7111/7720821532_d81fbebcc6.jpg" width="500" height="375" alt="Thinkpad x60s Fansink: Fan motor, rotor removed"></a></p>
 
 <p>Replacing the heatsink requires replacing the thermal paste, and I expected
 that doing this well would improve cooling in any case. It should reduce the
@@ -88,7 +88,7 @@ isopropanol, which has proven useful for many other electronics
 applications. I was excited to discover I actually had one of these mythical
 "soft lint free cloths". In real life it's called a camera lens cleaner.</p>
 
-<p><a href="http://www.flickr.com/photos/mm0hai/7258837974/" title="Intel Core Duo, in Thinkpad x60s by mm0hai, on Flickr"><img src="http://farm8.staticflickr.com/7094/7258837974_5b20049508.jpg" width="500" height="375" alt="Intel Core Duo, in Thinkpad x60s"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7258837974/" title="Intel Core Duo, in Thinkpad x60s by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7094/7258837974_5b20049508.jpg" width="500" height="375" alt="Intel Core Duo, in Thinkpad x60s"></a></p>
 
 <p>The memory controller is also cooled directly by the fansink. It has a thermal
 pad instead of paste. I did not replace this because I didn't have another

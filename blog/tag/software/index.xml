@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/software/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2014-10-16T05:06:39+01:00</updated>
+  <updated>2014-12-13T08:29:19+01:00</updated>
   <id>http://mm0hai.net/blog/tag/software</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[River Song - Music Hack Day Scotland]]></title>
     <link href="http://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland.html"/>
-    <updated>2012-08-26T00:00:00+01:00</updated>
+    <updated>2012-08-26T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland</id>
     <content type="html"><![CDATA[<p>This weekend saw a music hack day in Edinburgh. I signed up with a couple of
 ideas of things I might do but I wasn't really sure if I'd get much done. In
@@ -120,7 +120,7 @@ worked!</p>
   <entry>
     <title type="html"><![CDATA[Nyan cat, Psytrance, Meditation, Programming]]></title>
     <link href="http://mm0hai.net/blog/2012/04/21/Nyancat-Psytrance-Meditation-Programming.html"/>
-    <updated>2012-04-21T00:00:00+01:00</updated>
+    <updated>2012-04-21T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2012/04/21/Nyancat-Psytrance-Meditation-Programming</id>
     <content type="html"><![CDATA[<p>My highest score at <a href="http://nyan.cat">nyan.cat</a> was achieved when
 programming. I was at work and struggling to get much done. Then I put on
@@ -149,7 +149,7 @@ parties.</p>
   <entry>
     <title type="html"><![CDATA[Native Mobile App Development with HTML5]]></title>
     <link href="http://mm0hai.net/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap.html"/>
-    <updated>2011-09-11T00:00:00+01:00</updated>
+    <updated>2011-09-11T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap</id>
     <content type="html"><![CDATA[<p>A while ago I was having a play with CSS 3D transforms and I made a <a
 href="/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html">spinning
@@ -282,7 +282,7 @@ post</a>.</p>
   <entry>
     <title type="html"><![CDATA[Torchwood Spinning Triangle]]></title>
     <link href="http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html"/>
-    <updated>2011-08-08T00:00:00+01:00</updated>
+    <updated>2011-08-08T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms</id>
     <content type="html"><![CDATA[
 
@@ -366,7 +366,7 @@ version and put it on the Android Marketplace.</del></p>
   <entry>
     <title type="html"><![CDATA[List Comprehensions in Haskell]]></title>
     <link href="http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html"/>
-    <updated>2011-07-31T00:00:00+01:00</updated>
+    <updated>2011-07-31T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions</id>
     <content type="html"><![CDATA[<h2>Why they're so good</h2>
 
@@ -432,7 +432,7 @@ did not complete within minutes.</p>
   <entry>
     <title type="html"><![CDATA[Relaxing with beer on the CouchDB]]></title>
     <link href="http://mm0hai.net/blog/2011/07/19/CouchDB-Marketing.html"/>
-    <updated>2011-07-19T00:00:00+01:00</updated>
+    <updated>2011-07-19T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/07/19/CouchDB-Marketing</id>
     <content type="html"><![CDATA[<p>I thought after my <a href="/blog/2011/07/18/MongoDB-Marketing.html">last post
 on MongoDB</a> it would only be fair to do one on <a
@@ -458,7 +458,7 @@ Erlang.</p>
   <entry>
     <title type="html"><![CDATA[I accidentally the MongoDB]]></title>
     <link href="http://mm0hai.net/blog/2011/07/18/MongoDB-Marketing.html"/>
-    <updated>2011-07-18T00:00:00+01:00</updated>
+    <updated>2011-07-18T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/07/18/MongoDB-Marketing</id>
     <content type="html"><![CDATA[<p>I read <a href="http://news.ycombinator.com/">hacker news</a> frequently and
 was generally aware of NoSQL databases. I had a feeling I should learn at
@@ -466,7 +466,7 @@ least one of them but did not have a real plan to do so yet. Partly, this was
 because I hadn't decided which one would be the best investment of time.</p>
 
 <p><img class="float-left rounded"
-src="http://farm7.static.flickr.com/6023/5955214301_56dfd34107_m.jpg"
+src="https://farm7.static.flickr.com/6023/5955214301_56dfd34107_m.jpg"
 width="200" height="195" alt="MongoDB Mug"> Then, one day, I found myself in
 the middle of a MongoDB tutorial and using a live database. What? How did that
 happen? I had <a
@@ -543,7 +543,7 @@ good database but we know it does.</p>
   <entry>
     <title type="html"><![CDATA[Learning Haskell - Part 1]]></title>
     <link href="http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html"/>
-    <updated>2011-07-17T00:00:00+01:00</updated>
+    <updated>2011-07-17T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1</id>
     <content type="html"><![CDATA[<p>I'm learning Haskell at the moment, and have been doing so slowly over the
 past couple of months.</p>
@@ -626,7 +626,7 @@ posts.</p>
   <entry>
     <title type="html"><![CDATA[Deleting Code]]></title>
     <link href="http://mm0hai.net/blog/2011/06/07/Deleting-Code.html"/>
-    <updated>2011-06-07T00:00:00+01:00</updated>
+    <updated>2011-06-07T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/06/07/Deleting-Code</id>
     <content type="html"><![CDATA[<blockquote>
 <p>
@@ -674,7 +674,7 @@ them serviceable.
   <entry>
     <title type="html"><![CDATA[My introduction to the Arduino platform]]></title>
     <link href="http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html"/>
-    <updated>2011-05-25T00:00:00+01:00</updated>
+    <updated>2011-05-25T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino</id>
     <content type="html"><![CDATA[<p>I have been meaning to do several microcontroller based projects for some time
 now. Ideally I wanted to do it without spending any money so I decided to make
@@ -697,7 +697,7 @@ simplification did not make quicker development a bad thing. :-) I decided I
 had wasted enough time and just wanted to get something done, so I bought an
 Arduino.</p>
 
-<p><img src="http://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg"
+<p><img src="https://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg"
 width="500" height="375" alt="Seeeduino and ethernet shield"></p>
 
 <p>I actually chose the seeedunio, an Arduino clone. The design is open so this
@@ -783,7 +783,7 @@ Looks well made and works.</p>
   <entry>
     <title type="html"><![CDATA[Python Edinburgh Mini Conference]]></title>
     <link href="http://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference.html"/>
-    <updated>2011-05-22T00:00:00+01:00</updated>
+    <updated>2011-05-22T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference</id>
     <content type="html"><![CDATA[<p>This weekend we had the <a
 href="http://www.pythonedinburgh.org/wiki/2011-May-Mini-Conference">Python
@@ -820,7 +820,7 @@ some time.</p>
   <entry>
     <title type="html"><![CDATA[Github Punchcard - Visualising Commit Times]]></title>
     <link href="http://mm0hai.net/blog/2011/03/11/github-punchcard.html"/>
-    <updated>2011-03-11T00:00:00+00:00</updated>
+    <updated>2011-03-11T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/03/11/github-punchcard</id>
     <content type="html"><![CDATA[<p>I pushed my <a href="/life/life.html">HTML5 Game of Life</a> to
 <a href="https://github.com/anm/HTML5-Game-of-Life/">github</a> today. I hadn't
@@ -844,7 +844,7 @@ hacker dating site at once.</p>
   <entry>
     <title type="html"><![CDATA[Rewriting git commit message history across multiple branches]]></title>
     <link href="http://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history.html"/>
-    <updated>2011-03-10T00:00:00+00:00</updated>
+    <updated>2011-03-10T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history</id>
     <content type="html"><![CDATA[<p>The usual way to modify a previous git commit is to rebase interactively:</p>
 

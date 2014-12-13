@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/antennas/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2014-10-16T05:06:39+01:00</updated>
+  <updated>2014-12-13T08:29:19+01:00</updated>
   <id>http://mm0hai.net/blog/tag/antennas</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 3 - Illustration]]></title>
     <link href="http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html"/>
-    <updated>2011-03-25T00:00:00+00:00</updated>
+    <updated>2011-03-25T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3</id>
     <content type="html"><![CDATA[<p>Today the unusually good weather required me to take the bike out for
 a spin. I took some photos and video of the station while I was
@@ -25,7 +25,7 @@ href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">Part
 1</a>.</p>
 
 <iframe title="YouTube video player" width="480" height="390"
-src="http://www.youtube.com/embed/4OeF0XLYJO8" frameborder="0"
+src="https://www.youtube.com/embed/4OeF0XLYJO8" frameborder="0"
 allowfullscreen></iframe>
 
 
@@ -33,7 +33,7 @@ allowfullscreen></iframe>
 said was that I was using the FT-817 and 5W.</p>
 
 <p><img
-src="http://farm6.static.flickr.com/5309/5557283960_fc600b3d91.jpg"
+src="https://farm6.static.flickr.com/5309/5557283960_fc600b3d91.jpg"
 width="375" height="500" alt="HF Bike Mobile on Blackford Hill" /></p>
 
 <p>15m 1/4 wave and 2 J-Pole. The latter is held together with masking
@@ -43,7 +43,7 @@ roads. Four sections, as shown here, hits trees on some roads. It is
 no higher than a bus though so should be ok on main roads.</p>
 
 <p><img
-src="http://farm6.static.flickr.com/5252/5557297492_6a1be9e006.jpg"
+src="https://farm6.static.flickr.com/5252/5557297492_6a1be9e006.jpg"
 width="375" height="500" alt="101_0474.JPG" /></p>
 
 <p>The ground tuning capacitor. Red goes to coax braid, yellow to frame.</p>
@@ -52,7 +52,7 @@ width="375" height="500" alt="101_0474.JPG" /></p>
 there are now steps, some of which I rode over. Low trees ripped off
 the J-Pole though.</p>
 
-<p><a href="http://www.flickr.com/photos/58967572@N03/sets/72157626343215344/">More photos</a></p>
+<p><a href="https://www.flickr.com/photos/58967572@N03/sets/72157626343215344/">More photos</a></p>
 ]]></content>
    
   </entry>
@@ -60,7 +60,7 @@ the J-Pole though.</p>
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 2]]></title>
     <link href="http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html"/>
-    <updated>2011-03-21T00:00:00+00:00</updated>
+    <updated>2011-03-21T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2</id>
     <content type="html"><![CDATA[<p>This evening I tested the antenna system described in my <a
 rel="prev" href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">last
@@ -107,7 +107,7 @@ claim. I think that is my furthest contact - QRP or otherwise. It's at
 least 888 miles / watt and probably over 1000.</p>
 
 <p><img class="centre"
-src="http://farm6.static.flickr.com/5016/5548844826_fa0f65df1a_z.jpg"
+src="https://farm6.static.flickr.com/5016/5548844826_fa0f65df1a_z.jpg"
 width="480" height="640" alt="Newhaven Lighthouse" title="Newhaven
 Lighthouse" /></p>
 
@@ -138,7 +138,7 @@ on it.</p>
 experiment further.</p>
 
 <div class="centre"> 
-<img src="http://farm6.static.flickr.com/5103/5548844604_b085b8452f_z.jpg"
+<img src="https://farm6.static.flickr.com/5103/5548844604_b085b8452f_z.jpg"
 width="640" height="480" alt="Bicycle mobile - FT-817 in bar bag"
 title="The clock is on GMT + 1 (local time was GMT)" />
 </div>
@@ -170,7 +170,7 @@ rel="next" href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">Part
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 1]]></title>
     <link href="http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html"/>
-    <updated>2011-03-19T00:00:00+00:00</updated>
+    <updated>2011-03-19T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1</id>
     <content type="html"><![CDATA[<p>Today I decided to make an HF antenna for my bike. I did an experiment
 with this once last year but it was not terribly successful. That
