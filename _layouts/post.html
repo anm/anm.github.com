@@ -3,16 +3,20 @@ layout: default
 headers: <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="River's Blog." />
 ---
 
+<article class="h-entry">
+<header>
 <div id="title">
-  <h1>{{ page.title }}</h1>
+  <h1 class="p-name">{{ page.title }}</h1>
   <h2 class="subtitle">{{page.subtitle}}</h2>
-  <span class="byline">{{ page.date | date_to_string}}</span>
+  <span class="byline"><time class="dt-published" datetime="{{page.date | date_to_xmlschema}}">{{ page.date | date_to_string}}</time></span>
 </div>
+</header>
 
-<div id="content">
+<div id="content" class="e-content">
 {{ content }}
 </div>
 
+<footer>
 <p>If you found this interesting, you
 should <a href="https://twitter.com/macleodan" rel="me">follow me on twitter</a>.</p>
 
@@ -24,6 +28,8 @@ Tagged:
   {% endfor %}
 </ul>
 </div>
+</footer>
+</article>
 
 <hr />
 
