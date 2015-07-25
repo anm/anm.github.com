@@ -3,7 +3,7 @@ layout: post
 title: The Forest of London
 tags: [trees]
 style: 'body {background-image:url(
-       "http://dl.dropbox.com/u/27255614/large_tree.jpg"
+       "/img/large_tree.jpg"
        );
        background-position: -100px -100px;
        }
