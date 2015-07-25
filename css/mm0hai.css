@@ -1,5 +1,9 @@
 body {
     max-width: 50em;
+    margin: 0;
+    padding-right: 1em;
+    padding-left: 1em;
+
 }
 
 table, th, td {
@@ -43,4 +47,9 @@ img.rounded {
     list-style: none;
     margin-left: 0;
     padding-left: 0;
+}
+
+#map {
+    max-width: calc(100vw - 3em);
+    height: auto;
 }
