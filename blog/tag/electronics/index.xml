@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged electronics]]></title>
 
-  <link href="http://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
-  <link href="http://mm0hai.net/"/>
-  <updated>2016-11-09T05:24:19+01:00</updated>
-  <id>http://mm0hai.net/blog/tag/electronics</id>
+  <link href="https://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2016-11-09T22:11:25+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/electronics</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Oiling Thinkpad X61 fans]]></title>
-    <link href="http://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html"/>
+    <link href="https://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html"/>
     <updated>2014-04-11T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans</id>
+    <id>https://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans</id>
     <content type="html"><![CDATA[<p>I previously wrote about oiling the
 <a href="/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"> noisy fan in a
 Thinkpad X60s</a>. You should read that post first if you want to do this,
@@ -34,20 +34,20 @@ the computer. This can be opened by bending the metal tabs holding the cover
 on, in the same way as the main fan on the X60s. It helps to stop the problem
 the x60s has of a burning hot palm rest.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/13768752524" title="Thinkpad X61 Fan by River, on Flickr"><img src="https://farm4.staticflickr.com/3828/13768752524_6f2983eb5f_z.jpg" width="640" height="491" alt="Thinkpad X61 Fan"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/13768752524" title="Thinkpad X61 Fan by River, on Flickr"><img src="https://farm4.staticflickr.com/3828/13768752524_6f2983eb5f_z.jpg" width="640" height="491" alt="Thinkpad X61 Fan" /></a></p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/13769007674" title="Thinkpad X61 Fansink by River, on Flickr"><img src="https://farm4.staticflickr.com/3763/13769007674_749cbc21d8_z.jpg" width="640" height="354" alt="Thinkpad X61 Fansink"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/13769007674" title="Thinkpad X61 Fansink by River, on Flickr"><img src="https://farm4.staticflickr.com/3763/13769007674_749cbc21d8_z.jpg" width="640" height="354" alt="Thinkpad X61 Fansink" /></a></p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/13768389853" title="Thinkpad X61 Second Fan by River, on Flickr"><img src="https://farm8.staticflickr.com/7158/13768389853_a5a88a164c_z.jpg" width="640" height="586" alt="Thinkpad X61 Second Fan"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/13768389853" title="Thinkpad X61 Second Fan by River, on Flickr"><img src="https://farm8.staticflickr.com/7158/13768389853_a5a88a164c_z.jpg" width="640" height="586" alt="Thinkpad X61 Second Fan" /></a></p>
 ]]></content>
    
   </entry>
   
   <entry>
     <title type="html"><![CDATA[First Test of Solar Charger]]></title>
-    <link href="http://mm0hai.net/blog/2012/12/14/First-Test-of-Solar-Charger.html"/>
+    <link href="https://mm0hai.net/blog/2012/12/14/First-Test-of-Solar-Charger.html"/>
     <updated>2012-12-14T00:00:00+01:00</updated>
-    <id>http://mm0hai.net/blog/2012/12/14/First-Test-of-Solar-Charger</id>
+    <id>https://mm0hai.net/blog/2012/12/14/First-Test-of-Solar-Charger</id>
     <content type="html"><![CDATA[<p>I designed and built a charger for Thinkpad batteries before I left, but there
 was not enough sun in Scotland to test it properly. Today in Tulum I tried it
 for real for the first time.</p>
@@ -59,12 +59,9 @@ it seems to work. I did not leave it long enough to see it cutoff when full
 though. I also would like to measure the power supplied so I know how long
 charging will let the computer run.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/8272408443/" title="First test of
-solar charger by mm0hai, on Flickr"><img
-src="https://farm9.staticflickr.com/8352/8272408443_0390543aa4_z.jpg"
-width="640" height="480" alt="First test of solar charger"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/8272408443/" title="First test of solar charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8352/8272408443_0390543aa4_z.jpg" width="640" height="480" alt="First test of solar charger" /></a></p>
 
-<p>The charger is not mounted on the bike yet, so it's just sitting on top while
+<p>The charger is not mounted on the bike yet, so it’s just sitting on top while
 I measure voltages.</p>
 ]]></content>
    <georss:point>20.211944 -87.465833</georss:point>
@@ -72,9 +69,9 @@ I measure voltages.</p>
   
   <entry>
     <title type="html"><![CDATA[Making a Solar Panel Mount for a Bike]]></title>
-    <link href="http://mm0hai.net/blog/2012/10/09/Building-the-Solar-Mounting.html"/>
+    <link href="https://mm0hai.net/blog/2012/10/09/Building-the-Solar-Mounting.html"/>
     <updated>2012-10-09T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/10/09/Building-the-Solar-Mounting</id>
+    <id>https://mm0hai.net/blog/2012/10/09/Building-the-Solar-Mounting</id>
     <content type="html"><![CDATA[<p>I had chosen to use a 15W, monocrystaline panel mounted under glass in a metal
 frame. It was made by ET Solar and bought on ebay for 33 GBP. This seems like
 a good panel, but it weighs 2kg and measures 450 x 299 x 35 mm. I had to find
@@ -88,9 +85,9 @@ my principle of minimising faff.</p>
 <p>I decided I needed to mount it above the rear rack somehow. Getting it higher
 also has the advantage of getting more sun if I am in the way at the time.</p>
 
-<h1>Ideas</h1>
+<h1 id="ideas">Ideas</h1>
 
-<h2>Bungees</h2>
+<h2 id="bungees">Bungees</h2>
 
 <p>The simplest way to mount it was to bungee it on top of the other gear on the
 rear rack - my tent and roll mat. This was very easy to do, kept the weight
@@ -101,12 +98,12 @@ other gear. One think I remember really hating when touring before is the time
 spent mucking around trying packing and unpacking things. I wanted to get the
 panel out the way.</p>
 
-<h2>Custom Metal frame</h2>
+<h2 id="custom-metal-frame">Custom Metal frame</h2>
 
 <p>A rack could be built in metal, as an addition to the existing luggage racks,
 or a custom rack for panniers and solar panel could be built.</p>
 
-<h2>Seat Post Rack</h2>
+<h2 id="seat-post-rack">Seat Post Rack</h2>
 
 <p>I looked at rear racks that attach to the seat post - this would give an
 additional rack to the conventional one I had fitted. This would add even more
@@ -114,53 +111,48 @@ weight though, and they did not go very high, so there would not be much space
 between the racks. I also wanted to save money on buying things, but given the
 time spent it turned out this was not a valid reason.</p>
 
-<h2>Fibreglass / Composite Luggage storage</h2>
+<h2 id="fibreglass--composite-luggage-storage">Fibreglass / Composite Luggage storage</h2>
 
 <p>The idea is to build a custom structure that would serve as luggage storage
 and solar mount. This would remove the need for panniers. It could also
 incorporate spaces for electronics and batteries - for example giving an easily
 accessible slot for changing batteries.</p>
 
-<p>One way I've seen to do this that looks very good is a cardboard core glass
+<p>One way I’ve seen to do this that looks very good is a cardboard core glass
 reinforced plastic structure. This can be easily built and hacked to any
 shape. This was the technique used by Steve Roberts for a similar project.</p>
 
 <p><a href="http://microship.com/resources/cardboard-core-composites.html">Cardboard Core Composites</a></p>
 
-<p><a
-href="http://www.solarpoweredbike.com/2008/04/solar-bike-faq-what-is-solar-panel-for.html">Another
+<p><a href="http://www.solarpoweredbike.com/2008/04/solar-bike-faq-what-is-solar-panel-for.html">Another
 fibreglass method</a> was used for a solar bike project:</p>
 
 <p>I think the idea for this was:</p>
 
 <ol>
-<li>Build with cardboard.</li>
-<li>Fill with expanding foam.</li>
-<li>Remove cardboard.</li>
-<li>Fibreglass over.</li>
+  <li>Build with cardboard.</li>
+  <li>Fill with expanding foam.</li>
+  <li>Remove cardboard.</li>
+  <li>Fibreglass over.</li>
 </ol>
 
-
-<p>So it doesn't end up as a composite with the cardboard core as with the other
+<p>So it doesn’t end up as a composite with the cardboard core as with the other
 method.</p>
 
-<h1>Build / Test</h1>
+<h1 id="build--test">Build / Test</h1>
 
 <p>I decided to make a metal frame myself. This would put the panel where I
 wanted it, and it should be possible to make it much lighter than a seat post
 rack. Fibreglass looked like it could give a very nice structure, but it would
-also be messy to work with and I didn't have anywhere I could do that work. It
+also be messy to work with and I didn’t have anywhere I could do that work. It
 would also be expensive and I suspect very time consuming.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/sets/72157632529416559/"><img
-src="https://farm9.staticflickr.com/8515/8384167611_3eb618f479_z.jpg"
-width="640" height="480" alt="101_0663"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/sets/72157632529416559/"><img src="https://farm9.staticflickr.com/8515/8384167611_3eb618f479_z.jpg" width="640" height="480" alt="101_0663" /></a></p>
 
-<p>The final design. More detailed photos are on <a
-href="https://www.flickr.com/photos/mm0hai/sets/72157632529416559/">flickr</a>.</p>
+<p>The final design. More detailed photos are on <a href="https://www.flickr.com/photos/mm0hai/sets/72157632529416559/">flickr</a>.</p>
 
-<p>I had never made anything like this before and didn't know anything about
-working metal. I didn't even know where to buy it. One day though I found what
+<p>I had never made anything like this before and didn’t know anything about
+working metal. I didn’t even know where to buy it. One day though I found what
 I think might have been a bike rack for a car dumped beside a bin. I recovered
 the smaller tubes and started working out what I could do with them.</p>
 
@@ -174,9 +166,7 @@ sand first would work. I did this, but one of the bends still flattened out to
 the point I was concerned it might break. It survived a little testing round
 Edinburgh though so I kept it.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/8385254986/" title="I was concerned about these bends, particularly on the left."><img
-src="https://farm9.staticflickr.com/8351/8385254986_5cb5afc812_m.jpg"
-width="240" height="180" alt="101_0665"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/8385254986/" title="I was concerned about these bends, particularly on the left."><img src="https://farm9.staticflickr.com/8351/8385254986_5cb5afc812_m.jpg" width="240" height="180" alt="101_0665" /></a></p>
 
 <p>The tubes I attached to the bike at the front by screwing onto the rack
 mounting points, and at the back with Jubilee clips (hose clamps) padded with
@@ -184,23 +174,19 @@ inner tube. The panel is attached to the rack with p-clips, which are horrible
 to work with because they are so difficult to bend into the right shape. It
 worked though.</p>
 
-<p>It worked until an awful road in Mexico. Update to follow...</p>
+<p>It worked until an awful road in Mexico. Update to follow…</p>
 ]]></content>
    
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Teardown: (Probably fake) Griffin USB Car Charger (FAIL)]]></title>
-    <link href="http://mm0hai.net/blog/2012/09/30/Griffin-USB-Car-Charger.html"/>
+    <link href="https://mm0hai.net/blog/2012/09/30/Griffin-USB-Car-Charger.html"/>
     <updated>2012-09-30T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/09/30/Griffin-USB-Car-Charger</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/mm0hai/8045423849/" title="Griffin
-PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img
-src="https://farm9.staticflickr.com/8312/8045423849_f1d5c13f51_n.jpg"
-width="320" height="263" alt="Griffin PowerJolt Dual Universal Micro"></a></p>
+    <id>https://mm0hai.net/blog/2012/09/30/Griffin-USB-Car-Charger</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/mm0hai/8045423849/" title="Griffin PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8312/8045423849_f1d5c13f51_n.jpg" width="320" height="263" alt="Griffin PowerJolt Dual Universal Micro" /></a></p>
 
-<p>After my previous <a
-href="/blog/2012/08/01/Message-to-an-ebay-seller.html">teardown of an MC34063
+<p>After my previous <a href="/blog/2012/08/01/Message-to-an-ebay-seller.html">teardown of an MC34063
 based cigarette lighter port USB power supply</a> showed it to be inadequate I
 still needed a USB supply. I thought I would buy another one of these devices
 but this time a branded one that cost more than one pound.</p>
@@ -211,13 +197,10 @@ several people have pointed out that they think I got a fake. I suppose a good
 quality one would cost more that the £2, including postage, which I paid on
 ebay.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/8045424303/" title="Griffin
-PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img
-src="https://farm9.staticflickr.com/8452/8045424303_38475eba6f.jpg" width="422"
-height="500" alt="Griffin PowerJolt Dual Universal Micro"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/8045424303/" title="Griffin PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8452/8045424303_38475eba6f.jpg" width="422" height="500" alt="Griffin PowerJolt Dual Universal Micro" /></a></p>
 
 <p>A bad power supply can destroy expensive equipment so this is a case where
-"don't turn it on, take it apart" is very good advice.</p>
+“don’t turn it on, take it apart” is very good advice.</p>
 
 <p>My first impressions were the bad soldering. The joints are mottled and balled
 up. Then I noticed an odd lump of solder that had been trimmed with side
@@ -226,23 +209,20 @@ not secured to anything. A thin piece of solder extended to one pin of the IC,
 and if the wire was pressed against the board this may have made
 contact. Looking at the PCB, the solder mask goes right up to the hole for
 this wire. I suspect a faulty PCB design and this is some bodge that might
-make it work sometimes if it doesn't come loose.</p>
+make it work sometimes if it doesn’t come loose.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/8045424471/" title="Griffin
-PowerJolt - Loose wire by mm0hai, on Flickr"><img
-src="https://farm9.staticflickr.com/8182/8045424471_ff68928117_o.jpg"
-width="233" height="195" alt="Griffin PowerJolt - Loose wire"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/8045424471/" title="Griffin PowerJolt - Loose wire by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8182/8045424471_ff68928117_o.jpg" width="233" height="195" alt="Griffin PowerJolt - Loose wire" /></a></p>
 
-<p>The IC is marked O&amp;P 1510 2B23. I can't find it by googling. The capacitors
+<p>The IC is marked O&amp;P 1510 2B23. I can’t find it by googling. The capacitors
 are tiny. I expect the filtering would be bad. There is no fuse. Griffin says
-it has "SmartFuse circuit-breaker protection", so I was expecting a separate
+it has “SmartFuse circuit-breaker protection”, so I was expecting a separate
 protection device, such as a polyswitch, which is not there.</p>
 
 <p>I was going to test the output voltage, current and ripple, but the thing
-won't even work without me fixing it first, so I'm probably not going to
+won’t even work without me fixing it first, so I’m probably not going to
 bother.</p>
 
-<h2>Conclusions</h2>
+<h2 id="conclusions">Conclusions</h2>
 
 <p>You need to pay more than £2 for something that is not crap. There are
 imitation branded electronics on ebay.</p>
@@ -252,24 +232,21 @@ imitation branded electronics on ebay.</p>
   
   <entry>
     <title type="html"><![CDATA[River Song - Music Hack Day Scotland]]></title>
-    <link href="http://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland.html"/>
     <updated>2012-08-26T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland</id>
+    <id>https://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland</id>
     <content type="html"><![CDATA[<p>This weekend saw a music hack day in Edinburgh. I signed up with a couple of
-ideas of things I might do but I wasn't really sure if I'd get much done. In
+ideas of things I might do but I wasn’t really sure if I’d get much done. In
 the end my hack was quite successful and I won an iPad!</p>
 
-<p>One idea I had was to make a virtual <a
-href="http://en.wikipedia.org/wiki/Singing_bowl">Singing Bowl</a> using a wire
+<p>One idea I had was to make a virtual <a href="http://en.wikipedia.org/wiki/Singing_bowl">Singing Bowl</a> using a wire
 and capacitive touch sensing. I thought this would be quite difficult because
 to do it at all well would probably require quite a sophisticated sensor,
-something like used in <a
-href="http://www.disneyresearch.com/research/projects/hci_botanicus_drp.htm">Disney's
+something like used in <a href="http://www.disneyresearch.com/research/projects/hci_botanicus_drp.htm">Disney’s
 interactive plant project</a>.</p>
 
 <p>My other, which I built, was related to my touring bike. I was thinking about
-what to call my new bike when I get her, and I think I might choose <a
-href="http://en.wikipedia.org/wiki/River_Song_(Doctor_Who)">River
+what to call my new bike when I get her, and I think I might choose <a href="http://en.wikipedia.org/wiki/River_Song_(Doctor_Who)">River
 Song</a>. The bike is for open ended touring without any particular rush to
 get anywhere. It is for living. I like the idea of the bike flowing through
 life, time and space.</p>
@@ -288,14 +265,11 @@ a water system, such that movement caused rainfall, which then soaked through
 the ground and eventually reached the river. For this hack, I kept it simple
 and used only speed.</p>
 
-<p><img
-src="/res/2012-08-26-Music-Hack-Day-Scotland/river-song-block-diagram.png"
-alt="Block diagram of system."
-title="The unicycle is not actually radially spoked." /></p>
+<p><img src="/res/2012-08-26-Music-Hack-Day-Scotland/river-song-block-diagram.png" alt="Block diagram of system." title="The unicycle is not actually radially spoked." /></p>
 
 <p>Above is a diagram of the system I demonstrated. I used a unicycle rather than
 a bike for the demo because it was easier to get it into the lecture theatre
-and turn the wheel. I'll now discuss the design choices.</p>
+and turn the wheel. I’ll now discuss the design choices.</p>
 
 <p>I considered two ways of making the sound. One was synthesising from scratch,
 and the other using samples. I realised that I actually had recordings of a
@@ -304,7 +278,7 @@ La Palma. I chose to use synthesis because it seemed like it would be easier
 to modify the sound with data and it made it more hackable for future changes
 to the sound.</p>
 
-<p>I had never done any sound synthesis before so I didn't know what software I
+<p>I had never done any sound synthesis before so I didn’t know what software I
 should use. I thought about using a library for some programming language I
 already knew but decided to try using something designed for sound. The main
 contenders seemed to be SuperCollider and Pure Data. Asking around I found
@@ -314,15 +288,14 @@ presentation when I saw several hacks used it.</p>
 <p>Pure Data was difficult to get started with, and I almost gave up. The
 documentation is very poor and the Ubuntu package had various things wrong
 with it, like the sound test not working. I managed to get it working in the
-end. I didn't have time to learn much about the language never mind actually
+end. I didn’t have time to learn much about the language never mind actually
 designing synthesisers and sounds but I found a Pure Data patch which made
 something which sounded like running water. Random hacking at this discovered
 a place where I could change a value to make the water sound more violent. I
 used this and also increased the volume when the bike went faster.</p>
 
 <p>To detect movement I used a magnet on the wheel and a reed switch from an old
-bike computer. This I connected to an Arduino (actually <a
-href="/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html">Seeeduino</a>)
+bike computer. This I connected to an Arduino (actually <a href="/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html">Seeeduino</a>)
 which measured the time between switch pulses and sent this over a USB serial
 connection to a laptop running Pure Data.</p>
 
@@ -339,14 +312,12 @@ course I had to try and ride it. I managed to idle briefly and long enough to
 trigger the sensor, so overall successful.</p>
 
 <p>I would have been quite pleased at that, but then there were prizes, and I won
-an iPad! I'm not sure what to do with it yet. Maybe duck tape it to my
+an iPad! I’m not sure what to do with it yet. Maybe duck tape it to my
 bike. :)</p>
 
-<p><img src="http://twitpic.com/show/large/anmlwj.jpg"
-alt="Demonstration with unicycle at the hackday." /></p>
+<p><img src="http://twitpic.com/show/large/anmlwj.jpg" alt="Demonstration with unicycle at the hackday." /></p>
 
-<p><img src="http://distilleryimage4.s3.amazonaws.com/da4b156aeed311e1aaa822000a1de2ba_7.jpg"
-alt="Preparing unicycle for talk." /></p>
+<p><img src="http://distilleryimage4.s3.amazonaws.com/da4b156aeed311e1aaa822000a1de2ba_7.jpg" alt="Preparing unicycle for talk." /></p>
 
 <p>I was still tweaking while the presentations were happening, but the demo
 worked!</p>
@@ -356,9 +327,9 @@ worked!</p>
   
   <entry>
     <title type="html"><![CDATA[Servicing a Thinkpad x60s Fan and cooling system]]></title>
-    <link href="http://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"/>
     <updated>2012-08-06T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan</id>
+    <id>https://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan</id>
     <content type="html"><![CDATA[<p>The fan in my x60s had started to sound rough. I was worried it was going to
 die soon, which would be very inconvenient when cycle touring or in
 mid-nowhere. I thought I should probably replace it but decided to try and fix
@@ -370,20 +341,20 @@ other part of the computer. It was interesting to see inside though. It was
 made easy be the excellent service manual which I downloaded. Be very careful
 when unscrewing the fansink. Use a screwdriver that fits well and support the
 points you will be pushing down on with something underneath the board. I
-didn't and heard a nasty cracking noise. I'm surprised that the solder
+didn’t and heard a nasty cracking noise. I’m surprised that the solder
 connections to the CPU were not broken when the board bent, but luckily it
-doesn't seem to have caused any problems.</p>
+doesn’t seem to have caused any problems.</p>
 
 <p>I then had to access the fan. It was not designed to be removed from the
 fansink but it was possible by bending the metal tabs which held the case over
 the rotor, and peeling back some foil tape.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/7720829624/" title="Thinkpad x60s Fansink by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8287/7720829624_26bd0a7aaf_z.jpg" width="640" height="480" alt="Thinkpad x60s Fansink"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7720829624/" title="Thinkpad x60s Fansink by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8287/7720829624_26bd0a7aaf_z.jpg" width="640" height="480" alt="Thinkpad x60s Fansink" /></a></p>
 
 <p>I cleaned out quite a lot of dust which had built up by the fan blades and in
 the heatsink fins. I then applied 3 in 1 oil to the bearing surfaces.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/7720821532/" title="Thinkpad x60s Fansink: Fan motor, rotor removed by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7111/7720821532_d81fbebcc6.jpg" width="500" height="375" alt="Thinkpad x60s Fansink: Fan motor, rotor removed"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7720821532/" title="Thinkpad x60s Fansink: Fan motor, rotor removed by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7111/7720821532_d81fbebcc6.jpg" width="500" height="375" alt="Thinkpad x60s Fansink: Fan motor, rotor removed" /></a></p>
 
 <p>Replacing the heatsink requires replacing the thermal paste, and I expected
 that doing this well would improve cooling in any case. It should reduce the
@@ -392,21 +363,19 @@ run at a lower speed, prolonging its life. I used Arctic Silver 5 as it seems
 to have the best reputation and reviews.</p>
 
 <p>Arctic Silver give application instructions for various CPUs, but not for this
-one. I wrote to them and they said to use, for a Core Duo in a laptop, the <a
-href="http://www.arcticsilver.com/pdf/appmeth/int/ss/intel_app_method_surface_spread_v1.1.pdf">surface
+one. I wrote to them and they said to use, for a Core Duo in a laptop, the <a href="http://www.arcticsilver.com/pdf/appmeth/int/ss/intel_app_method_surface_spread_v1.1.pdf">surface
 spread</a> method. Before applying I thoroughly cleaned the surfaces with
 isopropanol, which has proven useful for many other electronics
 applications. I was excited to discover I actually had one of these mythical
-"soft lint free cloths". In real life it's called a camera lens cleaner.</p>
+“soft lint free cloths”. In real life it’s called a camera lens cleaner.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/7258837974/" title="Intel Core Duo, in Thinkpad x60s by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7094/7258837974_5b20049508.jpg" width="500" height="375" alt="Intel Core Duo, in Thinkpad x60s"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7258837974/" title="Intel Core Duo, in Thinkpad x60s by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7094/7258837974_5b20049508.jpg" width="500" height="375" alt="Intel Core Duo, in Thinkpad x60s" /></a></p>
 
 <p>The memory controller is also cooled directly by the fansink. It has a thermal
-pad instead of paste. I did not replace this because I didn't have another
+pad instead of paste. I did not replace this because I didn’t have another
 one. I was careful to try and keep it clean though. Dust matters.</p>
 
-<p>After reassembling the computer, it's a good idea to test it. I used <a
-href="http://www.mersenne.org/freesoft/">prime95</a> to heat the CPU. It's a
+<p>After reassembling the computer, it’s a good idea to test it. I used <a href="http://www.mersenne.org/freesoft/">prime95</a> to heat the CPU. It’s a
 mersenne prime finding program, but also seems to be popular with overclockers
 who want to test cooling. It has menu options specifically for this. memtest86
 can be used to test memory. I ran prime95 while monitoring temperatures with
@@ -418,12 +387,11 @@ done nothing. The CPU temperature now sits around 41C idle. I recommend you
 carry out this procedure at the first signs of fan wear, as the oil should
 reduce further damage that would otherwise occur more quickly.</p>
 
-<p>Keeping the computer cool should also extend its life. <a
-href="http://en.wikipedia.org/wiki/Arrhenius_equation">The Arrhenius
+<p>Keeping the computer cool should also extend its life. <a href="http://en.wikipedia.org/wiki/Arrhenius_equation">The Arrhenius
 equation</a> applies to component failures.</p>
 
 <p>Now, I should try and avoid gunk build up in the fan by not using the
-computer: in bed, in sand dunes, in caves, in a forest...</p>
+computer: in bed, in sand dunes, in caves, in a forest…</p>
 
 <p>I have also written about
 <a href="/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html">oiling the X61
@@ -434,14 +402,12 @@ fans</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Coderace, and trying an Android phone for navigation]]></title>
-    <link href="http://mm0hai.net/blog/2012/08/04/Coderace.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/04/Coderace.html"/>
     <updated>2012-08-04T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/08/04/Coderace</id>
+    <id>https://mm0hai.net/blog/2012/08/04/Coderace</id>
     <content type="html"><![CDATA[<p><img width="640" src="http://www.coderace.co.uk/images/Event2012/Screenshot2.jpg" alt="Final game map" /></p>
 
-<p>Today I participated in an event called <a
-href="http://www.coderace.co.uk/">Coderace</a> with a team from the <a
-href="http://edinburghhacklab.com/">Edinburgh Hacklab</a>.</p>
+<p>Today I participated in an event called <a href="http://www.coderace.co.uk/">Coderace</a> with a team from the <a href="http://edinburghhacklab.com/">Edinburgh Hacklab</a>.</p>
 
 <p>The game used an Android app which showed points on a map. Each point had a
 clue which could be answered using information available at the indicated
@@ -457,8 +423,7 @@ application crashing, position tracking failing, and with phones but it mostly
 worked. It was a good way to get some exercise and an idea of what can be done
 with these devices. Thanks to Napier University for running it.</p>
 
-<p><img width="640" src="http://www.coderace.co.uk/images/Event2012/DSC00459.JPG" alt="Bikes
-and phones" /></p>
+<p><img width="640" src="http://www.coderace.co.uk/images/Event2012/DSC00459.JPG" alt="Bikes and phones" /></p>
 
 <p>I borrowed a phone for the game. My normal phone is a Sony Ericsson W800i and I
 had never really used a smartphone before. I had been thinking about a general
@@ -476,12 +441,12 @@ full charge. The battery in this phone is tiny compared to the screen size. It
 seems that a solar or dynamo charging system is not just needed for extend off
 grid operation but even when used in a city.</p>
 
-<p>Mobile networks still don't get it when it comes to data. It used to be that
+<p>Mobile networks still don’t get it when it comes to data. It used to be that
 they charged about £3/MB, which is as good as infinite. I suspect what
 happened is they had the idea people would want to use WAP and they made up a
 price such that the per page cost was what they wanted. This of course made
 the tariff useless for actual web browsing. I thought that with the
-introduction of smart phones they would have sorted this out but although it's
+introduction of smart phones they would have sorted this out but although it’s
 an order of magnitude less bad it needs another two. The most they offer if
 pre arranged is 1GB / month for £10.</p>
 
@@ -495,20 +460,20 @@ the situation is ridiculous.</p>
   
   <entry>
     <title type="html"><![CDATA[Ebay MC34063 based USB car PSU]]></title>
-    <link href="http://mm0hai.net/blog/2012/08/01/Message-to-an-ebay-seller.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/01/Message-to-an-ebay-seller.html"/>
     <updated>2012-08-01T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/08/01/Message-to-an-ebay-seller</id>
+    <id>https://mm0hai.net/blog/2012/08/01/Message-to-an-ebay-seller</id>
     <content type="html"><![CDATA[<p>I bought this on ebay for £1.17 including postage, but it was worse than my low expectations.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/7688389772/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8430/7688389772_f9b45bed93_n.jpg" width="320" height="291" alt="MC34063 based USB car charger"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7688389772/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8430/7688389772_f9b45bed93_n.jpg" width="320" height="291" alt="MC34063 based USB car charger" /></a></p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/7688390396/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8005/7688390396_f8834ba3ba_z.jpg" width="640" height="351" alt="MC34063 based USB car charger"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7688390396/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8005/7688390396_f8834ba3ba_z.jpg" width="640" height="351" alt="MC34063 based USB car charger" /></a></p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/7688390784/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8152/7688390784_86e180f45b.jpg" width="500" height="358" alt="MC34063 based USB car charger"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7688390784/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8152/7688390784_86e180f45b.jpg" width="500" height="358" alt="MC34063 based USB car charger" /></a></p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/7688391162/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7258/7688391162_0e23a40901.jpg" width="500" height="401" alt="MC34063 based USB car charger"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7688391162/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7258/7688391162_0e23a40901.jpg" width="500" height="401" alt="MC34063 based USB car charger" /></a></p>
 
-<p>Here's what I said to the seller:</p>
+<p>Here’s what I said to the seller:</p>
 
 <p>I have just tested this item and found it does not work.</p>
 
@@ -535,20 +500,16 @@ selling it.</p>
   
   <entry>
     <title type="html"><![CDATA[Constant Current Load]]></title>
-    <link href="http://mm0hai.net/blog/2012/08/01/Constant-Current-Load.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/01/Constant-Current-Load.html"/>
     <updated>2012-08-01T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/08/01/Constant-Current-Load</id>
+    <id>https://mm0hai.net/blog/2012/08/01/Constant-Current-Load</id>
     <content type="html"><![CDATA[<p>I have been designing power supplies and testing solar panels recently. An
 easily and finely adjustable constant current load is very useful for these
 tasks, so I made one.</p>
 
-<p><a href="https://www.flickr.com/photos/mm0hai/7690254990/" title="Constant
-Current Load by mm0hai, on Flickr"><img
-src="https://farm9.staticflickr.com/8287/7690254990_1f846f9bb6_z.jpg"
-width="640" height="523" alt="Constant Current Load"></a></p>
+<p><a href="https://www.flickr.com/photos/mm0hai/7690254990/" title="Constant Current Load by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8287/7690254990_1f846f9bb6_z.jpg" width="640" height="523" alt="Constant Current Load" /></a></p>
 
-<p>My design is basically the same as shown in this <a
-href="http://www.eevblog.com/2010/08/01/eevblog-102-diy-constant-current-dummy-load-for-power-supply-and-battery-testing/">EEVBlog
+<p>My design is basically the same as shown in this <a href="http://www.eevblog.com/2010/08/01/eevblog-102-diy-constant-current-dummy-load-for-power-supply-and-battery-testing/">EEVBlog
 video</a>, except I run the opamp at 12V, with resistors changed
 appropriately, and use a 10K pot. The 12V supply, from a 78L12, also powers a
 cooling fan. I added a 2A fuse.</p>
@@ -559,11 +520,10 @@ to mount the MOSFET, and used thermal paste. It works well.</p>
 <p>The main problem I had with this circuit was selecting a MOSFET. Initially I
 used an IPP114N03L G. I chose this based on the headline V and I
 specifications, and thermal calculations of power handling. I then learnt that
-there are more <a
-href="/blog/2012/07/09/How-to-Kill-a-MOSFET.html">restrictions on the
+there are more <a href="/blog/2012/07/09/How-to-Kill-a-MOSFET.html">restrictions on the
 operating conditions of MOSFETs</a>, which are shown in the Safe Operating
-Area graph. I replaced it with an STP5NK80Z. It's not ideal because of
-relatively high R<sub>ds (on)</sub> but it's what I could get that would handle
+Area graph. I replaced it with an STP5NK80Z. It’s not ideal because of
+relatively high R<sub>ds (on)</sub> but it’s what I could get that would handle
 the load.</p>
 
 <p>The device now works well and has been used many times already. It would be
@@ -574,11 +534,11 @@ convenient if it had a current meter though.</p>
   
   <entry>
     <title type="html"><![CDATA[How to kill a MOSFET]]></title>
-    <link href="http://mm0hai.net/blog/2012/07/09/How-to-Kill-a-MOSFET.html"/>
+    <link href="https://mm0hai.net/blog/2012/07/09/How-to-Kill-a-MOSFET.html"/>
     <updated>2012-07-09T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/07/09/How-to-Kill-a-MOSFET</id>
-    <content type="html"><![CDATA[<p>I've been making a constant current load for testing power supplies and solar
-panels. I've killed two MOSFETs so far and now learned something about why.</p>
+    <id>https://mm0hai.net/blog/2012/07/09/How-to-Kill-a-MOSFET</id>
+    <content type="html"><![CDATA[<p>I’ve been making a constant current load for testing power supplies and solar
+panels. I’ve killed two MOSFETs so far and now learned something about why.</p>
 
 <p>Firstly, the obvious. Voltage, (V<sub>gs</sub> and V<sub>ds</sub>) must be
 within limits. The same for current, I<sub>d</sub>. There is also the power
@@ -605,12 +565,12 @@ cracking of the die. This explains the quiet pop I heard when one failed - the
 silicon cracked. The thermal resistance seems like more of an average limit -
 if the whole die is at a similar temperature it applies. Temperature variation
 over the die seems to be higher in FETs designed for switchmode power
-supplies. They are optimised for on-off switching and can't cope with
+supplies. They are optimised for on-off switching and can’t cope with
 operation in this linear region. BJTs suffer from second breakdown, which
 limits the SOA. MOSFETs are not meant to do this but this seems to be a
 similar limit.</p>
 
-<p>Moral of the story: don't trust the headline figures. Sometimes these seem to
+<p>Moral of the story: don’t trust the headline figures. Sometimes these seem to
 be made up by the marketing department. Consult the SOA and give the limits a
 wide berth.</p>
 
@@ -622,26 +582,24 @@ question on stackexchange</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Testing a Maplin Solar Briefcase and Maximum Power Point]]></title>
-    <link href="http://mm0hai.net/blog/2012/06/27/Maplin-Solar-Briefcase.html"/>
+    <link href="https://mm0hai.net/blog/2012/06/27/Maplin-Solar-Briefcase.html"/>
     <updated>2012-06-27T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/06/27/Maplin-Solar-Briefcase</id>
+    <id>https://mm0hai.net/blog/2012/06/27/Maplin-Solar-Briefcase</id>
     <content type="html"><![CDATA[<p>I was in Maplin a while ago and saw a 5W solar panel for sale for £15. I
 bought it with a vague idea of using it to power <a href="/radio">my radio</a>
 on <a href="/sota">expeditions</a> but mostly just for interest and to learn.</p>
 
-<p>I didn't know anything about photovoltaics at the time and I decided to test
+<p>I didn’t know anything about photovoltaics at the time and I decided to test
 the panel and try to work out what it did. I set it up in full sunlight,
 pointing straight at the sun. I measured the voltage and current output when
-loaded with various resistors. (I've since built a <a
-href="/blog/2012/08/01/Constant-Current-Load.html">constant current load</a>,
+loaded with various resistors. (I’ve since built a <a href="/blog/2012/08/01/Constant-Current-Load.html">constant current load</a>,
 which makes this sort of thing much easier.) I then tried the same thing under
-some halogen light bulbs. Don't trust the figures too much as I was using <a
-href="/blog/2012/05/21/Multimeters-available-in-UK.html">cheap
+some halogen light bulbs. Don’t trust the figures too much as I was using <a href="/blog/2012/05/21/Multimeters-available-in-UK.html">cheap
 multimeters</a>, one of which I later discovered changed its readings when
 bent.</p>
 
-<p><img src="/res/2012-06-27-Maplin-Solar-Briefcase/sun.png">
-<img src="/res/2012-06-27-Maplin-Solar-Briefcase/lamp.png"></p>
+<p><img src="/res/2012-06-27-Maplin-Solar-Briefcase/sun.png" />
+<img src="/res/2012-06-27-Maplin-Solar-Briefcase/lamp.png" /></p>
 
 <p>The maximum power output is less than 2W, when pointed directly at the sun on
 a clear day and with a nearly optimal load. I was not impressed.</p>
@@ -651,15 +609,11 @@ not see any simple way to optimise the load for this. Under different lighting
 both the voltage and current of the maximum power point (MPP) change.</p>
 
 <p>I decided to read up on solarvoltaics and maximum power point tracking (MPPT)
-which someone had mentioned to me. The wikipedia page on <a
-href="http://en.wikipedia.org/wiki/Maximum_power_point_tracking">MPPT</a>
-shows this plot of the VI curves from a solar cell model. Reassuringly <a
-href="/res/2012-06-27-Maplin-Solar-Briefcase">my data</a> follows this general
+which someone had mentioned to me. The wikipedia page on <a href="http://en.wikipedia.org/wiki/Maximum_power_point_tracking">MPPT</a>
+shows this plot of the VI curves from a solar cell model. Reassuringly <a href="/res/2012-06-27-Maplin-Solar-Briefcase">my data</a> follows this general
 shape.</p>
 
-<p><img
-src="http://upload.wikimedia.org/wikipedia/commons/d/d8/Solar-Cell-IV-curve-with-MPP.png"
-alt="VI curves of model solar cell."/></p>
+<p><img src="http://upload.wikimedia.org/wikipedia/commons/d/d8/Solar-Cell-IV-curve-with-MPP.png" alt="VI curves of model solar cell." /></p>
 
 <p>At this point I started designing a MPPT, but for this panel it is not
 useful. The maximum MPP is at around 13V, the minimum MPP worth considering is
@@ -667,50 +621,48 @@ around 11V. The power loss of maintaining a fixed 13V out irrespective of
 irradiance rather than adapting is lower than that of inserting a switch mode
 converter.</p>
 
-<p>I now have a 15W ET Solar panel which exceeds its power specification. I've
-not done much testing on it yet but I'll be using it in my touring bike setup
-which I'm working on now.</p>
+<p>I now have a 15W ET Solar panel which exceeds its power specification. I’ve
+not done much testing on it yet but I’ll be using it in my touring bike setup
+which I’m working on now.</p>
 ]]></content>
    
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Cheap but not rubbish multimeters available in the UK]]></title>
-    <link href="http://mm0hai.net/blog/2012/05/21/Multimeters-available-in-UK.html"/>
+    <link href="https://mm0hai.net/blog/2012/05/21/Multimeters-available-in-UK.html"/>
     <updated>2012-05-21T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/05/21/Multimeters-available-in-UK</id>
+    <id>https://mm0hai.net/blog/2012/05/21/Multimeters-available-in-UK</id>
     <content type="html"><![CDATA[<p>I used to have only cheap and nasty multimeters, but Dave Jones of the EEVBlog
-convinced me that it was worth getting a <a
-href="https://www.youtube.com/watch?v=ZoeUgMFLyAw">half decent</a> one. I like
+convinced me that it was worth getting a <a href="https://www.youtube.com/watch?v=ZoeUgMFLyAw">half decent</a> one. I like
 his videos; they are worth watching to learn about meters in general as well
 as the specific ones he reviews.</p>
 
 <p>I spent some time looking for where I could get good brand meters here for not
-too ridiculous prices (relative to the US and Australia). I made a <a
-href="https://docs.google.com/spreadsheet/ccc?key=0AlSnQD_VeghadEpwSmQ5cFZRQkM5OWxxSjUwZm83OHc">spreadsheet
+too ridiculous prices (relative to the US and Australia). I made a <a href="https://docs.google.com/spreadsheet/ccc?key=0AlSnQD_VeghadEpwSmQ5cFZRQkM5OWxxSjUwZm83OHc">spreadsheet
 of Amprobe, Extech and UNI-T meters between £25 and about £70 and where you
 can buy them</a>. Maybe some of the other brands available in the UK are a
 better deal but I have no data on their quality.</p>
 
-<p>I've now ordered an Extech EX330.</p>
+<p>I’ve now ordered an Extech EX330.</p>
 ]]></content>
    
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Teardown: Vivitar Charger for Canon NB2L Battery]]></title>
-    <link href="http://mm0hai.net/blog/2012/03/14/Vivitar-lithium-battery-charger.html"/>
+    <link href="https://mm0hai.net/blog/2012/03/14/Vivitar-lithium-battery-charger.html"/>
     <updated>2012-03-14T00:00:00+01:00</updated>
-    <id>http://mm0hai.net/blog/2012/03/14/Vivitar-lithium-battery-charger</id>
+    <id>https://mm0hai.net/blog/2012/03/14/Vivitar-lithium-battery-charger</id>
     <content type="html"><![CDATA[<p>I bought this battery charger with a Canon EOS 350D, my first SLR. I wanted to
 check if it was any good before I trusted it with a new battery. I am designing
 a power system for my bike at the moment and have been reading about batteries
 and methods of charging them so I am interested to see how it works and need
 to decide whether to use it on my bike or to make my own charger.</p>
 
-<p><a href="https://www.flickr.com/photos/58967572@N03/6838509368/" title="Vivitar charger for Canon NB2L lithium battery - front case by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7178/6838509368_63b77a3b61.jpg" width="343" height="500" alt="Vivitar charger for Canon NB2L lithium battery - front case"></a></p>
+<p><a href="https://www.flickr.com/photos/58967572@N03/6838509368/" title="Vivitar charger for Canon NB2L lithium battery - front case by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7178/6838509368_63b77a3b61.jpg" width="343" height="500" alt="Vivitar charger for Canon NB2L lithium battery - front case" /></a></p>
 
-<h1>Taking it Apart</h1>
+<h1 id="taking-it-apart">Taking it Apart</h1>
 
 <p>One of the first things I noticed was the missing components. The filter
 inductors and capacitors on the mains input are missing. These components are
@@ -720,30 +672,27 @@ requirements, then once the design had been approved they were removed to save
 money - most people would not notice. This is really nasty and poor quality,
 and probably illegal.</p>
 
-<p><a href="https://www.flickr.com/photos/58967572@N03/6984633733/" title="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7182/6984633733_4d0d050b5d.jpg" width="500" height="375" alt="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors"></a></p>
+<p><a href="https://www.flickr.com/photos/58967572@N03/6984633733/" title="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7182/6984633733_4d0d050b5d.jpg" width="500" height="375" alt="Vivitar charger for Canon NB2L lithium battery - Missing filter inductors" /></a></p>
 
-<p><a href="https://www.flickr.com/photos/58967572@N03/6984634431/" title="Vivitar charger for Canon NB2L lithium battery - Missing components by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7182/6984634431_111b073a25.jpg" width="473" height="500" alt="Vivitar charger for Canon NB2L lithium battery - Missing com-pents"></a></p>
+<p><a href="https://www.flickr.com/photos/58967572@N03/6984634431/" title="Vivitar charger for Canon NB2L lithium battery - Missing components by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7182/6984634431_111b073a25.jpg" width="473" height="500" alt="Vivitar charger for Canon NB2L lithium battery - Missing com-pents" /></a></p>
 
 <p>There is no DC converter chip or microcontroller - it is made from discrete
 components and a comparator IC.</p>
 
-<p>There are some more <a
-href="https://www.flickr.com/photos/58967572@N03/sets/72157629225738410/">photos
+<p>There are some more <a href="https://www.flickr.com/photos/58967572@N03/sets/72157629225738410/">photos
 on flickr</a>.</p>
 
-<h1>Correctness</h1>
+<h1 id="correctness">Correctness</h1>
 
 <p>Does the charger correctly implement a charging algorithm which is good for
 the battery?</p>
 
 <p>I investigated the output by loading it with resistors. I powered the charger
-with the DC "car charger" input rather than the mains.</p>
+with the DC “car charger” input rather than the mains.</p>
 
-<p><img src="/res/2012-03-14-Vivitar-lithium-battery-charger/VI-curve.png"
-alt="Graph of current and voltage output of charger with different loads. A table of this data is linked from this page."></p>
+<p><img src="/res/2012-03-14-Vivitar-lithium-battery-charger/VI-curve.png" alt="Graph of current and voltage output of charger with different loads. A table of this data is linked from this page." /></p>
 
-<p>The data shown above are <a
-href="/res/2012-03-14-Vivitar-lithium-battery-charger/VI-curve">here</a>.</p>
+<p>The data shown above are <a href="/res/2012-03-14-Vivitar-lithium-battery-charger/VI-curve">here</a>.</p>
 
 <p>The charger supplies 0.57A until the voltage reaches somewhere between 7.35
 and 8.22 volts and then eventually settles down to a constant voltage of 8.39
@@ -751,7 +700,7 @@ volts.</p>
 
 <p>The battery I have is 7.2V, 1200mAh (more than the original battery). 0.57A
 gives a charge rate of 0.78C. Between 0.2 and 0.7 C is recommended by [2] so
-this seems quite reasonable. I don't have a datasheet for the battery so I
+this seems quite reasonable. I don’t have a datasheet for the battery so I
 will assume the typical peak voltage of 4.2V / cell, 3.6V nominal. This means
 the maximum voltage from the charger should be 8.4V, so it is within a +/-
 50mV tolerance[1]. Within the normal charging range, it seems to do the right
@@ -766,46 +715,45 @@ stored for some time.</p>
 <p>The other difficulty is when to terminate the charge. This should happen when
 charging current drops to something like 10% to 3% of the peak charge current,
 depending on which source I believe. That is 17mA minimum anyway, and I did
-not measure that low, so I don't know what the charger does. It is still
+not measure that low, so I don’t know what the charger does. It is still
 charging at 42mA though. Some sources recommend a 1h timer to limit the
-constant voltage phase. It looks like the charger doesn't have this. One way
+constant voltage phase. It looks like the charger doesn’t have this. One way
 to simplify the termination requirement could be to use a voltage less than the
 peak, which this charger seems to do by 10mV. This might avoid overcharging
-but not fully charge the battery. I don't know for sure though.</p>
+but not fully charge the battery. I don’t know for sure though.</p>
 
 <p>I also note that the charger does not make use of the temperature terminal on
 the battery.</p>
 
-<h1>Efficiency</h1>
+<h1 id="efficiency">Efficiency</h1>
 
-<p>At 14V in and 0.57A, 7.32V out, efficiency was 68%. That's rather
+<p>At 14V in and 0.57A, 7.32V out, efficiency was 68%. That’s rather
 disappointing. I think 95% should be possible, or at least 90%. I got a rough
 idea of this from the datasheet for the MAX1556 - it claims around 95%
 efficiency at 600mA, 5V in, 3.3V out.</p>
 
-<h1>Conclusion</h1>
+<h1 id="conclusion">Conclusion</h1>
 
 <p>The charger is probably adequate if the battery is not discharged too far, it
 is supervised, and the battery is not left in the charger for too long. I will
 use it for now but would really prefer something better.</p>
 
-<h1>References</h1>
+<h1 id="references">References</h1>
 
 <ol>
-<li>http://batteryuniversity.com/learn/article/charging_lithium_ion_batteries</li>
-<li>https://www.powerstream.com/li.htm</li>
-<li>http://www.ka7oei.com/ft817_roar.html</li>
+  <li>http://batteryuniversity.com/learn/article/charging_lithium_ion_batteries</li>
+  <li>https://www.powerstream.com/li.htm</li>
+  <li>http://www.ka7oei.com/ft817_roar.html</li>
 </ol>
-
 ]]></content>
    
   </entry>
   
   <entry>
     <title type="html"><![CDATA[SGC SG-211 Mini Smartuner Teardown]]></title>
-    <link href="http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner.html"/>
+    <link href="https://mm0hai.net/blog/2011/06/02/SGC-211-autotuner.html"/>
     <updated>2011-06-02T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner</id>
+    <id>https://mm0hai.net/blog/2011/06/02/SGC-211-autotuner</id>
     <content type="html"><![CDATA[<p>My<sup>1</sup> SGC autotuner had an accident when I stupidly put it down on a
 bench. The boat heeled and it landed on the connector, bending it. Luckily the
 connector was mounted on the case and wired up, rather than soldered directly
@@ -813,51 +761,49 @@ to the board, so there was no damage other than a bent box. I took it apart
 so I could straighten it out and thought I might as well take some photos
 while I was at it.</p>
 
-<p>The item in question is an <a
-href="http://www.sgcworld.com/211ProductPage.html">SG-211</a>. I'm not going
+<p>The item in question is an <a href="http://www.sgcworld.com/211ProductPage.html">SG-211</a>. I’m not going
 to review it or say much other than it is pretty good and the case is soft
 aluminium.</p>
 
-<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5788517160/" title="Top of board"><img src="https://farm3.static.flickr.com/2327/5788517160_677a9ff43e_z.jpg" width="640" height="428" alt="Top of board"></a></p>
+<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5788517160/" title="Top of board"><img src="https://farm3.static.flickr.com/2327/5788517160_677a9ff43e_z.jpg" width="640" height="428" alt="Top of board" /></a></p>
 
-<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5788523098/" title="Bottom of board"><img src="https://farm4.static.flickr.com/3273/5788523098_208ab1258e_z.jpg" width="640" height="441" alt="Bottom of board"></a></p>
+<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5788523098/" title="Bottom of board"><img src="https://farm4.static.flickr.com/3273/5788523098_208ab1258e_z.jpg" width="640" height="441" alt="Bottom of board" /></a></p>
 
 <p>The relays are interesting. I have been meaning to design an automatic ground
-tuner for my <a
-href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">bike</a> but
+tuner for my <a href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">bike</a> but
 one problem I have is the inability to find any latching relays. It seems SGC
 either had their own made, or have had some branded to hide where they get
 these mythical devices.</p>
 
-<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5787968241/" title="Custom relays?"><img src="https://farm3.static.flickr.com/2440/5787968241_e4bbc34dee_z.jpg" width="640" height="236" alt="Custom relays?"></a></p>
+<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5787968241/" title="Custom relays?"><img src="https://farm3.static.flickr.com/2440/5787968241_e4bbc34dee_z.jpg" width="640" height="236" alt="Custom relays?" /></a></p>
 
-<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5787972187/" title="Bottom half of case"><img src="https://farm6.static.flickr.com/5230/5787972187_20fb28eaa0_z.jpg" width="640" height="436" alt="Bottom half of case"></a></p>
+<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5787972187/" title="Bottom half of case"><img src="https://farm6.static.flickr.com/5230/5787972187_20fb28eaa0_z.jpg" width="640" height="436" alt="Bottom half of case" /></a></p>
 
 <p>The white wire is connected to a front panel toggle switch which was added by
 SGC. The new switch disables retuning to avoid a problem where it would retune
-in the middle of an over. I'm not sure if the uninsulated wires above this are
+in the middle of an over. I’m not sure if the uninsulated wires above this are
 part of the mod. I hope they are not fixing a bad board. The switch is useful
-but I'm a bit concerned about what this will do for durability. The controller
+but I’m a bit concerned about what this will do for durability. The controller
 is a PIC.</p>
 
-<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5788529612/" title="PIC"><img src="https://farm6.static.flickr.com/5264/5788529612_7265d6aa5f_z.jpg" width="415" height="640" alt="PIC"></a></p>
+<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5788529612/" title="PIC"><img src="https://farm6.static.flickr.com/5264/5788529612_7265d6aa5f_z.jpg" width="415" height="640" alt="PIC" /></a></p>
 
 <p>A reference / dummy load?</p>
 
-<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5787974261/" title="Reference / load?"><img src="https://farm6.static.flickr.com/5229/5787974261_2a675e013d_m.jpg" width="240" height="149" alt="Reference / load R?"></a></p>
+<p><a rel="nofollow" href="https://www.flickr.com/photos/58967572@N03/5787974261/" title="Reference / load?"><img src="https://farm6.static.flickr.com/5229/5787974261_2a675e013d_m.jpg" width="240" height="149" alt="Reference / load R?" /></a></p>
 
-<p>--</p>
+<p>–</p>
 
-<p><sup>1</sup> Actually borrowed, but he'll never know my bending was that good. :-)</p>
+<p><sup>1</sup> Actually borrowed, but he’ll never know my bending was that good. :-)</p>
 ]]></content>
    
   </entry>
   
   <entry>
     <title type="html"><![CDATA[My introduction to the Arduino platform]]></title>
-    <link href="http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html"/>
+    <link href="https://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html"/>
     <updated>2011-05-25T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino</id>
+    <id>https://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino</id>
     <content type="html"><![CDATA[<p>I have been meaning to do several microcontroller based projects for some time
 now. Ideally I wanted to do it without spending any money so I decided to make
 myself a PIC programmer with some samples from Microchip. This would also make
@@ -867,11 +813,11 @@ the process more interesting.</p>
 bootstrap it with a serial port based programmer using an old computer.  I
 bought all the parts, including copper clad board and ferric chloride but
 never quite got round to doing it. This was in part because I was not very
-keen to have to work with ferric chloride and I didn't want to dissolve the
+keen to have to work with ferric chloride and I didn’t want to dissolve the
 sink.</p>
 
 <p>Meanwhile, I had been hearing about the Arduino more and more. Initially I
-ignored it as something for artists and people who didn't know what they were
+ignored it as something for artists and people who didn’t know what they were
 doing. I had spent some time at university learning about and using real
 microcontrollers with none of this boot loader nonsense so I did not think I
 needed such things. Then I realised that being leet enough not to require
@@ -879,13 +825,12 @@ simplification did not make quicker development a bad thing. :-) I decided I
 had wasted enough time and just wanted to get something done, so I bought an
 Arduino.</p>
 
-<p><img src="https://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg"
-width="500" height="375" alt="Seeeduino and ethernet shield"></p>
+<p><img src="https://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg" width="500" height="375" alt="Seeeduino and ethernet shield" /></p>
 
 <p>I actually chose the seeedunio, an Arduino clone. The design is open so this
 is allowed and in fact there are some improvements made in the
 seeeduino. Primarily I chose it though because it was the cheapest. I still
-don't like the idea of paying decapounds for a single basic microcontroller
+don’t like the idea of paying decapounds for a single basic microcontroller
 and some soldering. I also ordered an ethernet shield, which is what an
 expansion card is called in the Arduino world. These arrived yesterday.</p>
 
@@ -901,7 +846,7 @@ to pin 13. So far quite reasonable.</p>
 had to stick all the source files in the same directory and change the ip
 address and then I was pinging the board. It took only a few minutes. This I
 thought was pretty ridiculous. Then I used the web server program. It
-worked. I couldn't really believe this - this did not seem like electronics at
+worked. I couldn’t really believe this - this did not seem like electronics at
 all. I would expect this to have taken weeks of debugging, loose wires, errors
 in PCB design, software bugs and frustration but here it was working in a few
 minutes with no test gear in sight. I have certainly confirmed my get things
@@ -909,12 +854,12 @@ done faster conjecture.</p>
 
 <p>It was not quite as good though when I wanted to connect stuff up to it. The
 board did not come with a data sheet and I could not find much at all online.
-In the end I went to Atmel's web site and downloaded the datasheet for the
+In the end I went to Atmel’s web site and downloaded the datasheet for the
 ATmega328P on my board. Included below are some useful figures from it.</p>
 
-<h1>Reference</h1>
+<h1 id="reference">Reference</h1>
 
-<h2>Seeeduino - Summary of Initial Setup</h2>
+<h2 id="seeeduino---summary-of-initial-setup">Seeeduino - Summary of Initial Setup</h2>
 
 <p>I am using the Seeeduino V2.21 which is also marked ARD128D2P.</p>
 
@@ -927,37 +872,38 @@ ATmega328P on my board. Included below are some useful figures from it.</p>
 <p>The solution:</p>
 
 <ul>
-<li>Move reset switch to auto</li>
-<li>Set board type to <code>Deumilanove or Nano w/ ATmega328</code>.</li>
+  <li>Move reset switch to auto</li>
+  <li>Set board type to <code>Deumilanove or Nano w/ ATmega328</code>.</li>
 </ul>
 
+<h1 id="atmega328p-data">ATmega328P Data</h1>
 
-<h1>ATmega328P Data</h1>
-
-<h2>Absolute Maximums</h2>
+<h2 id="absolute-maximums">Absolute Maximums</h2>
 
 <table>
 <tr><td>Operating Temperature</td><td>-55°C to +125°C</td></tr>
 <tr><td>Voltage on any Pin except RESET with respect to Ground</td> <td>-0.5V to VCC+0.5V</td></tr>
 <tr><td>Maximum Operating Voltage</td><td>6.0V</td></tr>
-<tr><td>DC Current per I/O Pin</td><td>40.0mA</tr>
+<tr><td>DC Current per I/O Pin</td><td>40.0mA
 <tr><td>DC Current VCC and GND Pins</td><td>200.0mA</td></tr>
-</table>
 
 
-<h2>Programming</h2>
+Programming
+-----------
 
-<p>The Arduino environment uses C but with some magic, see
-<a href="http://arduino.cc/en/Hacking/BuildProcess">Arduino Build Process</a>.</p>
+The Arduino environment uses C but with some magic, see
+<a href="http://arduino.cc/en/Hacking/BuildProcess">Arduino Build Process</a>.
 
-<h2>Ethernet board</h2>
 
-<p>It's ENC28J60 based. This is not the same as the official one, which uses the
-Wiznet W5100.</p>
+Ethernet board
+--------------
 
-<p>Bought from <a
-href="http://www.ekitszone.com/Products/4-enc28j60-ethernet-shield-for-arduino.aspx">ekitszone</a>.
-Looks well made and works.</p>
+It's ENC28J60 based. This is not the same as the official one, which uses the
+Wiznet W5100.
+
+Bought from <a href="http://www.ekitszone.com/Products/4-enc28j60-ethernet-shield-for-arduino.aspx">ekitszone</a>.
+Looks well made and works.
+</td></tr></table>
 ]]></content>
    
   </entry>

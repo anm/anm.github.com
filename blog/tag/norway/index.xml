@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged norway]]></title>
 
-  <link href="http://mm0hai.net/blog/tag/norway/index.xml" rel="self"/>
-  <link href="http://mm0hai.net/"/>
-  <updated>2016-11-09T05:24:19+01:00</updated>
-  <id>http://mm0hai.net/blog/tag/norway</id>
+  <link href="https://mm0hai.net/blog/tag/norway/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2016-11-09T22:11:25+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/norway</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,14 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Hællæ]]></title>
-    <link href="http://mm0hai.net/blog/2016/11/09/haellae.html"/>
+    <link href="https://mm0hai.net/blog/2016/11/09/haellae.html"/>
     <updated>2016-11-09T00:00:00+01:00</updated>
-    <id>http://mm0hai.net/blog/2016/11/09/haellae</id>
+    <id>https://mm0hai.net/blog/2016/11/09/haellae</id>
     <content type="html"><![CDATA[<p>Jeg er i Fredrikstad. Jeg lære meg noen Norsk. Jeg liker knekkebrød og syltetøy.</p>
 
-<p><img
-src="https://c8.staticflickr.com/6/5647/30783134311_f59e99d474_z.jpg"
-width="640" height="480" alt="Fredrikstad"></p>
+<p><img src="https://c8.staticflickr.com/6/5647/30783134311_f59e99d474_z.jpg" width="640" height="480" alt="Fredrikstad" /></p>
 ]]></content>
    <georss:point>59.220538 10.934319</georss:point>
   </entry>

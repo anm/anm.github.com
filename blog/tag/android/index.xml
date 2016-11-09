@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged android]]></title>
 
-  <link href="http://mm0hai.net/blog/tag/android/index.xml" rel="self"/>
-  <link href="http://mm0hai.net/"/>
-  <updated>2016-11-09T05:24:19+01:00</updated>
-  <id>http://mm0hai.net/blog/tag/android</id>
+  <link href="https://mm0hai.net/blog/tag/android/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2016-11-09T22:11:25+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/android</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,14 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Coderace, and trying an Android phone for navigation]]></title>
-    <link href="http://mm0hai.net/blog/2012/08/04/Coderace.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/04/Coderace.html"/>
     <updated>2012-08-04T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/08/04/Coderace</id>
+    <id>https://mm0hai.net/blog/2012/08/04/Coderace</id>
     <content type="html"><![CDATA[<p><img width="640" src="http://www.coderace.co.uk/images/Event2012/Screenshot2.jpg" alt="Final game map" /></p>
 
-<p>Today I participated in an event called <a
-href="http://www.coderace.co.uk/">Coderace</a> with a team from the <a
-href="http://edinburghhacklab.com/">Edinburgh Hacklab</a>.</p>
+<p>Today I participated in an event called <a href="http://www.coderace.co.uk/">Coderace</a> with a team from the <a href="http://edinburghhacklab.com/">Edinburgh Hacklab</a>.</p>
 
 <p>The game used an Android app which showed points on a map. Each point had a
 clue which could be answered using information available at the indicated
@@ -38,8 +36,7 @@ application crashing, position tracking failing, and with phones but it mostly
 worked. It was a good way to get some exercise and an idea of what can be done
 with these devices. Thanks to Napier University for running it.</p>
 
-<p><img width="640" src="http://www.coderace.co.uk/images/Event2012/DSC00459.JPG" alt="Bikes
-and phones" /></p>
+<p><img width="640" src="http://www.coderace.co.uk/images/Event2012/DSC00459.JPG" alt="Bikes and phones" /></p>
 
 <p>I borrowed a phone for the game. My normal phone is a Sony Ericsson W800i and I
 had never really used a smartphone before. I had been thinking about a general
@@ -57,12 +54,12 @@ full charge. The battery in this phone is tiny compared to the screen size. It
 seems that a solar or dynamo charging system is not just needed for extend off
 grid operation but even when used in a city.</p>
 
-<p>Mobile networks still don't get it when it comes to data. It used to be that
+<p>Mobile networks still don’t get it when it comes to data. It used to be that
 they charged about £3/MB, which is as good as infinite. I suspect what
 happened is they had the idea people would want to use WAP and they made up a
 price such that the per page cost was what they wanted. This of course made
 the tariff useless for actual web browsing. I thought that with the
-introduction of smart phones they would have sorted this out but although it's
+introduction of smart phones they would have sorted this out but although it’s
 an order of magnitude less bad it needs another two. The most they offer if
 pre arranged is 1GB / month for £10.</p>
 

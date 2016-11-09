@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged travel]]></title>
 
-  <link href="http://mm0hai.net/blog/tag/travel/index.xml" rel="self"/>
-  <link href="http://mm0hai.net/"/>
-  <updated>2016-11-09T05:24:19+01:00</updated>
-  <id>http://mm0hai.net/blog/tag/travel</id>
+  <link href="https://mm0hai.net/blog/tag/travel/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2016-11-09T22:11:25+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/travel</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,37 +15,65 @@
   
   <entry>
     <title type="html"><![CDATA[Hællæ]]></title>
-    <link href="http://mm0hai.net/blog/2016/11/09/haellae.html"/>
+    <link href="https://mm0hai.net/blog/2016/11/09/haellae.html"/>
     <updated>2016-11-09T00:00:00+01:00</updated>
-    <id>http://mm0hai.net/blog/2016/11/09/haellae</id>
+    <id>https://mm0hai.net/blog/2016/11/09/haellae</id>
     <content type="html"><![CDATA[<p>Jeg er i Fredrikstad. Jeg lære meg noen Norsk. Jeg liker knekkebrød og syltetøy.</p>
 
-<p><img
-src="https://c8.staticflickr.com/6/5647/30783134311_f59e99d474_z.jpg"
-width="640" height="480" alt="Fredrikstad"></p>
+<p><img src="https://c8.staticflickr.com/6/5647/30783134311_f59e99d474_z.jpg" width="640" height="480" alt="Fredrikstad" /></p>
 ]]></content>
    <georss:point>59.220538 10.934319</georss:point>
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[2 Cats 1 Boat]]></title>
+    <link href="https://mm0hai.net/blog/2016/09/25/two-cats-one-boat.html"/>
+    <updated>2016-09-25T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2016/09/25/two-cats-one-boat</id>
+    <content type="html"><![CDATA[<p><img src="https://c5.staticflickr.com/6/5836/30583122980_5ebe6a8ef3_z.jpg" width="640" height="360" alt="2 Cats 1 Boat - Scampi 30" /></p>
+
+<p>After sailing on other people’s boats for a while, I finally got my own. I’m
+planning to live aboard and travel. It seems like a good way to have more
+comfort than most ways of travelling - you take your bed, kitchen, etc. with
+you - but you are not stuck in one place as you are with a house. For the
+moment the boat is on land in Stockholm, but in the Spring we should be ready
+to go.</p>
+
+<p>The boat is a Shipman Scampi, better known as Albin Scampi, as Albin also
+built them. 30ft, made in Sweden around 40 years ago. Quite light displacement
+and meant for racing, but hopefully will serve for cruising. She needs some
+work, but overall not a bad deal.</p>
+
+<p>I bought this boat after hitchhiking around Sweden, looking mostly at the Albin
+Vega, until Autumn when prices on larger boats like this dropped. I heard
+Sweden is a good place to buy a boat, and they certainly do seem cheaper here
+than in the UK and probably most of Europe. Swedish boats do not, however,
+seem to be well equipped to go to sea, as British ones more often are. I think
+this is because they are usually just used around the islands here, so there
+is more work to do, like adding anchors, tender, vhf radio!</p>
+]]></content>
+   <georss:point>59.324140 18.045904</georss:point>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Free Food]]></title>
-    <link href="http://mm0hai.net/blog/2012/08/12/Free-Food.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/12/Free-Food.html"/>
     <updated>2012-08-12T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/08/12/Free-Food</id>
+    <id>https://mm0hai.net/blog/2012/08/12/Free-Food</id>
     <content type="html"><![CDATA[<p>This post is about getting food for free, that is without spending money, but
 actually I mean more than that by free food. Food is the key thing which keeps
 many people in slavery. You need it to live (although some people dispute
 that) and the current system is set up such that you need to pay for it. This
 requires money, which in turn requires you to participate in the economic
-system which binds people to jobs they don't want and generally makes people
+system which binds people to jobs they don’t want and generally makes people
 so many people miserable. When you know how to get food for free, you become
 more free.</p>
 
-<p>I don't claim that the methods I outline in this post will fix the system or
+<p>I don’t claim that the methods I outline in this post will fix the system or
 work if everyone were to do this, but for now they can at least help some of
 us.</p>
 
-<h2>Skipping</h2>
+<h2 id="skipping">Skipping</h2>
 
 <p>In Europe this is called recycling, in America, dumpster diving. The best
 places to go are supermarkets at closing time. Huge amounts of good food are
@@ -58,30 +86,30 @@ even go out of date until the next day. You can live on entirely on what you
 find in these bins.</p>
 
 <p>There are some things you will very rarely find, like dried foods and things
-with a long shelf life. It's nice to be able to buy these things, but it's a
+with a long shelf life. It’s nice to be able to buy these things, but it’s a
 luxury.</p>
 
-<h2>Growing</h2>
+<h2 id="growing">Growing</h2>
 
 <p>If you are settled, you can of course grow food. Not much good if you are
 travelling though.</p>
 
-<h2>Foraging</h2>
+<h2 id="foraging">Foraging</h2>
 
 <p>Depending on where you are, you may be able to find fruit, mushrooms, and
 other foods growing wild.</p>
 
-<h2>Asking in Restaurants and Shops</h2>
+<h2 id="asking-in-restaurants-and-shops">Asking in Restaurants and Shops</h2>
 
 <p>This is similar to skipping, but you get it before it is thrown in the
 bin. Going to bakeries at closing time is often very worthwhile. Some
 restaurants will also cook lots of food that if unsold gets thrown away.</p>
 
-<h2>Charity</h2>
+<h2 id="charity">Charity</h2>
 
-<p>There are charities which give food to "the homeless" (whatever that
+<p>There are charities which give food to “the homeless” (whatever that
 means). Some temples and churches do this. It is not something I really like
-because, unlike skipping, the food has been paid for by someone. I'm not
+because, unlike skipping, the food has been paid for by someone. I’m not
 really comfortable with the idea of other people buying food for me. If you
 need it though, you should know these places are there.</p>
 ]]></content>
@@ -90,66 +118,65 @@ need it though, you should know these places are there.</p>
   
   <entry>
     <title type="html"><![CDATA[Living and Travelling without Money]]></title>
-    <link href="http://mm0hai.net/blog/2012/08/11/Living-for-Free.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/11/Living-for-Free.html"/>
     <updated>2012-08-11T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/08/11/Living-for-Free</id>
-    <content type="html"><![CDATA[<p>Many people assume that travel is expensive, but it doesn't need to be. I
-wintered in the Canary Islands for three months and spent almost nothing. It's
-just a matter of learning how to live without using money. You won't be
+    <id>https://mm0hai.net/blog/2012/08/11/Living-for-Free</id>
+    <content type="html"><![CDATA[<p>Many people assume that travel is expensive, but it doesn’t need to be. I
+wintered in the Canary Islands for three months and spent almost nothing. It’s
+just a matter of learning how to live without using money. You won’t be
 staying in five star hotels all the time, but it is quite possible to be happy
 and there are actually many advantages of a money free lifestyle.</p>
 
 <p>Without money, I think you are likely to meet more people, see more of the
 places you travel to, and learn more. If you stay in an hotel and go on guided
 tours you see the inside of an hotel and meet tourists. Then you come home a
-week later because you can't afford any more and you think you've got to do
+week later because you can’t afford any more and you think you’ve got to do
 some job you would rather not be doing right then. If you sleep on a beach, in
 a cave, or even on the street you will certainly have a more interesting
-experience. You'll probably meet other travellers or locals who can help you
+experience. You’ll probably meet other travellers or locals who can help you
 with things and show you interesting places.</p>
 
 <p>Money forces things. This is maybe ok if you know exactly what you want all
-the time, but you probably don't. The most obvious example is where to go. I
+the time, but you probably don’t. The most obvious example is where to go. I
 left Edinburgh with the idea of going to Patagonia. If I had bought a flight,
 I would have gone straight there. I attempted to hitchhike, and because I was
 not successful I had other adventures and learnt and did things which I might
 not have otherwise. I think what should have happened did. Things tend to work
 out for the best.</p>
 
-<p>I think I'll write separately about the practicalities of living without
-money. The main expenses which need to be removed are accommodation, <a
-href="/blog/2012/08/12/Free-Food.html">food</a>, and transport. For now I'll
+<p>I think I’ll write separately about the practicalities of living without
+money. The main expenses which need to be removed are accommodation, <a href="/blog/2012/08/12/Free-Food.html">food</a>, and transport. For now I’ll
 cover more general ideas.</p>
 
-<h2>"The bare necessities of life will come to you."</h2>
+<h2 id="the-bare-necessities-of-life-will-come-to-you">“The bare necessities of life will come to you.”</h2>
 
-<p>I've worked some of this out for myself on my recent travels, but I'm hardly
-unique in doing so. First, I'll tell you a story. I met a guy in Las Palmas
+<p>I’ve worked some of this out for myself on my recent travels, but I’m hardly
+unique in doing so. First, I’ll tell you a story. I met a guy in Las Palmas
 called Toto. He helped me at a lower point with his story.</p>
 
 <p>A few years ago he left home with 20 euros and his bike. Since then he has
 travelled round the world. He sailed from Australia to Europe, then to the
-Caribbean and back to Europe, and probably other places he didn't talk
-about. He did some busking and when I met him had 100 euros. He didn't have
-any special performing skill, he just did some silly dance. It's not really
+Caribbean and back to Europe, and probably other places he didn’t talk
+about. He did some busking and when I met him had 100 euros. He didn’t have
+any special performing skill, he just did some silly dance. It’s not really
 important where he went, the story is that this is possible.</p>
 
-<p>"Even if I only ate bread one day it doesn't matter, maybe I'll find something
-else the next day."</p>
+<p>“Even if I only ate bread one day it doesn’t matter, maybe I’ll find something
+else the next day.”</p>
 
 <p>I met another guy who makes a bit of money from playing music on the
-street. You might call him homeless if you saw him, but since I've been back
-in Edinburgh working on my geek bike project, he's been flying all over
-Europe. He's probably happier than most people who work in an office.</p>
+street. You might call him homeless if you saw him, but since I’ve been back
+in Edinburgh working on my geek bike project, he’s been flying all over
+Europe. He’s probably happier than most people who work in an office.</p>
 
-<p>It is important to be positive. You'll be interacting with people for things
-like hitchhiking, and people like happy people. "You won't get a boat with a
-sad face." It's also important for your own motivation.</p>
+<p>It is important to be positive. You’ll be interacting with people for things
+like hitchhiking, and people like happy people. “You won’t get a boat with a
+sad face.” It’s also important for your own motivation.</p>
 
-<h2>The kindness of Strangers</h2>
+<h2 id="the-kindness-of-strangers">The kindness of Strangers</h2>
 
 <p>When I was in the marina one day I went and said hello to some people. After I
-short conversation I had to go and buy some food. They said no, you don't need
+short conversation I had to go and buy some food. They said no, you don’t need
 to, we have food. I was reluctant to take it from people who may need to more
 than me but they insisted and later I found it is not really in short supply.</p>
 
@@ -158,42 +185,43 @@ wetter Northern part of the island. I mentioned this to someone I had just met
 and so within a few minutes of meeting he had lent me his tent and a better
 sleeping bag. I nearly skipped over the fact that this happened in a house I
 was staying in - where I had been invited to stay by someone else I had just
-met. There are many more examples but you'll need to read them in my other
+met. There are many more examples but you’ll need to read them in my other
 blov entries when I get round to writing more.</p>
 
-<h2>What you do need money for</h2>
+<h2 id="what-you-do-need-money-for">What you do need money for</h2>
 
 <p>Basically, it comes down to convenience and speeding things up. There are a
 few things you probably need it for though.</p>
 
-<p>If you want food, you don't need money. If you want something particular to
-eat, you'll probably need to buy it. If you want something now, you need to
-buy it. If you can wait until you find it in a skip, you don't. If you have
-time to hitchhike, you'll get there in the end. If you want to go now, you
-have to pay for a bus. Of course, if you don't know where you are going,
+<p>If you want food, you don’t need money. If you want something particular to
+eat, you’ll probably need to buy it. If you want something now, you need to
+buy it. If you can wait until you find it in a skip, you don’t. If you have
+time to hitchhike, you’ll get there in the end. If you want to go now, you
+have to pay for a bus. Of course, if you don’t know where you are going,
 hitchhiking is better anyway.</p>
 
 <p>Things you pretty much do need money for are transport, some foods, and
 medicines. Sometimes you might need to pay for transport: a ferry, for
-example. It's very rare to find certain things in a bin, e.g. alcohol, coffee,
+example. It’s very rare to find certain things in a bin, e.g. alcohol, coffee,
 cooking oil, dried foods, and things with a long sell by date, but you can
 live without these.</p>
 
 <p>This post is rather unfocused because I have a lot to say on this subject and
-I'm just trying to get some ideas out for now. Hopefully it is enough to show
+I’m just trying to get some ideas out for now. Hopefully it is enough to show
 you that this is possible. If you go out into the world with nothing but a
-good attitude and an open mind you'll probably do very well.</p>
+good attitude and an open mind you’ll probably do very well.</p>
 
-<p>I'll end with a particularly impressive story from a friend, and a link to
-another blog post about this sort of thing, "<a
-href="http://www.npr.org/templates/story/story.php?storyId=18463814">The
-Universe Is Conspiring to Help Us".</a></p>
+<p>I’ll end with a particularly impressive story from a friend, and a link to
+another blog post about this sort of thing, “<a href="http://www.npr.org/templates/story/story.php?storyId=18463814">The
+Universe Is Conspiring to Help Us”.</a></p>
 
-<blockquote><p>"The magic is FULL ON when u arrive in a city and we have no where to sleep
+<blockquote>
+  <p>“The magic is FULL ON when u arrive in a city and we have no where to sleep
 and a beautiful girl called Ling comes up to u and says: I heard u play music
 its is beautiful! Do u have anywhere to sleep? U can have my apartment for the
 weekend when i go visit my boyfriend! So she gave us the key. AMAZING
-LIFE!!!"</p></blockquote>
+LIFE!!!”</p>
+</blockquote>
 ]]></content>
    
   </entry>

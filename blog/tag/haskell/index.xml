@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged haskell]]></title>
 
-  <link href="http://mm0hai.net/blog/tag/haskell/index.xml" rel="self"/>
-  <link href="http://mm0hai.net/"/>
-  <updated>2016-11-09T05:24:19+01:00</updated>
-  <id>http://mm0hai.net/blog/tag/haskell</id>
+  <link href="https://mm0hai.net/blog/tag/haskell/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2016-11-09T22:11:25+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/haskell</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,38 +15,35 @@
   
   <entry>
     <title type="html"><![CDATA[List Comprehensions in Haskell]]></title>
-    <link href="http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html"/>
+    <link href="https://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html"/>
     <updated>2011-07-31T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions</id>
-    <content type="html"><![CDATA[<h2>Why they're so good</h2>
+    <id>https://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions</id>
+    <content type="html"><![CDATA[<h2 id="why-theyre-so-good">Why they’re so good</h2>
 
 <p>I like list comprehensions. They are concise. Until recently though, I did not
-know why. Reading <a
-href="http://www.cs.kent.ac.uk/people/staff/sjt/craft2e">Thompson</a>, I
+know why. Reading <a href="http://www.cs.kent.ac.uk/people/staff/sjt/craft2e">Thompson</a>, I
 realised it is because they combine three fundamental patterns of functional
 programming with little syntax. The patterns are generate, filter, and map.</p>
 
 <p>The generation stage produces one or more lists, often using something like
 <code>[1..]</code>, the list of the natural numbers.  Filters are specified as comma
 separated boolean expressions.  The map operation is defined before the <code>|</code>.
-There is some more detail in the <a
-href="http://haskell.org/onlinereport/exps.html#list-comprehensions">Haskell
+There is some more detail in the <a href="http://haskell.org/onlinereport/exps.html#list-comprehensions">Haskell
 Report</a>.</p>
 
-<h2>They're not set builder</h2>
+<h2 id="theyre-not-set-builder">They’re not set builder</h2>
 
-<p>It's tempting to think of list comprehensions as set builder notation, which
+<p>It’s tempting to think of list comprehensions as set builder notation, which
 clearly they are meant to resemble. The problem is they are not and thinking
 of them this way can lead to problems when it is time to evaluate them.</p>
 
 <p>Obviously, they are lists, not sets. This will restrict how they are evaluated
-- order matters. It's also unhelpful if you really do want a set but the way
+- order matters. It’s also unhelpful if you really do want a set but the way
 you write the list comprehension generates some values more than once.</p>
 
-<h2>How you write them matters</h2>
+<h2 id="how-you-write-them-matters">How you write them matters</h2>
 
-<p>Pure functions are (<a
-href="http://en.wikipedia.org/wiki/Extensionality">extensionally</a>) equal if
+<p>Pure functions are (<a href="http://en.wikipedia.org/wiki/Extensionality">extensionally</a>) equal if
 the outputs are the same for all inputs. When there are several ways to write
 the same function, a perfect compiler would know the most efficient way to
 calculate each result. Unfortunately, it seems that GHC is not perfect and there
@@ -57,18 +54,14 @@ functions are written.</p>
 like this:</p>
 
 <pre><code>
-slow n = [ (a, b, c) | a <- [1..n], b <- [1..n], c <- [1..n], 
+slow n = [ (a, b, c) | a &lt;- [1..n], b &lt;- [1..n], c &lt;- [1..n], 
           (a + b + c) == n ]
 </code></pre>
-
-
 <p>Which is equal to this in result:</p>
-
 <pre><code>
-fast n = [ (a, b, c) | a <- [1..n], b <- [1..n], let c = n - (a + b), 
+fast n = [ (a, b, c) | a &lt;- [1..n], b &lt;- [1..n], let c = n - (a + b), 
           (a + b + c) == n ]
 </code></pre>
-
 
 <p>but not in execution time. For n = 1000, fast took less than a second and slow
 did not complete within minutes.</p>
@@ -81,10 +74,10 @@ did not complete within minutes.</p>
   
   <entry>
     <title type="html"><![CDATA[Learning Haskell - Part 1]]></title>
-    <link href="http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html"/>
+    <link href="https://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html"/>
     <updated>2011-07-17T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1</id>
-    <content type="html"><![CDATA[<p>I'm learning Haskell at the moment, and have been doing so slowly over the
+    <id>https://mm0hai.net/blog/2011/07/17/Learning-Haskell-1</id>
+    <content type="html"><![CDATA[<p>I’m learning Haskell at the moment, and have been doing so slowly over the
 past couple of months.</p>
 
 <p>I know many languages to some extent but have never really practiced
@@ -102,19 +95,16 @@ it is important that I should. I do not like not knowing things and I feel
 stupid when talking to people who know more about programming languages.</p>
 
 <p>I think Haskell is probably the best choice as a language to learn functional
-programming because, unlike lisp, it does its best to be <a
-href="http://en.wikipedia.org/wiki/Purely_functional">purely functional</a>,
+programming because, unlike lisp, it does its best to be <a href="http://en.wikipedia.org/wiki/Purely_functional">purely functional</a>,
 that is functions have no side effects. This should force me to do things
 properly. It seems to be becoming quite popular so there is a chance people
 may even start to use it for things other than research. Also, I studied at
-Glasgow, home of the Glasgow Haskell Compiler (GHC). I'm actually in Edinburgh
-at the moment, home of <a
-href="http://en.wikipedia.org/wiki/ML_(programming_language)">ML</a> but if
+Glasgow, home of the Glasgow Haskell Compiler (GHC). I’m actually in Edinburgh
+at the moment, home of <a href="http://en.wikipedia.org/wiki/ML_(programming_language)">ML</a> but if
 you have a look in lib.ed.ac.uk, you will see hunners (a Glaswegian term) of
 Haskell books, not ML.</p>
 
-<p>Another good choice for learning functional programming would be <a
-href="http://mitpress.mit.edu/sicp/">Structure and Interpretation of Computer
+<p>Another good choice for learning functional programming would be <a href="http://mitpress.mit.edu/sicp/">Structure and Interpretation of Computer
 Programs</a>, also called SICP and the Wizard Book, which uses scheme. I
 suspect it is worth following this course even if you do already know how to
 program functionally as it is generally highly thought of and I know of good
@@ -122,18 +112,16 @@ programmers who have found it useful, despite it being designed as first year
 course.</p>
 
 <p>I first saw Haskell in second year at Glasgow when I went to a few classes on
-it. I was studying electronics too though so couldn't officially take the
-class and I didn't get very far. It seems I have now ended up using the
+it. I was studying electronics too though so couldn’t officially take the
+class and I didn’t get very far. It seems I have now ended up using the
 Glasgow Haskell Compiler for the first time here in Edinburgh. :)</p>
 
-<p>Compilers and books then, which should you use? I am reading <a
-href="http://www.cs.kent.ac.uk/people/staff/sjt/craft2e">Thompson</a>. This
+<p>Compilers and books then, which should you use? I am reading <a href="http://www.cs.kent.ac.uk/people/staff/sjt/craft2e">Thompson</a>. This
 was used for the course in Glasgow and also fills the shelves of the Edinburgh
-University library. I noticed on the book website there is actually a <a
-href="http://www.haskellcraft.com/craft3e/Home.html"> third edition</a> now.</p>
+University library. I noticed on the book website there is actually a <a href="http://www.haskellcraft.com/craft3e/Home.html"> third edition</a> now.</p>
 
 <p>A rather more trendy book is <a href="http://learnyouahaskell.com/">Learn You
-a Haskell for Great Good!</a>. I am told this is less dry than Thomson but I'm
+a Haskell for Great Good!</a>. I am told this is less dry than Thomson but I’m
 not sure if soggy books are a good thing. It does have a nice picture of an
 elephant on the cover though and pretty colours on the website.</p>
 
@@ -143,20 +131,19 @@ and learn with. Thompson uses <a href="http://www.haskell.org/hugs/">HUGS</a>,
 which I started with but the <a href="http://www.haskell.org/ghc/">GHC</a>
 also has an interpreter, GHCi, which I have now switched to. I note that the
 latest edition of Thompson uses GHCi too. GHC seems to be the standard
-compiler so I would recommend using it. See also <a
-href="http://www.haskell.org/haskellwiki/Implementations">Haskell
+compiler so I would recommend using it. See also <a href="http://www.haskell.org/haskellwiki/Implementations">Haskell
 Implementations</a>.</p>
 
-<p>Back to what I'm doing to learn Haskell then. I'm now on Chapter 14 of
+<p>Back to what I’m doing to learn Haskell then. I’m now on Chapter 14 of
 Thompson, Algebraic Types, but skipped most of the exercises, which I intend to
-go back to. I'm also doing <a href="http://projecteuler.net/">Project
+go back to. I’m also doing <a href="http://projecteuler.net/">Project
 Euler</a>. These mathematical problems seem well suited to a mathematical sort
 of language like Haskell but perhaps this is making it too easy. There is the
 old question of whether functional languages are suited to real problems, and
-the fact that I won't know how to print "Hello, world!" until Chapter
+the fact that I won’t know how to print “Hello, world!” until Chapter
 18.</p>
 
-<p>I think I'll leave it at that for now but I intend to say more in further
+<p>I think I’ll leave it at that for now but I intend to say more in further
 posts.</p>
 ]]></content>
    

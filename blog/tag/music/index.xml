@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged music]]></title>
 
-  <link href="http://mm0hai.net/blog/tag/music/index.xml" rel="self"/>
-  <link href="http://mm0hai.net/"/>
-  <updated>2016-11-09T05:24:19+01:00</updated>
-  <id>http://mm0hai.net/blog/tag/music</id>
+  <link href="https://mm0hai.net/blog/tag/music/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2016-11-09T22:11:25+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/music</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,24 +15,21 @@
   
   <entry>
     <title type="html"><![CDATA[River Song - Music Hack Day Scotland]]></title>
-    <link href="http://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland.html"/>
     <updated>2012-08-26T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland</id>
+    <id>https://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland</id>
     <content type="html"><![CDATA[<p>This weekend saw a music hack day in Edinburgh. I signed up with a couple of
-ideas of things I might do but I wasn't really sure if I'd get much done. In
+ideas of things I might do but I wasn’t really sure if I’d get much done. In
 the end my hack was quite successful and I won an iPad!</p>
 
-<p>One idea I had was to make a virtual <a
-href="http://en.wikipedia.org/wiki/Singing_bowl">Singing Bowl</a> using a wire
+<p>One idea I had was to make a virtual <a href="http://en.wikipedia.org/wiki/Singing_bowl">Singing Bowl</a> using a wire
 and capacitive touch sensing. I thought this would be quite difficult because
 to do it at all well would probably require quite a sophisticated sensor,
-something like used in <a
-href="http://www.disneyresearch.com/research/projects/hci_botanicus_drp.htm">Disney's
+something like used in <a href="http://www.disneyresearch.com/research/projects/hci_botanicus_drp.htm">Disney’s
 interactive plant project</a>.</p>
 
 <p>My other, which I built, was related to my touring bike. I was thinking about
-what to call my new bike when I get her, and I think I might choose <a
-href="http://en.wikipedia.org/wiki/River_Song_(Doctor_Who)">River
+what to call my new bike when I get her, and I think I might choose <a href="http://en.wikipedia.org/wiki/River_Song_(Doctor_Who)">River
 Song</a>. The bike is for open ended touring without any particular rush to
 get anywhere. It is for living. I like the idea of the bike flowing through
 life, time and space.</p>
@@ -51,14 +48,11 @@ a water system, such that movement caused rainfall, which then soaked through
 the ground and eventually reached the river. For this hack, I kept it simple
 and used only speed.</p>
 
-<p><img
-src="/res/2012-08-26-Music-Hack-Day-Scotland/river-song-block-diagram.png"
-alt="Block diagram of system."
-title="The unicycle is not actually radially spoked." /></p>
+<p><img src="/res/2012-08-26-Music-Hack-Day-Scotland/river-song-block-diagram.png" alt="Block diagram of system." title="The unicycle is not actually radially spoked." /></p>
 
 <p>Above is a diagram of the system I demonstrated. I used a unicycle rather than
 a bike for the demo because it was easier to get it into the lecture theatre
-and turn the wheel. I'll now discuss the design choices.</p>
+and turn the wheel. I’ll now discuss the design choices.</p>
 
 <p>I considered two ways of making the sound. One was synthesising from scratch,
 and the other using samples. I realised that I actually had recordings of a
@@ -67,7 +61,7 @@ La Palma. I chose to use synthesis because it seemed like it would be easier
 to modify the sound with data and it made it more hackable for future changes
 to the sound.</p>
 
-<p>I had never done any sound synthesis before so I didn't know what software I
+<p>I had never done any sound synthesis before so I didn’t know what software I
 should use. I thought about using a library for some programming language I
 already knew but decided to try using something designed for sound. The main
 contenders seemed to be SuperCollider and Pure Data. Asking around I found
@@ -77,15 +71,14 @@ presentation when I saw several hacks used it.</p>
 <p>Pure Data was difficult to get started with, and I almost gave up. The
 documentation is very poor and the Ubuntu package had various things wrong
 with it, like the sound test not working. I managed to get it working in the
-end. I didn't have time to learn much about the language never mind actually
+end. I didn’t have time to learn much about the language never mind actually
 designing synthesisers and sounds but I found a Pure Data patch which made
 something which sounded like running water. Random hacking at this discovered
 a place where I could change a value to make the water sound more violent. I
 used this and also increased the volume when the bike went faster.</p>
 
 <p>To detect movement I used a magnet on the wheel and a reed switch from an old
-bike computer. This I connected to an Arduino (actually <a
-href="/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html">Seeeduino</a>)
+bike computer. This I connected to an Arduino (actually <a href="/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html">Seeeduino</a>)
 which measured the time between switch pulses and sent this over a USB serial
 connection to a laptop running Pure Data.</p>
 
@@ -102,14 +95,12 @@ course I had to try and ride it. I managed to idle briefly and long enough to
 trigger the sensor, so overall successful.</p>
 
 <p>I would have been quite pleased at that, but then there were prizes, and I won
-an iPad! I'm not sure what to do with it yet. Maybe duck tape it to my
+an iPad! I’m not sure what to do with it yet. Maybe duck tape it to my
 bike. :)</p>
 
-<p><img src="http://twitpic.com/show/large/anmlwj.jpg"
-alt="Demonstration with unicycle at the hackday." /></p>
+<p><img src="http://twitpic.com/show/large/anmlwj.jpg" alt="Demonstration with unicycle at the hackday." /></p>
 
-<p><img src="http://distilleryimage4.s3.amazonaws.com/da4b156aeed311e1aaa822000a1de2ba_7.jpg"
-alt="Preparing unicycle for talk." /></p>
+<p><img src="http://distilleryimage4.s3.amazonaws.com/da4b156aeed311e1aaa822000a1de2ba_7.jpg" alt="Preparing unicycle for talk." /></p>
 
 <p>I was still tweaking while the presentations were happening, but the demo
 worked!</p>

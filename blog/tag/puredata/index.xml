@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged puredata]]></title>
 
-  <link href="http://mm0hai.net/blog/tag/puredata/index.xml" rel="self"/>
-  <link href="http://mm0hai.net/"/>
-  <updated>2016-11-09T05:24:19+01:00</updated>
-  <id>http://mm0hai.net/blog/tag/puredata</id>
+  <link href="https://mm0hai.net/blog/tag/puredata/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2016-11-09T22:11:25+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/puredata</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,11 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[How to sound like a Dalek using Pure Data]]></title>
-    <link href="http://mm0hai.net/blog/2012/09/02/Dalek-Voice-Pure-Data.html"/>
+    <link href="https://mm0hai.net/blog/2012/09/02/Dalek-Voice-Pure-Data.html"/>
     <updated>2012-09-02T00:00:00+02:00</updated>
-    <id>http://mm0hai.net/blog/2012/09/02/Dalek-Voice-Pure-Data</id>
-    <content type="html"><![CDATA[<p><img src="/res/2012-09-02-Dalek-Voice-Pure-Data/dalek-pd.png" alt="Pure Data
-patch to make Dalek voice." /></p>
+    <id>https://mm0hai.net/blog/2012/09/02/Dalek-Voice-Pure-Data</id>
+    <content type="html"><![CDATA[<p><img src="/res/2012-09-02-Dalek-Voice-Pure-Data/dalek-pd.png" alt="Pure Data patch to make Dalek voice." /></p>
 
 <p>This <a href="/res/2012-09-02-Dalek-Voice-Pure-Data/dalek.pd">Pure Data
 patch</a> amplitude modulates your voice from a microphone with a ~30Hz sine
