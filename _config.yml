@@ -1,6 +1,6 @@
 safe: false
 lsi: false
 highlighter: pygments
-markdown: rdiscount
+markdown: kramdown
 url: http://mm0hai.net
 author: River MacLeod
