@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/pgp/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2015-07-25T20:59:23+01:00</updated>
+  <updated>2016-11-09T04:46:05+01:00</updated>
   <id>http://mm0hai.net/blog/tag/pgp</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Don't use the PGP Keyservers]]></title>
     <link href="http://mm0hai.net/blog/2015/07/14/Dont-use-the-keyservers.html"/>
-    <updated>2015-07-14T00:00:00+01:00</updated>
+    <updated>2015-07-14T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2015/07/14/Dont-use-the-keyservers</id>
     <content type="html"><![CDATA[<p>I think it's a bad idea to use the PGP keyservers, and also the web of
 trust. These are different points, but related. Maybe it's a bad idea to use

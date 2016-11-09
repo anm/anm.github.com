@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/haskell/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2015-07-25T20:59:23+01:00</updated>
+  <updated>2016-11-09T04:46:05+01:00</updated>
   <id>http://mm0hai.net/blog/tag/haskell</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[List Comprehensions in Haskell]]></title>
     <link href="http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html"/>
-    <updated>2011-07-31T00:00:00+01:00</updated>
+    <updated>2011-07-31T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions</id>
     <content type="html"><![CDATA[<h2>Why they're so good</h2>
 
@@ -82,7 +82,7 @@ did not complete within minutes.</p>
   <entry>
     <title type="html"><![CDATA[Learning Haskell - Part 1]]></title>
     <link href="http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html"/>
-    <updated>2011-07-17T00:00:00+01:00</updated>
+    <updated>2011-07-17T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/07/17/Learning-Haskell-1</id>
     <content type="html"><![CDATA[<p>I'm learning Haskell at the moment, and have been doing so slowly over the
 past couple of months.</p>

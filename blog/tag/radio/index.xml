@@ -6,7 +6,7 @@
 
   <link href="http://mm0hai.net/blog/tag/radio/index.xml" rel="self"/>
   <link href="http://mm0hai.net/"/>
-  <updated>2015-07-25T20:59:23+01:00</updated>
+  <updated>2016-11-09T04:46:05+01:00</updated>
   <id>http://mm0hai.net/blog/tag/radio</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[SGC SG-211 Mini Smartuner Teardown]]></title>
     <link href="http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner.html"/>
-    <updated>2011-06-02T00:00:00+01:00</updated>
+    <updated>2011-06-02T00:00:00+02:00</updated>
     <id>http://mm0hai.net/blog/2011/06/02/SGC-211-autotuner</id>
     <content type="html"><![CDATA[<p>My<sup>1</sup> SGC autotuner had an accident when I stupidly put it down on a
 bench. The boat heeled and it landed on the connector, bending it. Luckily the
@@ -68,7 +68,7 @@ is a PIC.</p>
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 3 - Illustration]]></title>
     <link href="http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html"/>
-    <updated>2011-03-25T00:00:00+00:00</updated>
+    <updated>2011-03-25T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3</id>
     <content type="html"><![CDATA[<p>Today the unusually good weather required me to take the bike out for
 a spin. I took some photos and video of the station while I was
@@ -112,7 +112,7 @@ the J-Pole though.</p>
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 2]]></title>
     <link href="http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html"/>
-    <updated>2011-03-21T00:00:00+00:00</updated>
+    <updated>2011-03-21T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2</id>
     <content type="html"><![CDATA[<p>This evening I tested the antenna system described in my <a
 rel="prev" href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">last
@@ -222,7 +222,7 @@ rel="next" href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">Part
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 1]]></title>
     <link href="http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html"/>
-    <updated>2011-03-19T00:00:00+00:00</updated>
+    <updated>2011-03-19T00:00:00+01:00</updated>
     <id>http://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1</id>
     <content type="html"><![CDATA[<p>Today I decided to make an HF antenna for my bike. I did an experiment
 with this once last year but it was not terribly successful. That
