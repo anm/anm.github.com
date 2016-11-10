@@ -6,10 +6,10 @@
   xmlns:georss="http://www.georss.org/georss">
 
   <title>River MacLeod, MM0HAI</title>
- <link href="http://mm0hai.net/atom.xml" rel="self"/>
- <link href="http://mm0hai.net"/>
+ <link href="{{site.url}}/atom.xml" rel="self"/>
+ <link href="{{site.url}}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://mm0hai.net/blog</id>
+ <id>{{site.url}}/blog</id>
  <author>
    <name>River MacLeod</name>
    <email>river@mm0hai.net</email>
@@ -18,9 +18,9 @@
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://mm0hai.net{{ post.url }}"/>
+   <link href="{{site.url}}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://mm0hai.net{{ post.id }}</id>
+   <id>{{site.url}}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
    {% if post.location %}<georss:point>{{post.location}}</georss:point>{% endif %}
  </entry>
