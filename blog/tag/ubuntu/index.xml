@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <title><![CDATA[River MacLeod, MM0HAI: Posts tagged ubuntu]]></title>
+
+  <link href="https://mm0hai.net/blog/tag/ubuntu/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2016-11-28T02:35:12+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/ubuntu</id>
+  <author>
+    <name><![CDATA[River MacLeod]]></name>
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ssh-agent on Ubuntu Xenial]]></title>
+    <link href="https://mm0hai.net/blog/2016/11/28/ssh-agent-gnome-keyring-ubuntu.html"/>
+    <updated>2016-11-28T00:00:00+01:00</updated>
+    <id>https://mm0hai.net/blog/2016/11/28/ssh-agent-gnome-keyring-ubuntu</id>
+    <content type="html"><![CDATA[<h2 id="tldr">tl;dr</h2>
+
+<p>If you remove <code>gnome-keyring</code> from Ubuntu 16 (Xenial), <code>ssh-agent</code> should then
+start and work properly with no further changes.</p>
+
+<p><code>sudo apt-get remove gnome-keyring</code></p>
+
+<h2 id="details">Details</h2>
+
+<p>When I upgraded from Ubuntu 14.04 LTS (Trusty Tahr) to Ubuntu 16.04 LTS
+(Xenial Xerus), I lost any functioning ssh agent. On 14, I was using
+<code>gnome-keyring</code>, but that stopped working after upgrade.</p>
+
+<p>In 16, <code>gnome-keyring</code> was running, but not prompting for ssh
+passphrases. <code>ssh-agent</code> was not being started at all. It looked like I could
+either fix <code>gnome-keyring</code> (maybe need to enable ssh module?) or start and use
+<code>ssh-agent</code> instead. It seemed <code>ssh-agent</code> was configured to run already,
+however it still was not started. Maybe it’s configured not to start if you use
+the <code>gnome-keyring</code>?</p>
+
+<p><code>ssh-agent</code> seems to be the better choice anyway, for various reasons,
+including that <code>gnome-keyring</code> does not support ed25519 keys.</p>
+]]></content>
+   
+  </entry>
+  
+</feed>

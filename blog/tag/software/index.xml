@@ -6,7 +6,7 @@
 
   <link href="https://mm0hai.net/blog/tag/software/index.xml" rel="self"/>
   <link href="https://mm0hai.net/"/>
-  <updated>2016-11-11T20:35:55+01:00</updated>
+  <updated>2016-11-28T02:35:12+01:00</updated>
   <id>https://mm0hai.net/blog/tag/software</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -64,59 +64,51 @@ PGP at all, but that is already covered <a href="http://secushare.org/PGP">elsew
 <p>Problems with the keyservers:</p>
 
 <ol>
-  <li>
-    <h2 id="you-cant-delete-keys">You can’t delete keys</h2>
-  </li>
-</ol>
+<li>
+<h2>You can't delete keys</h2>
 
 <p>Your name, email address, and any comment you made are permanently bound
 together and published. You might not like people to know your old name if you
 change it.</p>
 
 <p>Old keys clutter the servers, and it can become hard to know which key to use.</p>
+</li>
 
-<ol>
-  <li>
-    <h2 id="spam--vandalism">Spam / vandalism</h2>
-  </li>
-</ol>
+<li>
+<h2>Spam / vandalism</h2>
 
-<p>Keyservers publish anything you send them. If someone sends them signatures on
+Keyservers publish anything you send them. If someone sends them signatures on
 your key, these will always be shown when people look for your key. This was
-used to add an ascii goatse to a key.</p>
+used to add an ascii goatse to a key.
+</li>
 
-<ol>
-  <li>
-    <h2 id="easily-dosed">Easily DOSed</h2>
-  </li>
-</ol>
+<li>
+<h2>Easily DOSed</h2>
 
-<p>Almost always, I find anyway, you won’t find a web of trust path to a key you
+Almost always, I find anyway, you won't find a web of trust path to a key you
 get from the servers. If someone decided to publish lots of fake keys, you
-wouldn’t be able to tell the difference. You need to check with someone by
+wouldn't be able to tell the difference. You need to check with someone by
 other means anyway. I guess the only reason that there has been so little
-abuse of the servers is that almost noöne knows about them.</p>
+abuse of the servers is that almost noöne knows about them.
+</li>
 
-<ol>
-  <li>
-    <h2 id="signatures-publicise-relationships">Signatures publicise relationships</h2>
-  </li>
-</ol>
+<li>
+<h2>Signatures publicise relationships</h2>
 
-<p>This is partly a web of trust problem, and partly a matter of posting
+This is partly a web of trust problem, and partly a matter of posting
 signatures publicly, but in any case the problem is that signatures give a lot
-of information about who you have met, when, and maybe even where.</p>
+of information about who you have met, when, and maybe even where.
+</li>
 
-<ol>
-  <li>
-    <h2 id="key-lookups-reveal-your-contacts">Key lookups reveal your contacts</h2>
-  </li>
-</ol>
+<li>
+<h2>Key lookups reveal your contacts</h2>
 
-<p>When you ask a keyserver for a key for a new contact, you tell it who you are
+When you ask a keyserver for a key for a new contact, you tell it who you are
 talking to. When you refresh your keyring, you tell a server everyone you use
-pgp with. If you don’t configure tls for the keyserver connection, anyone can
-see what you are doing.</p>
+pgp with. If you don't configure tls for the keyserver connection, anyone can
+see what you are doing.
+</li>
+</ol>
 
 <h2 id="what-should-you-do-then">What should you do then?</h2>
 
