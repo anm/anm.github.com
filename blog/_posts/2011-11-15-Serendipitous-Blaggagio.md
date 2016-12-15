@@ -22,7 +22,8 @@ Antarctica, Siberia (with Samoyeds), Mongolia (by bike I think) and now
 Alaska. The middle of the Atlantic is also a pretty remote place.
 
 <img
-src="http://upload.wikimedia.org/wikipedia/en/b/b6/Sandwood_Bay_North_View.jpg"
+src="/img/sandwoodbay.jpg"
+width="640"
 alt="Sandwood Bay" title="Sandwood Bay. Yes, Scotland." />
 
 I had also done some sailing recently, around Scottish islands and Wales. I
