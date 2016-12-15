@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <title><![CDATA[River MacLeod, MM0HAI: Posts tagged laspalmas]]></title>
+
+  <link href="https://mm0hai.net/blog/tag/laspalmas/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2016-12-15T20:16:23+00:00</updated>
+  <id>https://mm0hai.net/blog/tag/laspalmas</id>
+  <author>
+    <name><![CDATA[River MacLeod]]></name>
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to use Las Palmas de Gran Canaria City Bikes "ByBike"]]></title>
+    <link href="https://mm0hai.net/blog/2016/12/15/How-to-register-for-Las-Palmas-city-bikes-bybike.html"/>
+    <updated>2016-12-15T00:00:00+00:00</updated>
+    <id>https://mm0hai.net/blog/2016/12/15/How-to-register-for-Las-Palmas-city-bikes-bybike</id>
+    <content type="html"><![CDATA[<p>Las Palmas de Gran Canaria has a municipal bike system, but registering for it
+is rather complicated and especially difficult if you don’t live here and
+understand Spanish, so I decide to write a guide, as I have just done it. The
+system is available to non-residents.</p>
+
+<h2 id="what-you-get">What you get</h2>
+
+<ul>
+  <li>
+    <p>You can pick up a bike at any point and return it to any other.</p>
+  </li>
+  <li>
+    <p>You can keep the bike out for up to one hour.</p>
+  </li>
+  <li>
+    <p>After returning, you need to wait 15 minutes to use one again.</p>
+  </li>
+  <li>
+    <p>You can borrow a bike up to three times per day.</p>
+  </li>
+</ul>
+
+<p>Rental is done with a smartcard or a phone app.</p>
+
+<h2 id="what-it-costs">What it Costs</h2>
+
+<ul>
+  <li>
+    <p>1.50 EUR for the smart card, which also can be used for busses. Usage is
+free.</p>
+  </li>
+  <li>
+    <p>Possibly various fees if you are late returning the bike or lose the bike,
+don’t report them as damaged…</p>
+  </li>
+</ul>
+
+<h2 id="how-to-register">How to Register</h2>
+
+<ul>
+  <li>
+    <p>Fill in this
+<a href="http://www.bybikelpa.com/index.php?option=com_content&amp;view=article&amp;id=83&amp;Itemid=85&amp;lang=en">form</a></p>
+  </li>
+  <li>
+    <p>You will receive two emails. Ignore the first.  In the second email, click
+the link “HAGA CLICK AQUÍ”.  This takes you to a form which asks for your
+Spanish tax number. You don’t need one. What you actually should enter here
+is your passport or ID document number that you put in the last form. Follow
+the process for verifying phone number. (You must receive a text message.)</p>
+  </li>
+  <li>
+    <p>Wait for 24 to 48 hours, then go to one of the registration offices with
+your passport or ID. A few offices are listed in the emails you are sent,
+but I actually went to San Telmo bus station, which was not listed but
+worked.</p>
+  </li>
+  <li>
+    <p>Buy a BONOGUAGUA smart card for 1.50 EUR. It is yellow. At San Telmo, you
+can do this at the ticket office with the glass window, in a corner. I think
+you can also do it at a machine.</p>
+  </li>
+  <li>
+    <p>Go to the ByBike / Bus office. At San Telmo, this is the larger office you
+can walk into, to the right of the glass ticket office booth. Give them your
+ID, yellow card, and say you want to register for ByBike. “Quiero
+registrarme para ByBike”. They will look you up on the computer. If you
+waited long enough since the last step, they will validate it and that
+should be other. Otherwise it might still be “pendiente” - come back later.</p>
+  </li>
+</ul>
+
+<p>You should now be able to use the bikes!</p>
+
+<h2 id="using-the-bikes">Using the Bikes</h2>
+
+<p>You can use the card, or a mobile app. The app shows where stations are, and
+how many bikes and spaces are at each place. You can also take a bike out
+without the card at most stations.</p>
+
+<p>For the app (optional):</p>
+
+<ul>
+  <li>
+    <p>Download the app:
+<a href="https://play.google.com/store/apps/details?id=com.usualbike.bybikeLPA">Android</a>
+or <a href="https://itunes.apple.com/es/app/bybike-lpa/id975121273?mt=8">iOS</a></p>
+  </li>
+  <li>
+    <p>Login with username and password that you will receive in a third email,
+after your ID is validated at the office.</p>
+  </li>
+  <li>
+    <p>Take a screenshot of the map while you still have internet, because the app
+does not work at all offline.</p>
+  </li>
+</ul>
+
+]]></content>
+   <georss:point>28.127803 -15.436013</georss:point>
+  </entry>
+  
+</feed>
