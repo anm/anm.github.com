@@ -19,7 +19,7 @@ What you get
 
 - After returning, you need to wait 15 minutes to use one again.
 
-- You can borrow a bike up to three times per day.
+- You can borrow a bike up to five times per day.
 
 Rental is done with a smartcard or a phone app.
 
@@ -81,3 +81,14 @@ For the app (optional):
 - Take a screenshot of the map while you still have internet, because the app
   does not work at all offline.
 
+Hints
+-----
+
+- The whole system is badly designed and maintained. Check the bike thoroughly
+  before you try to take it.
+
+- The card readers almost don't work at all. Try holding the card at 90
+  degrees to the way indicated.
+
+- Count the number of usages in a day, because if you try a sixth loan, it
+  will work, but then block you for a month! Days end at midnight.
