@@ -150,3 +150,20 @@ a:hover {
 .inline-tag-list li:last-child:after {
     content: "";
 }
+
+.prev-next {
+    margin-top: 1em;
+    font-weight: bold;
+}
+
+.prev-next .next {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.twitter-ask {
+    margin-top: 0;
+}

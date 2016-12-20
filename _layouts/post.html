@@ -19,9 +19,6 @@ headers: <link href="/atom.xml" type="application/atom+xml" rel="alternate" titl
 {% include id_card.html %}
 
 <footer>
-<p>If you found this interesting, you
-should <a href="https://twitter.com/macleodan" rel="me">follow me on twitter</a>.</p>
-
 <div id="tags">
 Tagged:
 <ul class="inline-tag-list">
@@ -30,12 +27,22 @@ Tagged:
   {% endfor %}
 </ul>
 </div>
+<p class="twitter-ask">If you found this interesting, you
+  should <a href="https://twitter.com/macleodan" rel="me">follow me on twitter</a>.</p>
+
+<nav class="prev-next">
+  {% if page.previous.url %}
+  <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+  <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</nav>
+
 </footer>
 </article>
 
-<hr />
-
-<div id="related">
+<div id="related" class="clear">
 <h2>Further Bloviations</h2>
 <ul>
     {% for post in site.related_posts %}
