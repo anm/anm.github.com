@@ -6,7 +6,7 @@
 
   <link href="https://mm0hai.net/blog/tag/cycling/index.xml" rel="self"/>
   <link href="https://mm0hai.net/"/>
-  <updated>2016-12-15T20:36:09+00:00</updated>
+  <updated>2016-12-21T02:06:32+00:00</updated>
   <id>https://mm0hai.net/blog/tag/cycling</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -36,7 +36,7 @@ system is available to non-residents.</p>
     <p>After returning, you need to wait 15 minutes to use one again.</p>
   </li>
   <li>
-    <p>You can borrow a bike up to three times per day.</p>
+    <p>You can borrow a bike up to five times per day.</p>
   </li>
 </ul>
 
@@ -116,6 +116,22 @@ does not work at all offline.</p>
   </li>
 </ul>
 
+<h2 id="hints">Hints</h2>
+
+<ul>
+  <li>
+    <p>The whole system is badly designed and maintained. Check the bike thoroughly
+before you try to take it.</p>
+  </li>
+  <li>
+    <p>The card readers almost don’t work at all. Try holding the card at 90
+degrees to the way indicated.</p>
+  </li>
+  <li>
+    <p>Count the number of usages in a day, because if you try a sixth loan, it
+will work, but then block you for a month! Days end at midnight.</p>
+  </li>
+</ul>
 ]]></content>
    <georss:point>28.127803 -15.436013</georss:point>
   </entry>
