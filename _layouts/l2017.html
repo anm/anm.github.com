@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="{{page.lang}}"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="{{page.lang}}"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="{{page.lang}}"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="{{page.lang}}"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <title>{{page.title}}</title>
+    <meta name="description" content="{{page.description}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="/anm-glider-icon.png" />
+
+    <link rel="stylesheet" href="/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/vendor/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="/css/vendor/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/2017.css">
+    {% for sheet in page.css %}
+    <link rel="stylesheet" href="{{sheet}}">
+    {% endfor %}
+    <script src="/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+  </head>
+
+  <body>
+    <nav class="navbar">
+      <div class="container">
+        <ul>
+          <li><a href="/">Homepage</a></li>
+          {% assign split_url = page.url | downcase | split: '/' %}
+          {% assign current_section = split_url[1] %}
+          <li><a class="{% if current_section == 'sailing'   %}current-page{% endif %}" href="/sailing"  >Sailing</a></li>
+          <li><a class="{% if current_section == 'portfolio' %}current-page{% endif %}" href="/portfolio">Portfolio</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    {{ content }}
+
+    <footer>
+      &copy; River MacLeod 2017
+      <div class="h-thumbnail">
+        <address>
+          <ul>
+            <li>
+              <span class="fa fa-envelope" aria-hidden="true"></span>
+              <a href="mailto:{{page.email | default: site.email}}">{{page.email | default: site.email}}</a>
+            </li>
+            <li>
+              <span class="fa fa-key"></span>
+              <a class="u-key" href="/river_macleod_pgp_key.asc">PGP Key</a>
+            </li>
+            <li>
+              <span class="fa fa-twitter"></span>
+              <a href="https://twitter.com/macleodan" rel="me">macleodan</a>
+            </li>
+          </ul>
+        </address>
+      </div>
+    </footer>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+    <script src="/js/vendor/jquery.matchHeight.js"></script>
+    <script src="/js/vendor/bootstrap.min.js"></script>
+
+    {% for js in page.js %}
+    <script src="{{js}}"></script>
+    {% endfor %}
+
+    {% if page.js-text %}
+    <script>
+      {{page.js-text}}
+    </script>
+    {% endif %}
+
+    <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='//www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-20771949-1','auto');ga('send','pageview');
+    </script>
+  </body>
+</html>

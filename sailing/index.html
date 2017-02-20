@@ -1,0 +1,51 @@
+---
+layout: l2017
+email: sailing@mm0hai.net
+title: Sailing
+pics:
+ - two_cats_one_boat.jpg
+ - v-berth.jpg
+ - cake.jpg
+ - pancakes.jpg
+ - window-cat.jpg
+ - mast_crane_view.jpg
+js: ['/js/vendor/lightbox.min.js']
+css: ['/css/vendor/lightbox.min.css']
+---
+
+<div class="cover-container">
+  <div id="intro-header" class="title">
+    <h1>Sailing</h1>
+  </div>
+</div>
+
+<div class="container top-margin">
+  <div class="row">
+    <div class="text-column center-block">
+      <p>
+        I have been interested in sailing for some time. Recently I bought a
+        boat in Stockholm. It's a Scampi, 30ft, Swedish made. I plan to live
+        aboard and travel, doing programming work on the way. It's my latest
+        technomadic platform.
+      </p>
+
+      <p>
+        I will be travelling with Irene, and we are now looking for more crew.
+      </p>
+
+      <h2>Crewing</h2>
+      {% capture crewing_text %}{% include_relative crew_advert_text.md %}{% endcapture %}
+      {{ crewing_text | markdownify }}
+
+      <p class="hire" style="width:5em;">
+        <a class="btn btn-primary btn-lg hire" href="mailto:crew@mm0hai.net?subject=Crewing">
+          <span class="fa fa-envelope"></span> Join us
+        </a>
+      </p>
+
+      {% for image in page.pics %}
+      <a href="/img/boat/{{image}}" data-lightbox="boat"><img src="/img/boat/{{image}}" class="inline"></a> <br />
+      {% endfor %}
+    </div>
+  </div>
+</div>
