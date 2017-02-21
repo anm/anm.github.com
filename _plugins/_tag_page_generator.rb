@@ -55,8 +55,8 @@ module Jekyll
       end
 
       tags = Hash.new
-       for post in site.posts
-         for tag in post.tags
+       for post in site.posts.docs
+         for tag in post.data['tags']
            if tags[tag]
              tags[tag] += 1
            else
