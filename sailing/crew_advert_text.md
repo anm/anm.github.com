@@ -1,4 +1,4 @@
-﻿Hi!
+Hi!
 
 We are looking for someone to join us for an adventure. An experienced sailor
 would be better, but probably more important is someone we get along with. We
@@ -7,7 +7,7 @@ fix it up and start our adventure - are you keen on helping out and sailing
 with us for a bit?
 
 
-###Who are we?
+### Who are we?
 
 River and Irene 🐱
 
@@ -23,7 +23,7 @@ months now and are planning on living on this boat until we get bored or grow
 old on the sea - so somewhere between a week and the rest of our life.
 
 
-###The Boat
+### The Boat
 
 The boat is a Scampi, built in Sweden around 40 years ago. She is 30 feet (9m)
 long and about 2.5 meter beam, there's not much headroom if you are over
@@ -39,7 +39,7 @@ in Stockholm working on her so we are ready for the boat going on water 28th
 of April.
 
 
-###The Plan
+### The Plan
 
 So when we take off and sail out into the world, where are we going to travel?
 We are thinking about staying around the Stockholm archipelago for a bit,
