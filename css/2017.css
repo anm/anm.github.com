@@ -228,7 +228,28 @@ own line */
             rgba(0, 0, 0, 0.7),
             rgba(0, 0, 0, 0.7)
         ),
-    url("/img/boat/two_cats_one_boat.jpg");
+    url("/img/boat/two_cats_one_boat_640.jpg");
+}
+
+@media (min-width: 641px) {
+    .cover-container {
+        background:
+        linear-gradient(
+                rgba(0, 0, 0, 0.7),
+                rgba(0, 0, 0, 0.7)
+            ),
+        url("/img/boat/two_cats_one_boat_1200.jpg");
+    }
+}
+@media (min-width: 1201px) {
+    .cover-container {
+        background:
+        linear-gradient(
+                rgba(0, 0, 0, 0.7),
+                rgba(0, 0, 0, 0.7)
+            ),
+        url("/img/boat/two_cats_one_boat_1600.jpg");
+    }
 }
 
 .cover-container-bottom {
