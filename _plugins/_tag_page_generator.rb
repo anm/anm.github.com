@@ -55,15 +55,15 @@ module Jekyll
       end
 
       tags = Hash.new
-       for post in site.posts.docs
-         for tag in post.data['tags']
-           if tags[tag]
-             tags[tag] += 1
-           else
-             tags[tag] = 1
-           end
-         end
-       end
+      for post in site.posts.docs
+        for tag in post.data['tags']
+          if tags[tag]
+            tags[tag] += 1
+          else
+            tags[tag] = 1
+          end
+        end
+      end
 
       write_tag_index(site, dir, tags)
     end
