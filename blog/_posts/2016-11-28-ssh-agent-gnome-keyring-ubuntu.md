@@ -9,8 +9,9 @@ tags: [linux, ubuntu, ssh]
 If you remove `gnome-keyring` from Ubuntu 16 (Xenial), `ssh-agent` should then
 start and work properly with no further changes.
 
-`sudo apt-get remove gnome-keyring`  
-`echo gnome-keyring hold | sudo dpkg --set-selections`
+`sudo apt-get remove gnome-keyring gnome-keyring:i386`  
+`echo gnome-keyring hold | sudo dpkg --set-selections`  
+`echo gnome-keyring:i386 hold | sudo dpkg --set-selections`
 
 The second line is to stop the package being reinstalled without you asking
 for it.
