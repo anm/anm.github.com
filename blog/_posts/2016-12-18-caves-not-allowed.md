@@ -2,7 +2,7 @@
 layout: post
 title: Caves, not concrete
 tags: [canarias, travel, anarchism]
-location: 27.85, -15.68
+location: 27.85 -15.68
 ---
 
 <img src="https://c8.staticflickr.com/1/580/31658253711_c1fd5cf681_z.jpg"

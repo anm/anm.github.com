@@ -2,7 +2,7 @@
 layout: post
 title: Mi cueva!
 tags: [laspalmas, canarias, travel, anarchism]
-location: 28.06, -15.51
+location: 28.06 -15.51
 ---
 
 I'm starting to really feel Proudhon.
