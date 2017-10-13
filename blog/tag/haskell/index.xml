@@ -6,7 +6,7 @@
 
   <link href="https://mm0hai.net/blog/tag/haskell/index.xml" rel="self"/>
   <link href="https://mm0hai.net/"/>
-  <updated>2016-12-21T02:06:32+00:00</updated>
+  <updated>2017-10-13T21:27:10+02:00</updated>
   <id>https://mm0hai.net/blog/tag/haskell</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[List Comprehensions in Haskell]]></title>
     <link href="https://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html"/>
-    <updated>2011-07-31T00:00:00+01:00</updated>
+    <updated>2011-07-31T00:00:00+02:00</updated>
     <id>https://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions</id>
     <content type="html"><![CDATA[<h2 id="why-theyre-so-good">Why they’re so good</h2>
 
@@ -26,8 +26,8 @@ realised it is because they combine three fundamental patterns of functional
 programming with little syntax. The patterns are generate, filter, and map.</p>
 
 <p>The generation stage produces one or more lists, often using something like
-<code>[1..]</code>, the list of the natural numbers.  Filters are specified as comma
-separated boolean expressions.  The map operation is defined before the <code>|</code>.
+<code class="highlighter-rouge">[1..]</code>, the list of the natural numbers.  Filters are specified as comma
+separated boolean expressions.  The map operation is defined before the <code class="highlighter-rouge">|</code>.
 There is some more detail in the <a href="http://haskell.org/onlinereport/exps.html#list-comprehensions">Haskell
 Report</a>.</p>
 
@@ -37,9 +37,11 @@ Report</a>.</p>
 clearly they are meant to resemble. The problem is they are not and thinking
 of them this way can lead to problems when it is time to evaluate them.</p>
 
-<p>Obviously, they are lists, not sets. This will restrict how they are evaluated
-- order matters. It’s also unhelpful if you really do want a set but the way
-you write the list comprehension generates some values more than once.</p>
+<p>Obviously, they are lists, not sets. This will restrict how they are evaluated</p>
+<ul>
+  <li>order matters. It’s also unhelpful if you really do want a set but the way
+you write the list comprehension generates some values more than once.</li>
+</ul>
 
 <h2 id="how-you-write-them-matters">How you write them matters</h2>
 
@@ -67,7 +69,7 @@ fast n = [ (a, b, c) | a &lt;- [1..n], b &lt;- [1..n], let c = n - (a + b),
 did not complete within minutes.</p>
 
 <p>I would guess GHC is using nested loops, so slow will have time complexity
-<code>O(n^3)</code> and fast <code>O(n^2)</code>.</p>
+<code class="highlighter-rouge">O(n^3)</code> and fast <code class="highlighter-rouge">O(n^2)</code>.</p>
 ]]></content>
    
   </entry>
@@ -75,7 +77,7 @@ did not complete within minutes.</p>
   <entry>
     <title type="html"><![CDATA[Learning Haskell - Part 1]]></title>
     <link href="https://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html"/>
-    <updated>2011-07-17T00:00:00+01:00</updated>
+    <updated>2011-07-17T00:00:00+02:00</updated>
     <id>https://mm0hai.net/blog/2011/07/17/Learning-Haskell-1</id>
     <content type="html"><![CDATA[<p>I’m learning Haskell at the moment, and have been doing so slowly over the
 past couple of months.</p>

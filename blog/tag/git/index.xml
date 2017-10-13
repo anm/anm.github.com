@@ -6,7 +6,7 @@
 
   <link href="https://mm0hai.net/blog/tag/git/index.xml" rel="self"/>
   <link href="https://mm0hai.net/"/>
-  <updated>2016-12-21T02:06:32+00:00</updated>
+  <updated>2017-10-13T21:27:10+02:00</updated>
   <id>https://mm0hai.net/blog/tag/git</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Github Punchcard - Visualising Commit Times]]></title>
     <link href="https://mm0hai.net/blog/2011/03/11/github-punchcard.html"/>
-    <updated>2011-03-11T00:00:00+00:00</updated>
+    <updated>2011-03-11T00:00:00+01:00</updated>
     <id>https://mm0hai.net/blog/2011/03/11/github-punchcard</id>
     <content type="html"><![CDATA[<p>I pushed my <a href="/life/life.html">HTML5 Game of Life</a> to
 <a href="https://github.com/anm/HTML5-Game-of-Life/">github</a> today. I hadn’t
@@ -40,7 +40,7 @@ hacker dating site at once.</p>
   <entry>
     <title type="html"><![CDATA[Rewriting git commit message history across multiple branches]]></title>
     <link href="https://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history.html"/>
-    <updated>2011-03-10T00:00:00+00:00</updated>
+    <updated>2011-03-10T00:00:00+01:00</updated>
     <id>https://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history</id>
     <content type="html"><![CDATA[<p>The usual way to modify a previous git commit is to rebase interactively:</p>
 
@@ -56,7 +56,7 @@ along with the unmodified commit they were based on.</p>
 
 <p>I decided to try a different approach - I used <code>filter-branch</code>.</p>
 
-<p><code>filter-branch</code> is very powerful and has many options. In this case, I
+<p><code class="highlighter-rouge">filter-branch</code> is very powerful and has many options. In this case, I
 only wanted to rewrite a commit message, so I used the
 <code>--msg-filter</code> option. This pipes each message to a shell
 command and replaces it with the output of that command - perfect in
@@ -76,9 +76,9 @@ details.</p>
 <p>Before this operation, git makes a backup, referred to as the
 original. If there is already a backup git will, be default, refuse to
 run the command, as doing so would overwrite the existing backup with
-a new one. Use <code>-f</code> to force it.</p>
+a new one. Use <code class="highlighter-rouge">-f</code> to force it.</p>
 
-<p><code>-- --all</code> applies the filter to all branches. Alternatively, single
+<p><code class="highlighter-rouge">-- --all</code> applies the filter to all branches. Alternatively, single
 branch names can be given.</p>
 
 <p>The above commands have taken care of modifying our commits but they

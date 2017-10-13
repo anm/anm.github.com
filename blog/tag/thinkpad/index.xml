@@ -6,7 +6,7 @@
 
   <link href="https://mm0hai.net/blog/tag/thinkpad/index.xml" rel="self"/>
   <link href="https://mm0hai.net/"/>
-  <updated>2016-12-21T02:06:32+00:00</updated>
+  <updated>2017-10-13T21:27:10+02:00</updated>
   <id>https://mm0hai.net/blog/tag/thinkpad</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Oiling Thinkpad X61 fans]]></title>
     <link href="https://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html"/>
-    <updated>2014-04-11T00:00:00+01:00</updated>
+    <updated>2014-04-11T00:00:00+02:00</updated>
     <id>https://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans</id>
     <content type="html"><![CDATA[<p>I previously wrote about oiling the
 <a href="/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"> noisy fan in a
@@ -46,7 +46,7 @@ the x60s has of a burning hot palm rest.</p>
   <entry>
     <title type="html"><![CDATA[Servicing a Thinkpad x60s Fan and cooling system]]></title>
     <link href="https://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"/>
-    <updated>2012-08-06T00:00:00+01:00</updated>
+    <updated>2012-08-06T00:00:00+02:00</updated>
     <id>https://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan</id>
     <content type="html"><![CDATA[<p>The fan in my x60s had started to sound rough. I was worried it was going to
 die soon, which would be very inconvenient when cycle touring or in
@@ -97,7 +97,7 @@ one. I was careful to try and keep it clean though. Dust matters.</p>
 mersenne prime finding program, but also seems to be popular with overclockers
 who want to test cooling. It has menu options specifically for this. memtest86
 can be used to test memory. I ran prime95 while monitoring temperatures with
-<code>watch sensors</code>, in a linux shell.</p>
+<code class="highlighter-rouge">watch sensors</code>, in a linux shell.</p>
 
 <p>I am pleased with the result. The fan is now quiet, but not perfect. I think
 the bearing is a bit worn, but it should last for much longer than if I had
