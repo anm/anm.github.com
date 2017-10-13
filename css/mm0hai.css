@@ -36,6 +36,7 @@ svg {
 
 img {
     border: none;
+    max-width: 100%;
 }
 
 img.rounded {

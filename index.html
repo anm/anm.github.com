@@ -48,17 +48,36 @@ River MacLeod
 <body>
 
 <h1 title="CAN HAS STDIO? VISIBLE &quot;HAI WORLD!&quot; KTHXBYE"><a href="hai.html"><img src="anm-glider-icon-32.png" alt="glider logo" width="32" height="32"/> HAI!</a></h1>
-<p>This is the homepage of River MacLeod, and his <a href="/radio">amateur
-radio station, MM0HAI</a>.</p>
+<p>This is the homepage of River MacLeod.</p>
+
+<script>
+function toggle () {
+if (document.getElementById("tickybox").checked) {
+document.getElementById("ticky_text").innerHTML="Yay! Tickybox";
+} else {
+document.getElementById("ticky_text").innerHTML=":-(";
+}
+_gaq.push(['_trackEvent', 'Tickybox', 'toggle', 'tickybox']);
+}
+</script>
+<p>Would you care for a tickybox?
+<input id="tickybox" type="checkbox" onclick="toggle()" />
+<span id="ticky_text"></span>
+</p>
+
+<img src="/img/boat/boat_stockholm_lake.jpg" alt="My boat on a lake in Stockholm"/>
 
 <h1>Travel</h1>
+<p>I live on a <a href="/sailing">boat</a>, and have been cruising around the
+Baltic. Do you want to <a href="/sailing">join</a>?</p>
 
 <p>
-I spent 2013 travelling by bicycle and boat from Mexico to Colombia. I
-attached a solar panel to the bike and made a charger for my laptop so I could
-write even when away from civilisation for a while. I left with the idea of
-going to Patagonia, but I wanted to do something else by the time I got to
-Colombia. I would like to go back to South America sometime.
+Previously, I have travelled by bicycle. In 2013, I travelled by bike and
+boat from Mexico to Colombia. I attached a solar panel to the bike ad made a
+charger for my laptop so I could write even when away from civilisation for a
+while. I left with the idea of going to Patagonia, but I wanted to do
+something else by the time I got to Colombia. I would like to go back to South
+America sometime.
 
 I called the trip Cycle Who. I've written
 an <a href="/blog/2012/12/10/Cycle-Who.html">Introduction</a>,
@@ -81,16 +100,6 @@ account for updates.</p>
 <h1>Work</h1>
 
 <p>
-I've done some work on building a technomadic bicycle. This is a bike fitted
-with electronic and computing gadgets to enable a lifestyle of travel while
-remaining connected with technology. Off-grid with solar power and online when
-needed. You can see the solar power system as used on
-the <a href="/blog/tag/cyclewho">Cycle Who</a> trip, and some previous work
-with <a href="/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html">HF
-amateur radio</a>.
-</p>
-
-<p>
 I occasionally take on freelance software development jobs. Previously I have
 worked as a software engineer at internet startups on distributed systems,
 machine learning, and both front and back end web development. I have built a
@@ -99,36 +108,15 @@ backend development, to automated deployment and hosting network architecture.
 </p>
 
 <p>
-I am available to hire now.
+I am available to <a href="/portfolio">hire</a> now.
 </p>
 
-<h1>Code</h1>
-<p>Have a look at my javascript implementation
-of <a href="life/life.html">Conway's Game of Life</a>. It's colourful
-and rather nice on the iPad where it can be installed as an offline
-web app. Read more about the <a href="/life/about.txt">features and
-implementation</a>.</p>
+<h1>Radio</h1>
 
-<p>I'm starting to put <a href="https://github.com/anm" rel="me">code</a> on
-github. I sometimes use <a href="https://stackoverflow.com/users/214343/anm"
-rel="me">Stack Overflow</a>.
-</p>
-
-<script>
-function toggle () {
-if (document.getElementById("tickybox").checked) {
-document.getElementById("ticky_text").innerHTML="Yay! Tickybox";
-} else {
-document.getElementById("ticky_text").innerHTML=":-(";
-}
-_gaq.push(['_trackEvent', 'Tickybox', 'toggle', 'tickybox']);
-}
-</script>
-<p>Would you care for a tickybox?
-<input id="tickybox" type="checkbox" onclick="toggle()" />
-<span id="ticky_text"></span>
-</p>
-
+The domain name of this site is my amateur radio callsign. I
+have not been active on amateur radio recently, but previously I have
+participated in SOTA, and I plan to install an HF radio on the
+boat. See the <a href="/radio">radio</a> section of the site if interested.
 
 <h1>Bloviations from the Phrontistery</h1>
 <div id="map" style="width: 600px; height: 400px"></div>
@@ -148,12 +136,14 @@ _gaq.push(['_trackEvent', 'Tickybox', 'toggle', 'tickybox']);
 <p>email: web @ this domain<br />
 <a class="u-key" href="river_macleod_pgp_key.asc">PGP Key</a><br />
 Twitter: <a href="https://twitter.com/macleodan" rel="me">@macleodan</a><br />
+<a href="https://github.com/anm" rel="me">Github</a><br />
+<a href="https://stackoverflow.com/users/214343/anm" rel="me">Stack Overflow</a>
 </p>
 </address>
 
 <data class="u-url" value="https://mm0hai.net"></data>
 <data class="u-photo" value="https://secure.gravatar.com/avatar/e19b19f5bd75b951c0fb3521b025b7b7.png?s=150"></data>
-&copy; 2016 <span class="p-name">River MacLeod</span>
+&copy; 2017 <span class="p-name">River MacLeod</span>
 </footer>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
