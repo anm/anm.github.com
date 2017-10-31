@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged mobile]]></title>
 
-  <link href="http://localhost:4000/blog/tag/mobile/index.xml" rel="self"/>
-  <link href="http://localhost:4000/"/>
-  <updated>2017-10-13T21:27:19+02:00</updated>
-  <id>http://localhost:4000/blog/tag/mobile</id>
+  <link href="https://mm0hai.net/blog/tag/mobile/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2017-10-31T21:18:18+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/mobile</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Coderace, and trying an Android phone for navigation]]></title>
-    <link href="http://localhost:4000/blog/2012/08/04/Coderace.html"/>
+    <link href="https://mm0hai.net/blog/2012/08/04/Coderace.html"/>
     <updated>2012-08-04T00:00:00+02:00</updated>
-    <id>http://localhost:4000/blog/2012/08/04/Coderace</id>
+    <id>https://mm0hai.net/blog/2012/08/04/Coderace</id>
     <content type="html"><![CDATA[<p><img width="640" src="http://www.coderace.co.uk/images/Event2012/Screenshot2.jpg" alt="Final game map" /></p>
 
 <p>Today I participated in an event called <a href="http://www.coderace.co.uk/">Coderace</a> with a team from the <a href="http://edinburghhacklab.com/">Edinburgh Hacklab</a>.</p>
@@ -73,9 +73,9 @@ the situation is ridiculous.</p>
   
   <entry>
     <title type="html"><![CDATA[Native Mobile App Development with HTML5]]></title>
-    <link href="http://localhost:4000/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap.html"/>
+    <link href="https://mm0hai.net/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap.html"/>
     <updated>2011-09-11T00:00:00+02:00</updated>
-    <id>http://localhost:4000/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap</id>
+    <id>https://mm0hai.net/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap</id>
     <content type="html"><![CDATA[<p>A while ago I was having a play with CSS 3D transforms and I made a <a href="/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html">spinning
 triangle symbol</a> as seen on the TV show Torchwood. Last night, someone
 tweeted me about it saying he wanted a version for his phone. I’d done some

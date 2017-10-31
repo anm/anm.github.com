@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <title><![CDATA[River MacLeod, MM0HAI: Posts tagged germany]]></title>
+
+  <link href="https://mm0hai.net/blog/tag/germany/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2017-10-31T21:18:18+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/germany</id>
+  <author>
+    <name><![CDATA[River MacLeod]]></name>
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Winter]]></title>
+    <link href="https://mm0hai.net/blog/2017/10/31/Winter.html"/>
+    <updated>2017-10-31T00:00:00+01:00</updated>
+    <id>https://mm0hai.net/blog/2017/10/31/Winter</id>
+    <content type="html"><![CDATA[<p>Now it is winter again. Samhain eve. This time I am taking the sails off the
+boat, cleaning, drying, changing engine oil. It’s getting cold.</p>
+
+<p>Should I be in Edinburgh celebrating the festival? I think I don’t mind
+actually. I’m quite happy with my boat, and peace.</p>
+]]></content>
+   
+  </entry>
+  
+</feed>
