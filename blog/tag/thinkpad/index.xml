@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <title><![CDATA[River MacLeod, MM0HAI: Posts tagged thinkpad]]></title>
+
+  <link href="https://mm0hai.net/blog/tag/thinkpad/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2017-10-31T23:33:50+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/thinkpad</id>
+  <author>
+    <name><![CDATA[River MacLeod]]></name>
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Oiling Thinkpad X61 fans]]></title>
+    <link href="https://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html"/>
+    <updated>2014-04-11T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans</id>
+    <content type="html"><![CDATA[<p>I previously wrote about oiling the
+<a href="/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"> noisy fan in a
+Thinkpad X60s</a>. You should read that post first if you want to do this,
+because the procedure is much the same for the X61. Oiling the fans made a
+great improvement to the noise levels.</p>
+
+<p>The heatsink and fan are of a different design to the X60s. In the X61, the
+heatsink is copper and the fan has a plastic case. The main fan bearing is
+easier to access on the X61 because you can just unscrew the fan cover from
+the heatsink.</p>
+
+<p>The X61 also has a second fan, which is under the palm rest in the middle of
+the computer. This can be opened by bending the metal tabs holding the cover
+on, in the same way as the main fan on the X60s. It helps to stop the problem
+the x60s has of a burning hot palm rest.</p>
+
+<p><a href="https://www.flickr.com/photos/mm0hai/13768752524" title="Thinkpad X61 Fan by River, on Flickr"><img src="https://farm4.staticflickr.com/3828/13768752524_6f2983eb5f_z.jpg" width="640" height="491" alt="Thinkpad X61 Fan" /></a></p>
+
+<p><a href="https://www.flickr.com/photos/mm0hai/13769007674" title="Thinkpad X61 Fansink by River, on Flickr"><img src="https://farm4.staticflickr.com/3763/13769007674_749cbc21d8_z.jpg" width="640" height="354" alt="Thinkpad X61 Fansink" /></a></p>
+
+<p><a href="https://www.flickr.com/photos/mm0hai/13768389853" title="Thinkpad X61 Second Fan by River, on Flickr"><img src="https://farm8.staticflickr.com/7158/13768389853_a5a88a164c_z.jpg" width="640" height="586" alt="Thinkpad X61 Second Fan" /></a></p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Servicing a Thinkpad x60s Fan and cooling system]]></title>
+    <link href="https://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"/>
+    <updated>2012-08-06T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan</id>
+    <content type="html"><![CDATA[<p>The fan in my x60s had started to sound rough. I was worried it was going to
+die soon, which would be very inconvenient when cycle touring or in
+mid-nowhere. I thought I should probably replace it but decided to try and fix
+it first. The plan was to clean and oil the fan, and replace thermal paste.</p>
+
+<p>First I had to extract the fansink, the combined fan and heatsink
+assembly. This was quite a large job because it involved removing nearly every
+other part of the computer. It was interesting to see inside though. It was
+made easy be the excellent service manual which I downloaded. Be very careful
+when unscrewing the fansink. Use a screwdriver that fits well and support the
+points you will be pushing down on with something underneath the board. I
+didn’t and heard a nasty cracking noise. I’m surprised that the solder
+connections to the CPU were not broken when the board bent, but luckily it
+doesn’t seem to have caused any problems.</p>
+
+<p>I then had to access the fan. It was not designed to be removed from the
+fansink but it was possible by bending the metal tabs which held the case over
+the rotor, and peeling back some foil tape.</p>
+
+<p><a href="https://www.flickr.com/photos/mm0hai/7720829624/" title="Thinkpad x60s Fansink by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8287/7720829624_26bd0a7aaf_z.jpg" width="640" height="480" alt="Thinkpad x60s Fansink" /></a></p>
+
+<p>I cleaned out quite a lot of dust which had built up by the fan blades and in
+the heatsink fins. I then applied 3 in 1 oil to the bearing surfaces.</p>
+
+<p><a href="https://www.flickr.com/photos/mm0hai/7720821532/" title="Thinkpad x60s Fansink: Fan motor, rotor removed by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7111/7720821532_d81fbebcc6.jpg" width="500" height="375" alt="Thinkpad x60s Fansink: Fan motor, rotor removed" /></a></p>
+
+<p>Replacing the heatsink requires replacing the thermal paste, and I expected
+that doing this well would improve cooling in any case. It should reduce the
+thermal resistance from silicon to heatsink and therefore the fan could maybe
+run at a lower speed, prolonging its life. I used Arctic Silver 5 as it seems
+to have the best reputation and reviews.</p>
+
+<p>Arctic Silver give application instructions for various CPUs, but not for this
+one. I wrote to them and they said to use, for a Core Duo in a laptop, the <a href="http://www.arcticsilver.com/pdf/appmeth/int/ss/intel_app_method_surface_spread_v1.1.pdf">surface
+spread</a> method. Before applying I thoroughly cleaned the surfaces with
+isopropanol, which has proven useful for many other electronics
+applications. I was excited to discover I actually had one of these mythical
+“soft lint free cloths”. In real life it’s called a camera lens cleaner.</p>
+
+<p><a href="https://www.flickr.com/photos/mm0hai/7258837974/" title="Intel Core Duo, in Thinkpad x60s by mm0hai, on Flickr"><img src="https://farm8.staticflickr.com/7094/7258837974_5b20049508.jpg" width="500" height="375" alt="Intel Core Duo, in Thinkpad x60s" /></a></p>
+
+<p>The memory controller is also cooled directly by the fansink. It has a thermal
+pad instead of paste. I did not replace this because I didn’t have another
+one. I was careful to try and keep it clean though. Dust matters.</p>
+
+<p>After reassembling the computer, it’s a good idea to test it. I used <a href="http://www.mersenne.org/freesoft/">prime95</a> to heat the CPU. It’s a
+mersenne prime finding program, but also seems to be popular with overclockers
+who want to test cooling. It has menu options specifically for this. memtest86
+can be used to test memory. I ran prime95 while monitoring temperatures with
+<code class="highlighter-rouge">watch sensors</code>, in a linux shell.</p>
+
+<p>I am pleased with the result. The fan is now quiet, but not perfect. I think
+the bearing is a bit worn, but it should last for much longer than if I had
+done nothing. The CPU temperature now sits around 41C idle. I recommend you
+carry out this procedure at the first signs of fan wear, as the oil should
+reduce further damage that would otherwise occur more quickly.</p>
+
+<p>Keeping the computer cool should also extend its life. <a href="http://en.wikipedia.org/wiki/Arrhenius_equation">The Arrhenius
+equation</a> applies to component failures.</p>
+
+<p>Now, I should try and avoid gunk build up in the fan by not using the
+computer: in bed, in sand dunes, in caves, in a forest…</p>
+
+<p>I have also written about
+<a href="/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html">oiling the X61
+fans</a>.</p>
+]]></content>
+   
+  </entry>
+  
+</feed>

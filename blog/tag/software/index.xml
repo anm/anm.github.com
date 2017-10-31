@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <title><![CDATA[River MacLeod, MM0HAI: Posts tagged software]]></title>
+
+  <link href="https://mm0hai.net/blog/tag/software/index.xml" rel="self"/>
+  <link href="https://mm0hai.net/"/>
+  <updated>2017-10-31T23:33:50+01:00</updated>
+  <id>https://mm0hai.net/blog/tag/software</id>
+  <author>
+    <name><![CDATA[River MacLeod]]></name>
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[IndieWebCamp Edinburgh]]></title>
+    <link href="https://mm0hai.net/blog/2015/07/26/Indie-Web-Camp-Edinburgh.html"/>
+    <updated>2015-07-26T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2015/07/26/Indie-Web-Camp-Edinburgh</id>
+    <content type="html"><![CDATA[<p><img width="640" src="https://indieweb.org/images/8/84/2015-07-25_Edinburgh.jpg" alt="IndieWebCamp Edinburgh group photo" /></p>
+
+<p>At the weekend, I attended an <a href="https://indieweb.org/2015/Edinburgh">IndieWebCamp in Edinburgh</a>.</p>
+
+<p>IndieWeb basically seems to be the idea that people should have their own
+websites - what we used to call homepages - instead of using things like
+Facebook, Twitter, etc. It is some ideas of how to do things, and some minimal
+standards to allow for sites to interoperate.</p>
+
+<p>One of the most important ideas is that your url and site are you
+identity. You should own your url and content. There is a system to allow you
+to authenticate to other sites as your domain name. Other standards allow, for
+example, comments to be posted on other sites, syndication of posts (read
+sites with a feed reader like RSS), and many others.</p>
+
+<p>One thing not yet developed on the IndieWeb is a way to have friends-only or
+other private type posts. We had some discussions about how to do this. We
+also had some talk about static sites. I think most IndieWeb sites are
+dynamically generated, but mine and certainly some others are static.</p>
+
+<p>My site is generated with Jekyll, and then served as static pages. This has
+some limitations, but not as many as you might think, and it has many
+advantages regarding security and efficiency of hosting.</p>
+
+<p>I also made some basic improvements to the indiewebyness of my site this
+weekend, fixing <a href="http://microformats.org/">microformats</a>, and other
+general work on the site.</p>
+
+<p>I would certainly recommend going to one of these camps to anyone interested
+in building or running a website themselves, which they can have control over.</p>
+]]></content>
+   <georss:point>55.935481 -3.180439</georss:point>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Don't use the PGP Keyservers]]></title>
+    <link href="https://mm0hai.net/blog/2015/07/14/Dont-use-the-keyservers.html"/>
+    <updated>2015-07-14T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2015/07/14/Dont-use-the-keyservers</id>
+    <content type="html"><![CDATA[<p>I think it’s a bad idea to use the PGP keyservers, and also the web of
+trust. These are different points, but related. Maybe it’s a bad idea to use
+PGP at all, but that is already covered <a href="http://secushare.org/PGP">elsewhere</a>.</p>
+
+<p>Problems with the keyservers:</p>
+
+<ol>
+<li>
+<h2>You can't delete keys</h2>
+
+<p>Your name, email address, and any comment you made are permanently bound
+together and published. You might not like people to know your old name if you
+change it.</p>
+
+<p>Old keys clutter the servers, and it can become hard to know which key to use.</p>
+</li>
+
+<li>
+<h2>Spam / vandalism</h2>
+
+Keyservers publish anything you send them. If someone sends them signatures on
+your key, these will always be shown when people look for your key. This was
+used to add an ascii goatse to a key.
+</li>
+
+<li>
+<h2>Easily DOSed</h2>
+
+Almost always, I find anyway, you won't find a web of trust path to a key you
+get from the servers. If someone decided to publish lots of fake keys, you
+wouldn't be able to tell the difference. You need to check with someone by
+other means anyway. I guess the only reason that there has been so little
+abuse of the servers is that almost noöne knows about them.
+</li>
+
+<li>
+<h2>Signatures publicise relationships</h2>
+
+This is partly a web of trust problem, and partly a matter of posting
+signatures publicly, but in any case the problem is that signatures give a lot
+of information about who you have met, when, and maybe even where.
+</li>
+
+<li>
+<h2>Key lookups reveal your contacts</h2>
+
+When you ask a keyserver for a key for a new contact, you tell it who you are
+talking to. When you refresh your keyring, you tell a server everyone you use
+pgp with. If you don't configure tls for the keyserver connection, anyone can
+see what you are doing.
+</li>
+</ol>
+
+<h2 id="what-should-you-do-then">What should you do then?</h2>
+
+<p>I recommend attaching your key to your emails. Preferably your mail program
+would then use <a href="https://en.wikipedia.org/wiki/Trust_on_first_use">TOFU</a>, and you can
+verify out of band too if you want. Keys could also be verified by downloading
+from the owners website over multiple network paths, for example with
+tor. There are various other possibilities.</p>
+
+<p>Really though, email is the problem. We need a messaging system that is
+designed to be secure from the start. Some systems currently in development
+that are worth checking out are <a href="https://pond.imperialviolet.org/">Pond</a> and <a href="https://briarproject.org">Briar</a>.</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[River Song - Music Hack Day Scotland]]></title>
+    <link href="https://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland.html"/>
+    <updated>2012-08-26T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland</id>
+    <content type="html"><![CDATA[<p>This weekend saw a music hack day in Edinburgh. I signed up with a couple of
+ideas of things I might do but I wasn’t really sure if I’d get much done. In
+the end my hack was quite successful and I won an iPad!</p>
+
+<p>One idea I had was to make a virtual <a href="http://en.wikipedia.org/wiki/Singing_bowl">Singing Bowl</a> using a wire
+and capacitive touch sensing. I thought this would be quite difficult because
+to do it at all well would probably require quite a sophisticated sensor,
+something like used in <a href="http://www.disneyresearch.com/research/projects/hci_botanicus_drp.htm">Disney’s
+interactive plant project</a>.</p>
+
+<p>My other, which I built, was related to my touring bike. I was thinking about
+what to call my new bike when I get her, and I think I might choose <a href="http://en.wikipedia.org/wiki/River_Song_(Doctor_Who)">River
+Song</a>. The bike is for open ended touring without any particular rush to
+get anywhere. It is for living. I like the idea of the bike flowing through
+life, time and space.</p>
+
+<p>Make the bike sing.</p>
+
+<p>This gave me the idea that she ought to have a song. I wanted something to
+represent movement and flow. The most obvious idea was the sound of a river. I
+could also have tried to compose something but that seemed more difficult
+because it would require musical ability. I decided to make river sounds.</p>
+
+<p>I wanted the sound to change with movement. The simplest thing is to take the
+current speed. I also thought about using distance traveled recently
+(i.e. adding integral action to the music controller). I considered modeling
+a water system, such that movement caused rainfall, which then soaked through
+the ground and eventually reached the river. For this hack, I kept it simple
+and used only speed.</p>
+
+<p><img src="/res/2012-08-26-Music-Hack-Day-Scotland/river-song-block-diagram.png" alt="Block diagram of system." title="The unicycle is not actually radially spoked." /></p>
+
+<p>Above is a diagram of the system I demonstrated. I used a unicycle rather than
+a bike for the demo because it was easier to get it into the lecture theatre
+and turn the wheel. I’ll now discuss the design choices.</p>
+
+<p>I considered two ways of making the sound. One was synthesising from scratch,
+and the other using samples. I realised that I actually had recordings of a
+river and of water flowing in a pipe, the later which I took when walking on
+La Palma. I chose to use synthesis because it seemed like it would be easier
+to modify the sound with data and it made it more hackable for future changes
+to the sound.</p>
+
+<p>I had never done any sound synthesis before so I didn’t know what software I
+should use. I thought about using a library for some programming language I
+already knew but decided to try using something designed for sound. The main
+contenders seemed to be SuperCollider and Pure Data. Asking around I found
+Pure Data seems to be the most popular, and this was confirmed at the
+presentation when I saw several hacks used it.</p>
+
+<p>Pure Data was difficult to get started with, and I almost gave up. The
+documentation is very poor and the Ubuntu package had various things wrong
+with it, like the sound test not working. I managed to get it working in the
+end. I didn’t have time to learn much about the language never mind actually
+designing synthesisers and sounds but I found a Pure Data patch which made
+something which sounded like running water. Random hacking at this discovered
+a place where I could change a value to make the water sound more violent. I
+used this and also increased the volume when the bike went faster.</p>
+
+<p>To detect movement I used a magnet on the wheel and a reed switch from an old
+bike computer. This I connected to an Arduino (actually <a href="/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html">Seeeduino</a>)
+which measured the time between switch pulses and sent this over a USB serial
+connection to a laptop running Pure Data.</p>
+
+<p>In Pure Data, I used the comport module to receive data from the serial
+port. This was also not well documented but I worked it out from some blog
+posts.</p>
+
+<p>I finished soldering connectors together about 10 minutes before the
+presentations were meant to start and then ran to the event. I was tweaking
+the sensor position and patch parameters during the talks but soldering proper
+connectors paid off because there was no trouble - amazingly the thing
+actually worked at a demonstration! I was now on stage with a unicycle, so of
+course I had to try and ride it. I managed to idle briefly and long enough to
+trigger the sensor, so overall successful.</p>
+
+<p>I would have been quite pleased at that, but then there were prizes, and I won
+an iPad! I’m not sure what to do with it yet. Maybe duck tape it to my
+bike. :)</p>
+
+<p><img src="http://twitpic.com/show/large/anmlwj.jpg" alt="Demonstration with unicycle at the hackday." /></p>
+
+<p><img src="http://distilleryimage4.s3.amazonaws.com/da4b156aeed311e1aaa822000a1de2ba_7.jpg" alt="Preparing unicycle for talk." /></p>
+
+<p>I was still tweaking while the presentations were happening, but the demo
+worked!</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nyan cat, Psytrance, Meditation, Programming]]></title>
+    <link href="https://mm0hai.net/blog/2012/04/21/Nyancat-Psytrance-Meditation-Programming.html"/>
+    <updated>2012-04-21T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2012/04/21/Nyancat-Psytrance-Meditation-Programming</id>
+    <content type="html"><![CDATA[<p>My highest score at <a href="http://nyan.cat">nyan.cat</a> was achieved when
+programming. I was at work and struggling to get much done. Then I put on
+nyan cat and within a few hours I had resolved several issues. I guessed it
+might be helping because it occupied the part of my brain that usually would be
+free to distract me by generating unrelated thoughts.</p>
+
+<p>I also like to listen to <a href="http://www.last.fm/tag/psytrance">psytrance</a> music when
+programming. I thought it was good because it is simple and repetitive, so
+unlikely to be distracting. It’s also fast and good for keeping me awake for
+long hacking sessions.</p>
+
+<p>Meditation also can help to clear the mind of unwanted thoughts and aid
+concentration. I think this state of focus is what some programmers call flow.</p>
+
+<p>I suspect now that trance music and meditation probably produce similar mental
+states, which aid concentration and getting things done. I therefore recommend
+that offices should play repetitive music such as nyan cat to boost
+productivity and increase moral. :) I also recommend hacking at psytrance
+parties.</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Native Mobile App Development with HTML5]]></title>
+    <link href="https://mm0hai.net/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap.html"/>
+    <updated>2011-09-11T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2011/09/11/Native-Mobile-Web-Apps-with-PhoneGap</id>
+    <content type="html"><![CDATA[<p>A while ago I was having a play with CSS 3D transforms and I made a <a href="/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html">spinning
+triangle symbol</a> as seen on the TV show Torchwood. Last night, someone
+tweeted me about it saying he wanted a version for his phone. I’d done some
+mobile web app development before (my <a href="/life/life.html">HTML5 Game of
+Life</a>) but had never made a native app. Learning native app development was
+not my top priority but I knew it was possible to make native apps using HTML
+and Javascript so thought I would try it.</p>
+
+<h2 id="mobile-web-apps-and-native-apps">Mobile Web Apps and Native Apps</h2>
+
+<p>Native apps are written to a device specific API and use a device specific
+runtime and packaging system. This means they must be rewritten for every
+platform which is required. They are not a part of the web. This means that
+their resources cannot be linked to, for example.</p>
+
+<p>Mobile web apps use standard web technologies. They can run on many different
+platforms and interoperate with the rest of the web. They are created in much
+the same way as a normal web app but they can be designed to also work
+offline. The key technology to enable this is the HTML5 offline application
+cache. Further enhancements can be made to make mobile web apps look like
+native apps, for example providing an icon to use when installing the app in a
+home screen.</p>
+
+<p>I believe that whenever possible mobile web apps should be used in preference
+to native apps. This is because:</p>
+
+<ul>
+  <li>They are mostly cross platform.</li>
+  <li>You don’t need to learn a totally different development ecosystem and, in
+the case of iOS, Objective-C.</li>
+  <li>They interoperate with the web. Does not need to silo data, can be linked to.</li>
+  <li>Morally better: they reduce wasted time redoing work for other
+platforms. This is time developers could be using to be creating something
+new to benefit the world.</li>
+</ul>
+
+<p>Mobile web apps have some disadvantages though:</p>
+
+<ul>
+  <li>Users are less familiar with them: this may reduce installs and they may not
+understand they can be used offline.</li>
+  <li>Not all device features are available through the DOM, e.g. a phone camera.</li>
+  <li>Payment infrastructure: The Apple App Store, for example, makes it easy to
+sell apps.</li>
+</ul>
+
+<p>Thankfully, there is a way to develop using web standards as far as possible
+and then bundle the functionality in a native app. This preserves some of the
+benefits of web apps, such as reduced development time for many platforms,
+allows the apps to be included in app stores, and permits access to device
+features.</p>
+
+<p>There are many frameworks designed to do just this - here is wikipedia’s list:
+<a href="http://en.wikipedia.org/wiki/Multiple_phone_web_based_application_framework">Mobile
+web based application frameworks</a>.</p>
+
+<h2 id="using-phonegap">Using PhoneGap</h2>
+
+<p>I decided to use <a href="http://en.wikipedia.org/wiki/PhoneGap">PhoneGap</a>
+for the Torchwood triangle project. This is something that could be
+done as a web app, in fact <a href="/misc/torchwood-spinning-triangle/">I did
+that too</a>, but I wanted to learn about the technology.</p>
+
+<p>If I had needed to use features not available to web apps, I could have done
+so with PhoneGap. It adds javascript objects to the DOM to provide additional
+features, for example, here is how to <a href="http://docs.phonegap.com/phonegap_camera_camera.md.html">access a
+camera</a>.</p>
+
+<p>First, I had to install the Android SDK. I also installed the eclipse plugins
+as the documentation suggested this would probably be the quickest way to get
+started. I usually prefer to work with emacs and the command line but this
+dealt with generating the boilerplate. I then downloaded and copied the
+necessary parts of PhoneGap to the project. This was all straightforward,
+following the <a href="http://www.phonegap.com/start#android">PhoneGap getting
+started guide</a>.</p>
+
+<p>I then copied my html, css and image to the project and ran it in the
+simulator. It was very slow to start, and failed with an error the first time
+but it did eventually work.</p>
+
+<h3 id="packaging">Packaging</h3>
+
+<p>I now had an Android application which worked in the simulator. I now had to
+work out how to package it and get it onto real devices. The android
+developers guide <a href="http://developer.android.com/guide/publishing/preparing.html">publishing
+section</a> was helpful at this stage.</p>
+
+<p>Some points to note:</p>
+
+<ul>
+  <li>Signing applications is mandatory but is typically done with a self signed
+key you create yourself.</li>
+  <li><a href="http://developer.android.com/guide/publishing/versioning.html">Set
+versions</a> correctly.</li>
+  <li>Remove unneeded permissions from <code>AndroidManifest.xml</code>.</li>
+  <li>Optimise performance by using <a href="http://developer.android.com/guide/developing/tools/zipalign.html">zipalign</a>.</li>
+</ul>
+
+<h3 id="distribution">Distribution</h3>
+
+<p>I now had a <code>.apk</code> file but I wasn’t sure how these could be
+distributed. I tested in the emulator and found that they can simply be
+downloaded with a web browser and the device offers to install the app. The
+usual way to do it is probably to upload to the Android Marketplace but unlike
+the Apple equivalent this is not required.</p>
+
+<p>The only problem I had now was that I don’t actually have an Android device!
+I’ll try and get someone to test it out for me tomorrow but here is the
+possibly working app for you to try just now: <a href="/misc/torchwood-spinning-triangle/Torchwood_Triangle.apk">Torchwood
+Triangle for Android</a>.</p>
+
+<p>Update: I’m afraid the Android app doesn’t show the triangle. See further
+comments on <a href="http://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html">this
+post</a>.</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Torchwood Spinning Triangle]]></title>
+    <link href="https://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms.html"/>
+    <updated>2011-08-08T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2011/08/08/Torchwood-Triangle-with-CSS-3D-Transforms</id>
+    <content type="html"><![CDATA[<style>
+  .spin {
+    -webkit-transition: all 2s linear;
+    -webkit-transform: rotateY(180deg);
+  }
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+
+<script>
+  var angle = 180;
+      setInterval(function () {
+          if (angle == 0) { angle = 180 } else { angle = 0 }
+          $(".spin").css("-webkit-transform", "rotateY(" + angle + "deg)");
+      }, 2000);
+
+</script>
+
+<svg class="spin centre" width="100px" height="100px">
+  <polygon points="0,100  50,14 100,100" fill="none" stroke="#555" stroke-width="2" /> 
+</svg>
+
+<p>
+I was watching Torchwood this evening when for some reason the spinning
+triangle suddenly made me think of CSS 3D transforms. I had to do it.
+</p>
+
+<p>
+The triangle is an inline svg. CSS specifies that transitions should be done
+smoothly over time. Javascript pokes the triangle every two seconds to rotate
+it. Requires webkit for now.
+</p>
+
+<p>Update: This seems to be the symbol of "The Families".</p>
+
+<h3>Update: A better version and Mobile Apps</h3>
+
+<p>Here is a version on its own page, with correct
+colours: <a href="http://mm0hai.net/misc/torchwood-spinning-triangle/">Torchwood
+Spinning Triangle</a>. In Chrome, it glows.</p>
+
+<h4>iPhone / iOS</h4>
+
+<p>The same version can also be installed as an iOS (iPhone, iPad, iPod) app,
+although it seems to be rather
+temperamental. Visit <a href="http://mm0hai.net/misc/torchwood-spinning-triangle/">the
+page</a> on your iOS device then press the bookmark button and select “Add to
+Home Screen”.</p>
+
+<h4>Android</h4>
+
+<p><b>Updated 22 Aug 2013:</b></p>
+
+<p>I’ve also turned it into
+a <a href="/misc/torchwood-spinning-triangle/TorchwoodTriangle_0.0.2.apk">native
+Android App</a>.<del>I have no idea if this works - I have never made an
+Android app before and I don’t even have a device to test it on! I’ll be very
+surprised and pleased to hear if it does work. If so, I might make a better
+version and put it on the Android Marketplace.</del></p>
+
+<p><ins>It didn’t work, but I have made a new version, which does work on my Samsung Galaxy S3. Let me know if it works or not for you.
+</ins></p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[List Comprehensions in Haskell]]></title>
+    <link href="https://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions.html"/>
+    <updated>2011-07-31T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2011/07/31/Haskell-List-Comprehensions</id>
+    <content type="html"><![CDATA[<h2 id="why-theyre-so-good">Why they’re so good</h2>
+
+<p>I like list comprehensions. They are concise. Until recently though, I did not
+know why. Reading <a href="http://www.cs.kent.ac.uk/people/staff/sjt/craft2e">Thompson</a>, I
+realised it is because they combine three fundamental patterns of functional
+programming with little syntax. The patterns are generate, filter, and map.</p>
+
+<p>The generation stage produces one or more lists, often using something like
+<code class="highlighter-rouge">[1..]</code>, the list of the natural numbers.  Filters are specified as comma
+separated boolean expressions.  The map operation is defined before the <code class="highlighter-rouge">|</code>.
+There is some more detail in the <a href="http://haskell.org/onlinereport/exps.html#list-comprehensions">Haskell
+Report</a>.</p>
+
+<h2 id="theyre-not-set-builder">They’re not set builder</h2>
+
+<p>It’s tempting to think of list comprehensions as set builder notation, which
+clearly they are meant to resemble. The problem is they are not and thinking
+of them this way can lead to problems when it is time to evaluate them.</p>
+
+<p>Obviously, they are lists, not sets. This will restrict how they are evaluated</p>
+<ul>
+  <li>order matters. It’s also unhelpful if you really do want a set but the way
+you write the list comprehension generates some values more than once.</li>
+</ul>
+
+<h2 id="how-you-write-them-matters">How you write them matters</h2>
+
+<p>Pure functions are (<a href="http://en.wikipedia.org/wiki/Extensionality">extensionally</a>) equal if
+the outputs are the same for all inputs. When there are several ways to write
+the same function, a perfect compiler would know the most efficient way to
+calculate each result. Unfortunately, it seems that GHC is not perfect and there
+are in practice dramatic differences in execution time depending on how
+functions are written.</p>
+
+<p>For example, when solving Project Euler problem 9, I wrote something a bit
+like this:</p>
+
+<pre><code>
+slow n = [ (a, b, c) | a &lt;- [1..n], b &lt;- [1..n], c &lt;- [1..n], 
+          (a + b + c) == n ]
+</code></pre>
+<p>Which is equal to this in result:</p>
+<pre><code>
+fast n = [ (a, b, c) | a &lt;- [1..n], b &lt;- [1..n], let c = n - (a + b), 
+          (a + b + c) == n ]
+</code></pre>
+
+<p>but not in execution time. For n = 1000, fast took less than a second and slow
+did not complete within minutes.</p>
+
+<p>I would guess GHC is using nested loops, so slow will have time complexity
+<code class="highlighter-rouge">O(n^3)</code> and fast <code class="highlighter-rouge">O(n^2)</code>.</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Relaxing with beer on the CouchDB]]></title>
+    <link href="https://mm0hai.net/blog/2011/07/19/CouchDB-Marketing.html"/>
+    <updated>2011-07-19T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2011/07/19/CouchDB-Marketing</id>
+    <content type="html"><![CDATA[<p>I thought after my <a href="/blog/2011/07/18/MongoDB-Marketing.html">last post
+on MongoDB</a> it would only be fair to do one on <a href="http://couchdb.apache.org/">CouchDB</a>. How do I know about CouchDB?
+Well, I think it shows up on hacker news less often than Mongo so the main
+reason I know about it is <a href="http://twitter.com/daleharvey/">Dale
+Harvey</a>. Dale works for <a href="http://www.couchbase.com/">Couchbase</a>
+and is sometimes seen wearing his CouchDB t-shirt in Appleton Tower, hub of <a href="http://startupcafe.co.uk/">Edinburgh’s startup scene</a> and where I
+work.</p>
+
+<p>He’s <a href="http://www.vimeo.com/16244683">spoken about CouchDB</a> at
+Edinburgh’s Tech Meetup. Most of the rest of what I know about Couch has come
+from Dale while in the pub.</p>
+
+<p>What’s the point of this post? Have a good ambassador. How do you get them?
+Make something hackers like. It probably helps to do it in a fun language like
+Erlang.</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[I accidentally the MongoDB]]></title>
+    <link href="https://mm0hai.net/blog/2011/07/18/MongoDB-Marketing.html"/>
+    <updated>2011-07-18T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2011/07/18/MongoDB-Marketing</id>
+    <content type="html"><![CDATA[<p>I read <a href="http://news.ycombinator.com/">hacker news</a> frequently and
+was generally aware of NoSQL databases. I had a feeling I should learn at
+least one of them but did not have a real plan to do so yet. Partly, this was
+because I hadn’t decided which one would be the best investment of time.</p>
+
+<p><img class="float-left rounded" src="https://farm7.static.flickr.com/6023/5955214301_56dfd34107_m.jpg" width="200" height="195" alt="MongoDB Mug" /> Then, one day, I found myself in
+the middle of a MongoDB tutorial and using a live database. What? How did that
+happen? I had <a href="http://knowyourmeme.com/memes/i-accidentally">accidentally</a> the
+MongoDB. I note I also have a MongoDB mug - I don’t even know exactly where it
+came from.</p>
+
+<p>This got me thinking about the marketing of open source products and how in
+this case it had been done so successfully. Looking back, there are many
+things people had done to get me to this point.</p>
+
+<p>First, MongoDB showed up often on hacker news. In particular, this <a href="http://www.mongly.com/tutorial/index">interactive tutorial</a>
+appeared. I thought it looked interesting and clicked it despite not really
+planning to do a tutorial at this stage. Instead of instructions to download
+and install packages, run commands and copy code in a webpage, I was presented
+with an initially rather bare screen. Within a few seconds though instructions
+started to appear. I was told “It’s easy, just enter
+<code>db.getCollectionNames();</code>” How could I not do something so simple?</p>
+
+<p>From there, the tutorial progressed, building up to more interesting tasks,
+each slightly more complicated than the last. This method of using small
+prompts avoids overwhelming the user and draws one in. After doing one or two,
+I kept going to see what interesting feature I would discover next. There were
+puzzles to solve and immediate feedback.</p>
+
+<p>Where did this tutorial come from? Well it was made by <a href="http://openmymind.net/about">Karl Seguin</a>. Why? I don’t know but
+presumably he enjoyed using it and could see that Mongo was something people
+were interested in learning. He may well have thought that because of hacker
+news activity. Maybe he wanted to get a job.</p>
+
+<p>That’s an important reason why someone may want to learn a technology - to get
+a job at a company that uses it. If the sort of companies that hackers like
+(startups doing something exciting) are using your software then hackers will
+be more likely to be interested in it and promote it for you in things like
+their blog posts. The moral would seem to be solve problems cool companies
+have. This is related to Paul Graham’s <a href="http://ycombinator.com/ideas.html">Startup Ideas We’d Like to Fund</a>
+“30. Startups for startups”.</p>
+
+<p>So why does Mongo show up so much on hacker news to start with? I suspect it
+is largely because it is a good product. It is the sort of thing hackers enjoy
+using. It is probably also something to do with <a href="http://www.10gen.com/team">the 10gen team</a> making an effort not just
+to develop it but to promote it. Note how many people have the words
+“marketing” or “community” in their blurb. Compare Couchbase, which only lists
+leadership and technical teams. Marketing is mentioned only once on the
+leadership page.</p>
+
+<p>Compare the <a href="http://couchdb.apache.org/">CouchDB</a> and <a href="http://www.mongodb.org/">MongoDB</a> websites.  Couch has fairly dense
+text (although I do like the architecture diagram up front) whereas Mongo is
+rather prettier. Also note the “Try it out” button at the top of the Mongo
+page, leading to a shell.</p>
+
+<p>Compare also the websites of <a href="http://www.couchbase.com/">Couchbase</a>
+and <a href="http://www.10gen.com/">10gen</a>, companies which support Couch
+and Mongo respectively. 10gen has “Download” and “Learn” buttons. Couchbase
+has, ironically, only marketing speak.</p>
+
+<p>So what have I learnt from this? Make your product hacker friendly. If people
+like it they will promote it for you. Make it ridiculously easy to start
+learning it. Let people know what it does quickly, with a well designed
+website.</p>
+
+<p>As for the mug, it must have come from a conference someone in the office went
+to. I would like to think this would not change my opinion on what makes a
+good database but we know it does.</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Haskell - Part 1]]></title>
+    <link href="https://mm0hai.net/blog/2011/07/17/Learning-Haskell-1.html"/>
+    <updated>2011-07-17T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2011/07/17/Learning-Haskell-1</id>
+    <content type="html"><![CDATA[<p>I’m learning Haskell at the moment, and have been doing so slowly over the
+past couple of months.</p>
+
+<p>I know many languages to some extent but have never really practiced
+functional programming seriously. I am familiar with some of the concepts,
+which I have picked up from languages with functional aspects, such as perl
+(see <a href="http://hop.perl.plover.com">Higher Order Perl</a>) and
+javascript, from speaking to a more knowledgeable friend and of course from
+wikipedia. I also started to learn common lisp a few years ago and got as far
+as reading most of a book before having to do something else. (University
+work. It was quite good at getting in the way of me learning things.)</p>
+
+<p>I decided to have another go at learning functional programming properly. It
+is an important programming style which I do not fully understand and I think
+it is important that I should. I do not like not knowing things and I feel
+stupid when talking to people who know more about programming languages.</p>
+
+<p>I think Haskell is probably the best choice as a language to learn functional
+programming because, unlike lisp, it does its best to be <a href="http://en.wikipedia.org/wiki/Purely_functional">purely functional</a>,
+that is functions have no side effects. This should force me to do things
+properly. It seems to be becoming quite popular so there is a chance people
+may even start to use it for things other than research. Also, I studied at
+Glasgow, home of the Glasgow Haskell Compiler (GHC). I’m actually in Edinburgh
+at the moment, home of <a href="http://en.wikipedia.org/wiki/ML_(programming_language)">ML</a> but if
+you have a look in lib.ed.ac.uk, you will see hunners (a Glaswegian term) of
+Haskell books, not ML.</p>
+
+<p>Another good choice for learning functional programming would be <a href="http://mitpress.mit.edu/sicp/">Structure and Interpretation of Computer
+Programs</a>, also called SICP and the Wizard Book, which uses scheme. I
+suspect it is worth following this course even if you do already know how to
+program functionally as it is generally highly thought of and I know of good
+programmers who have found it useful, despite it being designed as first year
+course.</p>
+
+<p>I first saw Haskell in second year at Glasgow when I went to a few classes on
+it. I was studying electronics too though so couldn’t officially take the
+class and I didn’t get very far. It seems I have now ended up using the
+Glasgow Haskell Compiler for the first time here in Edinburgh. :)</p>
+
+<p>Compilers and books then, which should you use? I am reading <a href="http://www.cs.kent.ac.uk/people/staff/sjt/craft2e">Thompson</a>. This
+was used for the course in Glasgow and also fills the shelves of the Edinburgh
+University library. I noticed on the book website there is actually a <a href="http://www.haskellcraft.com/craft3e/Home.html"> third edition</a> now.</p>
+
+<p>A rather more trendy book is <a href="http://learnyouahaskell.com/">Learn You
+a Haskell for Great Good!</a>. I am told this is less dry than Thomson but I’m
+not sure if soggy books are a good thing. It does have a nice picture of an
+elephant on the cover though and pretty colours on the website.</p>
+
+<p>What about a compiler and interpreter? An interactive interpreter, or REPL
+(Read Eval Print Loop) as lispers call it, is certainly a good thing to have
+and learn with. Thompson uses <a href="http://www.haskell.org/hugs/">HUGS</a>,
+which I started with but the <a href="http://www.haskell.org/ghc/">GHC</a>
+also has an interpreter, GHCi, which I have now switched to. I note that the
+latest edition of Thompson uses GHCi too. GHC seems to be the standard
+compiler so I would recommend using it. See also <a href="http://www.haskell.org/haskellwiki/Implementations">Haskell
+Implementations</a>.</p>
+
+<p>Back to what I’m doing to learn Haskell then. I’m now on Chapter 14 of
+Thompson, Algebraic Types, but skipped most of the exercises, which I intend to
+go back to. I’m also doing <a href="http://projecteuler.net/">Project
+Euler</a>. These mathematical problems seem well suited to a mathematical sort
+of language like Haskell but perhaps this is making it too easy. There is the
+old question of whether functional languages are suited to real problems, and
+the fact that I won’t know how to print “Hello, world!” until Chapter
+18.</p>
+
+<p>I think I’ll leave it at that for now but I intend to say more in further
+posts.</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Deleting Code]]></title>
+    <link href="https://mm0hai.net/blog/2011/06/07/Deleting-Code.html"/>
+    <updated>2011-06-07T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2011/06/07/Deleting-Code</id>
+    <content type="html"><![CDATA[<blockquote>
+<p>
+My working method has more often than not involved the subtraction of
+weight. I have tried to remove weight, sometimes from people, sometimes from
+heavenly bodies, sometimes from cities; above all I have tried to remove
+weight from the structure of stories and from language.&nbsp;.&nbsp;.&nbsp;. Maybe I was only
+then becoming aware of the weight, the inertia, the opacity of the world
+-- qualities that stick to the writing from the start, unless one finds
+some way of evading them.
+<p>
+<p>
+-- Italo Calvino, Six Memos for the Next Millenium (Cambridge, 1988), p. 3-4
+<p>
+&lt;/blockquote&gt;
+
+
+<blockquote>
+<p>
+A vessel is useful only through its emptiness. It is the space opened in a
+wall that serves as a window. Thus it is the nonexistent in things which makes
+them serviceable.
+</p>
+
+<p>
+-- Lao Tse, Seen in Tufte, Envisioning Information p 65.
+</p>
+</blockquote>
+
+<blockquote>
+<p>I saw the angel in the marble and carved until I set him free.</p>
+
+<p>-- Michelangelo</p>
+</blockquote>
+</p></p></p></p></blockquote>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My introduction to the Arduino platform]]></title>
+    <link href="https://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html"/>
+    <updated>2011-05-25T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino</id>
+    <content type="html"><![CDATA[<p>I have been meaning to do several microcontroller based projects for some time
+now. Ideally I wanted to do it without spending any money so I decided to make
+myself a PIC programmer with some samples from Microchip. This would also make
+the process more interesting.</p>
+
+<p>The plan was to make a <a href="http://usbpicprog.org/">usbpicprog</a> and
+bootstrap it with a serial port based programmer using an old computer.  I
+bought all the parts, including copper clad board and ferric chloride but
+never quite got round to doing it. This was in part because I was not very
+keen to have to work with ferric chloride and I didn’t want to dissolve the
+sink.</p>
+
+<p>Meanwhile, I had been hearing about the Arduino more and more. Initially I
+ignored it as something for artists and people who didn’t know what they were
+doing. I had spent some time at university learning about and using real
+microcontrollers with none of this boot loader nonsense so I did not think I
+needed such things. Then I realised that being leet enough not to require
+simplification did not make quicker development a bad thing. :-) I decided I
+had wasted enough time and just wanted to get something done, so I bought an
+Arduino.</p>
+
+<p><img src="https://farm6.static.flickr.com/5223/5773580603_eee48af87b.jpg" width="500" height="375" alt="Seeeduino and ethernet shield" /></p>
+
+<p>I actually chose the seeedunio, an Arduino clone. The design is open so this
+is allowed and in fact there are some improvements made in the
+seeeduino. Primarily I chose it though because it was the cheapest. I still
+don’t like the idea of paying decapounds for a single basic microcontroller
+and some soldering. I also ordered an ethernet shield, which is what an
+expansion card is called in the Arduino world. These arrived yesterday.</p>
+
+<p>It took me longer than I would have liked to get started, with the blinking LED
+hello world of microcontrollers, because there were no instructions about the
+correct settings. After some googling and trial and error I determined that I
+had to set the reset switch on the board to auto and, in the Arduino IDE, set
+the board type to <type>Deumilanove or Nano w/ ATmega328</type>.  After that
+I very quickly had it beaconing my callsign on the board mounted LED attached
+to pin 13. So far quite reasonable.</p>
+
+<p>Then I decided to plug in the ethernet board and run the example programs.  I
+had to stick all the source files in the same directory and change the ip
+address and then I was pinging the board. It took only a few minutes. This I
+thought was pretty ridiculous. Then I used the web server program. It
+worked. I couldn’t really believe this - this did not seem like electronics at
+all. I would expect this to have taken weeks of debugging, loose wires, errors
+in PCB design, software bugs and frustration but here it was working in a few
+minutes with no test gear in sight. I have certainly confirmed my get things
+done faster conjecture.</p>
+
+<p>It was not quite as good though when I wanted to connect stuff up to it. The
+board did not come with a data sheet and I could not find much at all online.
+In the end I went to Atmel’s web site and downloaded the datasheet for the
+ATmega328P on my board. Included below are some useful figures from it.</p>
+
+<h1 id="reference">Reference</h1>
+
+<h2 id="seeeduino---summary-of-initial-setup">Seeeduino - Summary of Initial Setup</h2>
+
+<p>I am using the Seeeduino V2.21 which is also marked ARD128D2P.</p>
+
+<p>It uses the ATmega328P.</p>
+
+<p>This is the error I got initially:</p>
+
+<p><code>avrdude: stk500_disable(): protocol error, expect=0x14, resp=0x00</code></p>
+
+<p>The solution:</p>
+
+<ul>
+  <li>Move reset switch to auto</li>
+  <li>Set board type to <code>Deumilanove or Nano w/ ATmega328</code>.</li>
+</ul>
+
+<h1 id="atmega328p-data">ATmega328P Data</h1>
+
+<h2 id="absolute-maximums">Absolute Maximums</h2>
+
+<table>
+<tr><td>Operating Temperature</td><td>-55°C to +125°C</td></tr>
+<tr><td>Voltage on any Pin except RESET with respect to Ground</td> <td>-0.5V to VCC+0.5V</td></tr>
+<tr><td>Maximum Operating Voltage</td><td>6.0V</td></tr>
+<tr><td>DC Current per I/O Pin</td><td>40.0mA&lt;/tr&gt;
+<tr><td>DC Current VCC and GND Pins</td><td>200.0mA</td></tr>
+&lt;/table&gt;
+
+Programming
+-----------
+
+The Arduino environment uses C but with some magic, see
+<a href="http://arduino.cc/en/Hacking/BuildProcess">Arduino Build Process</a>.
+
+
+Ethernet board
+--------------
+
+It's ENC28J60 based. This is not the same as the official one, which uses the
+Wiznet W5100.
+
+Bought from <a href="http://www.ekitszone.com/Products/4-enc28j60-ethernet-shield-for-arduino.aspx">ekitszone</a>.
+Looks well made and works.
+</td></tr></table>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Python Edinburgh Mini Conference]]></title>
+    <link href="https://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference.html"/>
+    <updated>2011-05-22T00:00:00+02:00</updated>
+    <id>https://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference</id>
+    <content type="html"><![CDATA[<p>This weekend we had the <a href="http://www.pythonedinburgh.org/wiki/2011-May-Mini-Conference">Python
+Edinburgh Mini Conference</a>. I don’t really use python, as I typically use
+perl for the sorts of things I might want it for, but I thought it would be
+interesting to go along and see what was happening in the python world.</p>
+
+<p>I thought it would probably be helpful if I actually knew some python, so on
+Friday night after the pub I went home to learn. It’s just pseudocode with
+spaces, right? I wasn’t actually a complete beginner - I had a play with it a
+couple of months ago when I wrote map and reduce scripts to implement a search
+indexer with Hadoop and solved a few of the Project Euler problems.</p>
+
+<p>It looked like the conference was going to have a large django component so I
+did the <a href="http://docs.djangoproject.com/en/dev/intro/tutorial01/">tutorial</a>. It
+was very straightforward and I had an application running that evening. My
+main concern with the tutorial was that there was no magical pony on a stick.</p>
+
+<p><img alt="Django pony" src="http://dl-web.dropbox.com/u/10320/django/wallpaper/magic-django-pony-iphone.png" /></p>
+
+<p>I discovered <a href="http://www.tipfy.org">Tipfy</a>, a framework for Google
+App Engine. One of the things that got me wondering if I should be using more
+python and less perl is that there are PaaS providers only for the former, so
+this is probably worth looking at more closely. I’ve also heard good things
+about <a href="http://www.nltk.org">NLTK</a> which I would like to play with
+some time.</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Github Punchcard - Visualising Commit Times]]></title>
+    <link href="https://mm0hai.net/blog/2011/03/11/github-punchcard.html"/>
+    <updated>2011-03-11T00:00:00+01:00</updated>
+    <id>https://mm0hai.net/blog/2011/03/11/github-punchcard</id>
+    <content type="html"><![CDATA[<p>I pushed my <a href="/life/life.html">HTML5 Game of Life</a> to
+<a href="https://github.com/anm/HTML5-Game-of-Life/">github</a> today. I hadn’t
+noticed it before, but github generates some charts of commit
+activity. This is what I got for my life project.</p>
+
+<p><img width="680px" src="https://chart.googleapis.com/chart?chs=800x300&amp;chds=-1,24,-1,7,0,8&amp;chf=bg,s,efefef&amp;chd=t:0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7|1,0,2,0,3,0,0,2,0,0,0,0,0,8,0,0,0,0,6,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,7,5,0,0,0,0,0,4,3,0,2,0,0,0,1,0,0,0,0,2,2,1,0,0,0,5,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,0,2,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,3,1,1,1,0,0,0,0,0,0,0,4,0,0,0,2,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,3,3,2,1,0,1,2,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0&amp;chxt=x,y&amp;chm=o,333333,1,1.0,25.0&amp;chxl=0:||12am|1|2|3|4|5|6|7|8|9|10|11|12pm|1|2|3|4|5|6|7|8|9|10|11||1:||Sun|Mon|Tue|Wed|Thr|Fri|Sat|&amp;cht=s" alt="Punchcard showing commit times" title="Commit Activity by Day and Hour" /></p>
+
+<p>My work is fairly evenly spread out, as I would expect. It looks like
+I don’t work much on Fridays or Saturday nights though. How strange.</p>
+
+<p>I’m sure there are various fun things I could do with this sort of
+data. Perhaps classify coders into categories like crepuscular,
+diurnal, and nocturnal. What about matching up to people who like to
+work at the same time? Or sleep at the same time. :-) I must make a
+hacker dating site at once.</p>
+]]></content>
+   
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rewriting git commit message history across multiple branches]]></title>
+    <link href="https://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history.html"/>
+    <updated>2011-03-10T00:00:00+01:00</updated>
+    <id>https://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history</id>
+    <content type="html"><![CDATA[<p>The usual way to modify a previous git commit is to rebase interactively:</p>
+
+<pre><code class="block">git rebase -i &lt;parent of oldest commit to edit&gt;</code></pre>
+
+<p>This lets you modify the past commit and then it reapplies all commits
+in the current branch since then on top of the modified commit.</p>
+
+<p>This is all you need if you only have one branch. This time, however,
+I had multiple branches splitting off after the commit I had to
+change. When I used the rebase technique, the other branches remained
+along with the unmodified commit they were based on.</p>
+
+<p>I decided to try a different approach - I used <code>filter-branch</code>.</p>
+
+<p><code class="highlighter-rouge">filter-branch</code> is very powerful and has many options. In this case, I
+only wanted to rewrite a commit message, so I used the
+<code>--msg-filter</code> option. This pipes each message to a shell
+command and replaces it with the output of that command - perfect in
+conjunction with sed. This method, unlike rebasing onto a single
+edited commit, lets you programmatically edit all commit messages</p>
+
+<p>One of the things I wanted to do was remove the comments that had been
+added by git-svn. This command did the trick:</p>
+
+<p><code class="block">git filter-branch -f --msg-filter 'sed "s/git-svn.*$//g"' -- --all</code></p>
+
+<p>If you have any tags, you should add <code>--tag-name-filter cat</code>. This
+updates the tags to point to the modified commits. It’s more complicated if
+the tags are signed - see the <code>git-fliter-branch</code> man page for
+details.</p>
+
+<p>Before this operation, git makes a backup, referred to as the
+original. If there is already a backup git will, be default, refuse to
+run the command, as doing so would overwrite the existing backup with
+a new one. Use <code class="highlighter-rouge">-f</code> to force it.</p>
+
+<p><code class="highlighter-rouge">-- --all</code> applies the filter to all branches. Alternatively, single
+branch names can be given.</p>
+
+<p>The above commands have taken care of modifying our commits but they
+have not removed the originals, which have been kept as backups. To
+purge these from the repository, you need to remove all references to
+them and then run the garbage collector.</p>
+
+<p>Edit these files to delete any lines which refer to the original commits:</p>
+<pre class="block">
+<code class="block">
+.git/info/refs
+.git/packed-refs
+</code>
+</pre>
+
+<p>And do this:</p>
+<pre class="block">
+<code class="block">
+rm -rf .git/refs/original
+rm -rf .git/logs/
+</code>
+</pre>
+
+<p>Now garbage collect:</p>
+<pre class="block">
+<code class="block">
+git gc --prune=now
+</code>
+</pre>
+]]></content>
+   
+  </entry>
+  
+</feed>
