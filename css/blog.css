@@ -113,15 +113,6 @@ a:hover {
     margin-bottom: 2em;
 }
 
-#disqus table, #disqus th, #disques td {
-    border: none;
-}
-
-#disqus {
-    margin-top: 1em;
-    width: 80%;
-}
-
 #tags {
     margin-top: 1em;
 }

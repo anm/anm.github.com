@@ -24,8 +24,11 @@ headers: <link href="/atom.xml" type="application/atom+xml" rel="alternate" titl
 {% include id_card.html %}
 
 <footer>
-<p>If you found this interesting, you
-should <a href="https://twitter.com/rivermacleod" rel="me">follow me on twitter</a>.</p>
+  <p>If you found this interesting, you should
+     <a href="https://twitter.com/rivermacleod" rel="me">follow me on twitter</a>.
+  <br />
+  You can send comments to web @ this domain.
+  </p>
 
 <div id="tags">
 Tagged:
@@ -37,26 +40,3 @@ Tagged:
 </div>
 </footer>
 </article>
-
-<hr />
-<p>Please send comments and corrections to mm0hai @ this domain or use
-the commenting system below.</p>
-
-<div id="disqus">
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-    // var disqus_developer = 1;
-    var disqus_shortname = 'mm0hai';
-    var disqus_identifier = '{{ page.id }}';
-    var disqus_url = 'https://mm0hai.net{{ page.url }}';
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-  </script>
-</div>
-
-<noscript>Please enable JavaScript to view
-the <a href="//disqus.com/?ref_noscript">comments powered by
-Disqus.</a></noscript>
