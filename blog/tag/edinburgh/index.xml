@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged edinburgh]]></title>
 
-  <link href="https://mm0hai.net/blog/tag/edinburgh/index.xml" rel="self"/>
-  <link href="https://mm0hai.net/"/>
-  <updated>2017-11-06T20:31:52+01:00</updated>
-  <id>https://mm0hai.net/blog/tag/edinburgh</id>
+  <link href="http://localhost:4000/blog/tag/edinburgh/index.xml" rel="self"/>
+  <link href="http://localhost:4000/"/>
+  <updated>2018-01-13T14:46:33+01:00</updated>
+  <id>http://localhost:4000/blog/tag/edinburgh</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Imbolc at Roslin]]></title>
-    <link href="https://mm0hai.net/blog/2016/02/01/Green-Men-Roslin.html"/>
+    <link href="http://localhost:4000/blog/2016/02/01/Green-Men-Roslin.html"/>
     <updated>2016-02-01T00:00:00+01:00</updated>
-    <id>https://mm0hai.net/blog/2016/02/01/Green-Men-Roslin</id>
+    <id>http://localhost:4000/blog/2016/02/01/Green-Men-Roslin</id>
     <content type="html"><![CDATA[<p><img src="https://c2.staticflickr.com/6/5692/30807680401_1b5b012ba5_z.jpg" width="640" height="480" alt="Rosslyn Chapel in the Snow" /></p>
 
 <p><img src="https://c7.staticflickr.com/6/5327/30594839350_c2c7a67eac_z.jpg" width="640" height="480" alt="Rosslyn Glen Snow" /></p>
@@ -48,9 +48,9 @@ interesting to find one here. I walked round it.</p>
   
   <entry>
     <title type="html"><![CDATA[IndieWebCamp Edinburgh]]></title>
-    <link href="https://mm0hai.net/blog/2015/07/26/Indie-Web-Camp-Edinburgh.html"/>
+    <link href="http://localhost:4000/blog/2015/07/26/Indie-Web-Camp-Edinburgh.html"/>
     <updated>2015-07-26T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2015/07/26/Indie-Web-Camp-Edinburgh</id>
+    <id>http://localhost:4000/blog/2015/07/26/Indie-Web-Camp-Edinburgh</id>
     <content type="html"><![CDATA[<p><img width="640" src="https://indieweb.org/images/8/84/2015-07-25_Edinburgh.jpg" alt="IndieWebCamp Edinburgh group photo" /></p>
 
 <p>At the weekend, I attended an <a href="https://indieweb.org/2015/Edinburgh">IndieWebCamp in Edinburgh</a>.</p>
@@ -87,9 +87,9 @@ in building or running a website themselves, which they can have control over.</
   
   <entry>
     <title type="html"><![CDATA[Python Edinburgh Mini Conference]]></title>
-    <link href="https://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference.html"/>
+    <link href="http://localhost:4000/blog/2011/05/22/Python-Edinburgh-Mini-Conference.html"/>
     <updated>2011-05-22T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference</id>
+    <id>http://localhost:4000/blog/2011/05/22/Python-Edinburgh-Mini-Conference</id>
     <content type="html"><![CDATA[<p>This weekend we had the <a href="http://www.pythonedinburgh.org/wiki/2011-May-Mini-Conference">Python
 Edinburgh Mini Conference</a>. I don’t really use python, as I typically use
 perl for the sorts of things I might want it for, but I thought it would be

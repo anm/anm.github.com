@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged electronics]]></title>
 
-  <link href="https://mm0hai.net/blog/tag/electronics/index.xml" rel="self"/>
-  <link href="https://mm0hai.net/"/>
-  <updated>2017-11-06T20:31:52+01:00</updated>
-  <id>https://mm0hai.net/blog/tag/electronics</id>
+  <link href="http://localhost:4000/blog/tag/electronics/index.xml" rel="self"/>
+  <link href="http://localhost:4000/"/>
+  <updated>2018-01-13T14:46:33+01:00</updated>
+  <id>http://localhost:4000/blog/tag/electronics</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Oiling Thinkpad X61 fans]]></title>
-    <link href="https://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html"/>
+    <link href="http://localhost:4000/blog/2014/04/11/Servicing-Thinkpad-X61-Fans.html"/>
     <updated>2014-04-11T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2014/04/11/Servicing-Thinkpad-X61-Fans</id>
+    <id>http://localhost:4000/blog/2014/04/11/Servicing-Thinkpad-X61-Fans</id>
     <content type="html"><![CDATA[<p>I previously wrote about oiling the
 <a href="/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"> noisy fan in a
 Thinkpad X60s</a>. You should read that post first if you want to do this,
@@ -45,9 +45,9 @@ the x60s has of a burning hot palm rest.</p>
   
   <entry>
     <title type="html"><![CDATA[First Test of Solar Charger]]></title>
-    <link href="https://mm0hai.net/blog/2012/12/14/First-Test-of-Solar-Charger.html"/>
+    <link href="http://localhost:4000/blog/2012/12/14/First-Test-of-Solar-Charger.html"/>
     <updated>2012-12-14T00:00:00+01:00</updated>
-    <id>https://mm0hai.net/blog/2012/12/14/First-Test-of-Solar-Charger</id>
+    <id>http://localhost:4000/blog/2012/12/14/First-Test-of-Solar-Charger</id>
     <content type="html"><![CDATA[<p>I designed and built a charger for Thinkpad batteries before I left, but there
 was not enough sun in Scotland to test it properly. Today in Tulum I tried it
 for real for the first time.</p>
@@ -69,9 +69,9 @@ I measure voltages.</p>
   
   <entry>
     <title type="html"><![CDATA[Making a Solar Panel Mount for a Bike]]></title>
-    <link href="https://mm0hai.net/blog/2012/10/09/Building-the-Solar-Mounting.html"/>
+    <link href="http://localhost:4000/blog/2012/10/09/Building-the-Solar-Mounting.html"/>
     <updated>2012-10-09T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/10/09/Building-the-Solar-Mounting</id>
+    <id>http://localhost:4000/blog/2012/10/09/Building-the-Solar-Mounting</id>
     <content type="html"><![CDATA[<p>I had chosen to use a 15W, monocrystaline panel mounted under glass in a metal
 frame. It was made by ET Solar and bought on ebay for 33 GBP. This seems like
 a good panel, but it weighs 2kg and measures 450 x 299 x 35 mm. I had to find
@@ -181,9 +181,9 @@ worked though.</p>
   
   <entry>
     <title type="html"><![CDATA[Teardown: (Probably fake) Griffin USB Car Charger (FAIL)]]></title>
-    <link href="https://mm0hai.net/blog/2012/09/30/Griffin-USB-Car-Charger.html"/>
+    <link href="http://localhost:4000/blog/2012/09/30/Griffin-USB-Car-Charger.html"/>
     <updated>2012-09-30T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/09/30/Griffin-USB-Car-Charger</id>
+    <id>http://localhost:4000/blog/2012/09/30/Griffin-USB-Car-Charger</id>
     <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/mm0hai/8045423849/" title="Griffin PowerJolt Dual Universal Micro by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8312/8045423849_f1d5c13f51_n.jpg" width="320" height="263" alt="Griffin PowerJolt Dual Universal Micro" /></a></p>
 
 <p>After my previous <a href="/blog/2012/08/01/Message-to-an-ebay-seller.html">teardown of an MC34063
@@ -232,9 +232,9 @@ imitation branded electronics on ebay.</p>
   
   <entry>
     <title type="html"><![CDATA[River Song - Music Hack Day Scotland]]></title>
-    <link href="https://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland.html"/>
+    <link href="http://localhost:4000/blog/2012/08/26/Music-Hack-Day-Scotland.html"/>
     <updated>2012-08-26T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/08/26/Music-Hack-Day-Scotland</id>
+    <id>http://localhost:4000/blog/2012/08/26/Music-Hack-Day-Scotland</id>
     <content type="html"><![CDATA[<p>This weekend saw a music hack day in Edinburgh. I signed up with a couple of
 ideas of things I might do but I wasn’t really sure if I’d get much done. In
 the end my hack was quite successful and I won an iPad!</p>
@@ -327,9 +327,9 @@ worked!</p>
   
   <entry>
     <title type="html"><![CDATA[Servicing a Thinkpad x60s Fan and cooling system]]></title>
-    <link href="https://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"/>
+    <link href="http://localhost:4000/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan.html"/>
     <updated>2012-08-06T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan</id>
+    <id>http://localhost:4000/blog/2012/08/06/Servicing-a-Thinkpad-x60s-fan</id>
     <content type="html"><![CDATA[<p>The fan in my x60s had started to sound rough. I was worried it was going to
 die soon, which would be very inconvenient when cycle touring or in
 mid-nowhere. I thought I should probably replace it but decided to try and fix
@@ -402,9 +402,9 @@ fans</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Coderace, and trying an Android phone for navigation]]></title>
-    <link href="https://mm0hai.net/blog/2012/08/04/Coderace.html"/>
+    <link href="http://localhost:4000/blog/2012/08/04/Coderace.html"/>
     <updated>2012-08-04T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/08/04/Coderace</id>
+    <id>http://localhost:4000/blog/2012/08/04/Coderace</id>
     <content type="html"><![CDATA[<p><img width="640" src="http://www.coderace.co.uk/images/Event2012/Screenshot2.jpg" alt="Final game map" /></p>
 
 <p>Today I participated in an event called <a href="http://www.coderace.co.uk/">Coderace</a> with a team from the <a href="http://edinburghhacklab.com/">Edinburgh Hacklab</a>.</p>
@@ -460,9 +460,9 @@ the situation is ridiculous.</p>
   
   <entry>
     <title type="html"><![CDATA[Ebay MC34063 based USB car PSU]]></title>
-    <link href="https://mm0hai.net/blog/2012/08/01/Message-to-an-ebay-seller.html"/>
+    <link href="http://localhost:4000/blog/2012/08/01/Message-to-an-ebay-seller.html"/>
     <updated>2012-08-01T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/08/01/Message-to-an-ebay-seller</id>
+    <id>http://localhost:4000/blog/2012/08/01/Message-to-an-ebay-seller</id>
     <content type="html"><![CDATA[<p>I bought this on ebay for £1.17 including postage, but it was worse than my low expectations.</p>
 
 <p><a href="https://www.flickr.com/photos/mm0hai/7688389772/" title="MC34063 based USB car charger by mm0hai, on Flickr"><img src="https://farm9.staticflickr.com/8430/7688389772_f9b45bed93_n.jpg" width="320" height="291" alt="MC34063 based USB car charger" /></a></p>
@@ -500,9 +500,9 @@ selling it.</p>
   
   <entry>
     <title type="html"><![CDATA[Constant Current Load]]></title>
-    <link href="https://mm0hai.net/blog/2012/08/01/Constant-Current-Load.html"/>
+    <link href="http://localhost:4000/blog/2012/08/01/Constant-Current-Load.html"/>
     <updated>2012-08-01T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/08/01/Constant-Current-Load</id>
+    <id>http://localhost:4000/blog/2012/08/01/Constant-Current-Load</id>
     <content type="html"><![CDATA[<p>I have been designing power supplies and testing solar panels recently. An
 easily and finely adjustable constant current load is very useful for these
 tasks, so I made one.</p>
@@ -534,9 +534,9 @@ convenient if it had a current meter though.</p>
   
   <entry>
     <title type="html"><![CDATA[How to kill a MOSFET]]></title>
-    <link href="https://mm0hai.net/blog/2012/07/09/How-to-Kill-a-MOSFET.html"/>
+    <link href="http://localhost:4000/blog/2012/07/09/How-to-Kill-a-MOSFET.html"/>
     <updated>2012-07-09T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/07/09/How-to-Kill-a-MOSFET</id>
+    <id>http://localhost:4000/blog/2012/07/09/How-to-Kill-a-MOSFET</id>
     <content type="html"><![CDATA[<p>I’ve been making a constant current load for testing power supplies and solar
 panels. I’ve killed two MOSFETs so far and now learned something about why.</p>
 
@@ -582,9 +582,9 @@ question on stackexchange</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Testing a Maplin Solar Briefcase and Maximum Power Point]]></title>
-    <link href="https://mm0hai.net/blog/2012/06/27/Maplin-Solar-Briefcase.html"/>
+    <link href="http://localhost:4000/blog/2012/06/27/Maplin-Solar-Briefcase.html"/>
     <updated>2012-06-27T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/06/27/Maplin-Solar-Briefcase</id>
+    <id>http://localhost:4000/blog/2012/06/27/Maplin-Solar-Briefcase</id>
     <content type="html"><![CDATA[<p>I was in Maplin a while ago and saw a 5W solar panel for sale for £15. I
 bought it with a vague idea of using it to power <a href="/radio">my radio</a>
 on <a href="/sota">expeditions</a> but mostly just for interest and to learn.</p>
@@ -630,9 +630,9 @@ which I’m working on now.</p>
   
   <entry>
     <title type="html"><![CDATA[Cheap but not rubbish multimeters available in the UK]]></title>
-    <link href="https://mm0hai.net/blog/2012/05/21/Multimeters-available-in-UK.html"/>
+    <link href="http://localhost:4000/blog/2012/05/21/Multimeters-available-in-UK.html"/>
     <updated>2012-05-21T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2012/05/21/Multimeters-available-in-UK</id>
+    <id>http://localhost:4000/blog/2012/05/21/Multimeters-available-in-UK</id>
     <content type="html"><![CDATA[<p>I used to have only cheap and nasty multimeters, but Dave Jones of the EEVBlog
 convinced me that it was worth getting a <a href="https://www.youtube.com/watch?v=ZoeUgMFLyAw">half decent</a> one. I like
 his videos; they are worth watching to learn about meters in general as well
@@ -651,9 +651,9 @@ better deal but I have no data on their quality.</p>
   
   <entry>
     <title type="html"><![CDATA[Teardown: Vivitar Charger for Canon NB2L Battery]]></title>
-    <link href="https://mm0hai.net/blog/2012/03/14/Vivitar-lithium-battery-charger.html"/>
+    <link href="http://localhost:4000/blog/2012/03/14/Vivitar-lithium-battery-charger.html"/>
     <updated>2012-03-14T00:00:00+01:00</updated>
-    <id>https://mm0hai.net/blog/2012/03/14/Vivitar-lithium-battery-charger</id>
+    <id>http://localhost:4000/blog/2012/03/14/Vivitar-lithium-battery-charger</id>
     <content type="html"><![CDATA[<p>I bought this battery charger with a Canon EOS 350D, my first SLR. I wanted to
 check if it was any good before I trusted it with a new battery. I am designing
 a power system for my bike at the moment and have been reading about batteries
@@ -751,9 +751,9 @@ use it for now but would really prefer something better.</p>
   
   <entry>
     <title type="html"><![CDATA[SGC SG-211 Mini Smartuner Teardown]]></title>
-    <link href="https://mm0hai.net/blog/2011/06/02/SGC-211-autotuner.html"/>
+    <link href="http://localhost:4000/blog/2011/06/02/SGC-211-autotuner.html"/>
     <updated>2011-06-02T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2011/06/02/SGC-211-autotuner</id>
+    <id>http://localhost:4000/blog/2011/06/02/SGC-211-autotuner</id>
     <content type="html"><![CDATA[<p>My<sup>1</sup> SGC autotuner had an accident when I stupidly put it down on a
 bench. The boat heeled and it landed on the connector, bending it. Luckily the
 connector was mounted on the case and wired up, rather than soldered directly
@@ -801,9 +801,9 @@ is a PIC.</p>
   
   <entry>
     <title type="html"><![CDATA[My introduction to the Arduino platform]]></title>
-    <link href="https://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html"/>
+    <link href="http://localhost:4000/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino.html"/>
     <updated>2011-05-25T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino</id>
+    <id>http://localhost:4000/blog/2011/05/25/Arduino-Getting-started-with-Seeeduino</id>
     <content type="html"><![CDATA[<p>I have been meaning to do several microcontroller based projects for some time
 now. Ideally I wanted to do it without spending any money so I decided to make
 myself a PIC programmer with some samples from Microchip. This would also make
