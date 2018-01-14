@@ -40,8 +40,8 @@ over the body. Sensation means any feeling such as hot, cold, itching, pain,
 movement of air, etc. While doing this, we were to maintain equanimity and the
 awareness of anicca, a Pali word which means change. Equanimity meant we were
 not to judge sensation as good or bad, not to be averse to pain, or crave
-pleasant sensations. We were also to observe that all sensations are temporary
-- they will go away eventually. This was one way to avoid reacting too much to
+pleasant sensations. We were also to observe that all sensations are temporary -
+they will go away eventually. This was one way to avoid reacting too much to
 the pain.
 
 The theory is that, as Goenka says Gautama Buddha taught, suffering is caused
