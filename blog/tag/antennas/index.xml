@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged antennas]]></title>
 
-  <link href="https://mm0hai.net/blog/tag/antennas/index.xml" rel="self"/>
-  <link href="https://mm0hai.net/"/>
-  <updated>2018-01-14T19:05:55+01:00</updated>
-  <id>https://mm0hai.net/blog/tag/antennas</id>
+  <link href="http://localhost:4000/blog/tag/antennas/index.xml" rel="self"/>
+  <link href="http://localhost:4000/"/>
+  <updated>2018-02-07T17:59:26+00:00</updated>
+  <id>http://localhost:4000/blog/tag/antennas</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 3 - Illustration]]></title>
-    <link href="https://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html"/>
-    <updated>2011-03-25T00:00:00+01:00</updated>
-    <id>https://mm0hai.net/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3</id>
+    <link href="http://localhost:4000/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3.html"/>
+    <updated>2011-03-25T00:00:00+00:00</updated>
+    <id>http://localhost:4000/blog/2011/03/25/HF-Bicycle-Mobile-Experiment-Part-3</id>
     <content type="html"><![CDATA[<p>Today the unusually good weather required me to take the bike out for
 a spin. I took some photos and video of the station while I was
 out. It’s described in more detail in <a rel="start" href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">Part
@@ -51,9 +51,9 @@ the J-Pole though.</p>
   
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 2]]></title>
-    <link href="https://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html"/>
-    <updated>2011-03-21T00:00:00+01:00</updated>
-    <id>https://mm0hai.net/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2</id>
+    <link href="http://localhost:4000/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2.html"/>
+    <updated>2011-03-21T00:00:00+00:00</updated>
+    <id>http://localhost:4000/blog/2011/03/21/HF-Bicycle-Mobile-Experiment-Part-2</id>
     <content type="html"><![CDATA[<p>This evening I tested the antenna system described in my <a rel="prev" href="/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html">last
 post</a>, as well as a 2m J-pole.</p>
 
@@ -144,9 +144,9 @@ K-Index 1</p>
   
   <entry>
     <title type="html"><![CDATA[HF Bicycle Mobile Experiment - Part 1]]></title>
-    <link href="https://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html"/>
-    <updated>2011-03-19T00:00:00+01:00</updated>
-    <id>https://mm0hai.net/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1</id>
+    <link href="http://localhost:4000/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1.html"/>
+    <updated>2011-03-19T00:00:00+00:00</updated>
+    <id>http://localhost:4000/blog/2011/03/19/HF-Bicycle-Mobile-Experiment-Part-1</id>
     <content type="html"><![CDATA[<p>Today I decided to make an HF antenna for my bike. I did an experiment
 with this once last year but it was not terribly successful. That
 experiment used the <a href="http://www.g4ilo.com/atx.html">ATX

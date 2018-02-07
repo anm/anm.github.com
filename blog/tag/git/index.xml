@@ -6,7 +6,7 @@
 
   <link href="https://mm0hai.net/blog/tag/git/index.xml" rel="self"/>
   <link href="https://mm0hai.net/"/>
-  <updated>2018-01-14T19:05:55+01:00</updated>
+  <updated>2018-02-07T17:59:18+00:00</updated>
   <id>https://mm0hai.net/blog/tag/git</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Github Punchcard - Visualising Commit Times]]></title>
     <link href="https://mm0hai.net/blog/2011/03/11/github-punchcard.html"/>
-    <updated>2011-03-11T00:00:00+01:00</updated>
+    <updated>2011-03-11T00:00:00+00:00</updated>
     <id>https://mm0hai.net/blog/2011/03/11/github-punchcard</id>
     <content type="html"><![CDATA[<p>I pushed my <a href="/life/life.html">HTML5 Game of Life</a> to
 <a href="https://github.com/anm/HTML5-Game-of-Life/">github</a> today. I hadn’t
@@ -40,7 +40,7 @@ hacker dating site at once.</p>
   <entry>
     <title type="html"><![CDATA[Rewriting git commit message history across multiple branches]]></title>
     <link href="https://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history.html"/>
-    <updated>2011-03-10T00:00:00+01:00</updated>
+    <updated>2011-03-10T00:00:00+00:00</updated>
     <id>https://mm0hai.net/blog/2011/03/10/rewriting-git-commit-message-history</id>
     <content type="html"><![CDATA[<p>The usual way to modify a previous git commit is to rebase interactively:</p>
 

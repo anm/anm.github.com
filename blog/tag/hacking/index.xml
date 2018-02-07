@@ -6,7 +6,7 @@
 
   <link href="https://mm0hai.net/blog/tag/hacking/index.xml" rel="self"/>
   <link href="https://mm0hai.net/"/>
-  <updated>2018-01-14T19:05:55+01:00</updated>
+  <updated>2018-02-07T17:59:18+00:00</updated>
   <id>https://mm0hai.net/blog/tag/hacking</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Reïmplementing PirateBox]]></title>
     <link href="https://mm0hai.net/blog/2017/11/01/Re%C3%AFmplementing-PirateBox.html"/>
-    <updated>2017-11-01T00:00:00+01:00</updated>
+    <updated>2017-11-01T00:00:00+00:00</updated>
     <id>https://mm0hai.net/blog/2017/11/01/Reïmplementing-PirateBox</id>
     <content type="html"><![CDATA[<p>After using Piratebox for a while, I decided I could do the same thing in a
 way I liked better.</p>
@@ -95,7 +95,7 @@ checked exactly what or where droopy is going to allow uploads…</p>
   <entry>
     <title type="html"><![CDATA[Pirate Box]]></title>
     <link href="https://mm0hai.net/blog/2017/10/30/PirateBox.html"/>
-    <updated>2017-10-30T00:00:00+01:00</updated>
+    <updated>2017-10-30T00:00:00+00:00</updated>
     <id>https://mm0hai.net/blog/2017/10/30/PirateBox</id>
     <content type="html"><![CDATA[<p><img width="50%" class="block-centre" src="/res/2017-10-30-PirateBox/PirateBox-logo.svg" alt="PirateBox logo" /></p>
 

@@ -4,10 +4,10 @@
 
   <title><![CDATA[River MacLeod, MM0HAI: Posts tagged python]]></title>
 
-  <link href="https://mm0hai.net/blog/tag/python/index.xml" rel="self"/>
-  <link href="https://mm0hai.net/"/>
-  <updated>2018-01-14T19:05:55+01:00</updated>
-  <id>https://mm0hai.net/blog/tag/python</id>
+  <link href="http://localhost:4000/blog/tag/python/index.xml" rel="self"/>
+  <link href="http://localhost:4000/"/>
+  <updated>2018-02-07T17:59:26+00:00</updated>
+  <id>http://localhost:4000/blog/tag/python</id>
   <author>
     <name><![CDATA[River MacLeod]]></name>
   </author>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Python Edinburgh Mini Conference]]></title>
-    <link href="https://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference.html"/>
-    <updated>2011-05-22T00:00:00+02:00</updated>
-    <id>https://mm0hai.net/blog/2011/05/22/Python-Edinburgh-Mini-Conference</id>
+    <link href="http://localhost:4000/blog/2011/05/22/Python-Edinburgh-Mini-Conference.html"/>
+    <updated>2011-05-22T00:00:00+01:00</updated>
+    <id>http://localhost:4000/blog/2011/05/22/Python-Edinburgh-Mini-Conference</id>
     <content type="html"><![CDATA[<p>This weekend we had the <a href="http://www.pythonedinburgh.org/wiki/2011-May-Mini-Conference">Python
 Edinburgh Mini Conference</a>. I don’t really use python, as I typically use
 perl for the sorts of things I might want it for, but I thought it would be
