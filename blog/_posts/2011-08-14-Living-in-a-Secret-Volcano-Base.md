@@ -2,8 +2,8 @@
 layout: post
 title: "Living in a Secret Volcano Base"
 tags: [life]
-background-colour: white
 style: "
+    body {background-color: white;}
     #main {
         width: 640px;
     }
@@ -30,7 +30,7 @@ Obviously, it's not a real volcano unless it is active. The heat is
 certainly useful to provide energy to run mad science but it can make
 the living conditions uncomfortable. You need to consider
 cooling. This is an important point in favour of the island
-volcano. 
+volcano.
 
 There are certain precautions you must take though or you may not like it
 atoll. Desert islands require more to be imported by sea - too much traffic

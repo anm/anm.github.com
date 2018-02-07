@@ -2,7 +2,7 @@
 layout: post
 title: Python Edinburgh Mini Conference
 subtitle: or, OMG PWNIES
-background-colour: white
+style: 'body {background-color: white;}'
 tags: [software, python, edinburgh]
 ---
 

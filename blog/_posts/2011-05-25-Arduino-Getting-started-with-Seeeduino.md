@@ -2,7 +2,7 @@
 layout: post
 title: My introduction to the Arduino platform
 subtitle: Getting started with the Seeeduino V2.21 and Ethernet
-background-colour: white
+style: 'body {background-color: white;}'
 tags: [software, electronics]
 ---
 
