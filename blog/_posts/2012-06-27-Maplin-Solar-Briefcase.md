@@ -32,9 +32,11 @@ both the voltage and current of the maximum power point (MPP) change.
 I decided to read up on solarvoltaics and maximum power point tracking (MPPT)
 which someone had mentioned to me. The wikipedia page on <a
 href="http://en.wikipedia.org/wiki/Maximum_power_point_tracking">MPPT</a>
-shows this plot of the VI curves from a solar cell model. Reassuringly <a
-href="/res/2012-06-27-Maplin-Solar-Briefcase">my data</a> follows this general
-shape.
+shows this plot of the VI curves from a solar cell model.
+Reassuringly my data
+(<a href="/res/2012-06-27-Maplin-Solar-Briefcase/lamp">lamp</a>,
+<a href="/res/2012-06-27-Maplin-Solar-Briefcase/sun">sun</a>)
+follows this general shape.
 
 <img
 src="http://upload.wikimedia.org/wikipedia/commons/d/d8/Solar-Cell-IV-curve-with-MPP.png"

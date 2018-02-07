@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: post
 title: Deleting Code
 tags: [software]
 ---
@@ -11,12 +11,13 @@ weight. I have tried to remove weight, sometimes from people, sometimes from
 heavenly bodies, sometimes from cities; above all I have tried to remove
 weight from the structure of stories and from language.&nbsp;.&nbsp;.&nbsp;. Maybe I was only
 then becoming aware of the weight, the inertia, the opacity of the world
--- qualities that stick to the writing from the start, unless one finds
+&mdash; qualities that stick to the writing from the start, unless one finds
 some way of evading them.
+</p>
+
 <p>
-<p>
--- Italo Calvino, Six Memos for the Next Millenium (Cambridge, 1988), p. 3-4
-<p>
+&mdash; Italo Calvino, Six Memos for the Next Millenium (Cambridge, 1988), p. 3-4
+</p>
 </blockquote>
 
 
@@ -28,12 +29,12 @@ them serviceable.
 </p>
 
 <p>
--- Lao Tse, Seen in Tufte, Envisioning Information p 65.
+&mdash; Lao Tse, Seen in Tufte, Envisioning Information p 65.
 </p>
 </blockquote>
 
 <blockquote>
 <p>I saw the angel in the marble and carved until I set him free.</p>
 
-<p>-- Michelangelo</p>
+<p>&mdash; Michelangelo</p>
 </blockquote>
