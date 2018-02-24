@@ -2,6 +2,7 @@
 layout: post
 title: Constant Current Load
 tags: [electronics]
+datetime: 2012-08-01T00:00:01
 ---
 
 I have been designing power supplies and testing solar panels recently. An

@@ -2,6 +2,7 @@
 layout: post
 title: Rewriting git commit message history across multiple branches
 tags: [software, git]
+datetime: 2011-03-10T00:00:01
 ---
 
 The usual way to modify a previous git commit is to rebase interactively:

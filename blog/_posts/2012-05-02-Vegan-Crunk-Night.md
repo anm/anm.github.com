@@ -2,6 +2,7 @@
 layout: post
 title: Vegan Crunk Night
 tags: [life, food, vegan]
+datetime: 2012-05-02T20:00
 ---
 
 <a href="https://www.flickr.com/photos/58967572@N03/7135620371/" title="Vegan
