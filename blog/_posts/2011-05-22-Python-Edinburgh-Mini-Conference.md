@@ -25,7 +25,7 @@ was very straightforward and I had an application running that evening. My
 main concern with the tutorial was that there was no magical pony on a stick.
 
 <img alt="Django pony"
-src="http://dl-web.dropbox.com/u/10320/django/wallpaper/magic-django-pony-iphone.png"
+src="/res/2011-05-22-Python-Edinburgh-Mini-Conference/magic-django-pony-iphone.png"
 />
 
 I discovered <a href="http://www.tipfy.org">Tipfy</a>, a framework for Google
