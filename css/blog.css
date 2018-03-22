@@ -46,7 +46,7 @@ for large screens. */
     text-align: left;
 }
 
-#sidebar {
+#id-card {
     background-color: #C9D5D5;
     padding: 15px;
 }
@@ -68,7 +68,7 @@ img {
         width: 40em;
     }
 
-    #sidebar {
+    #id-card {
         position: absolute;
         top: 0em;
         left: 42em;
@@ -83,11 +83,11 @@ img {
 
 /* End Layout */
 
-#sidebar p {
+#id-card p {
     margin-bottom: 0;
 }
 
-#sidebar img {
+#id-card img {
     margin-left: 0;
 }
 

@@ -7,7 +7,7 @@ style: 'body {background-image:url(
        );
        background-position: -100px -100px;
        }
-        #main, #sidebar {background-color: rgba(200,200,200,0.9); border-radius:15px; padding: 5px;
+        .content-column, #id-card {background-color: rgba(200,200,200,0.9); border-radius:15px; padding: 5px;
         box-shadow: 0 0 10px 10px rgba(200,200,200,0.9);
         -webkit-box-shadow: 0 0 10px 10px rgba(200,200,200,0.9);
         -moz-box-shadow: 0 0 10px 10px rgba(200,200,200,0.9);

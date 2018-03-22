@@ -2,7 +2,7 @@
 layout: post
 style: 'body {background-image: 
        url("/img/slide-cat.gif");
-       color: white;} a, a:visited {color: white} #main, #sidebar {background-color: rgba(0,0,0,0.7); border-radius:15px; padding: 15px}'
+       color: white;} a, a:visited {color: white} .content-column, #id-card {background-color: rgba(0,0,0,0.7); border-radius:15px; padding: 15px}'
 
 title: Nyan cat, Psytrance, Meditation, Programming
 tags: [software, life, nyancat]

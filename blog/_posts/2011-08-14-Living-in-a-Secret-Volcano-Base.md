@@ -8,7 +8,7 @@ style: "
         width: 640px;
     }
 
-    #sidebar {
+    #id-card {
      background-color: #ddd }"
 ---
 

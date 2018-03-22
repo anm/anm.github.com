@@ -3,7 +3,7 @@ layout: post
 title: A Great Flood and a Rainbow
 tags: [rainbow, cyclewho, "2012"]
 location: 17.483017 -91.925139
-style: 'body {background-color:#050505; color: #ccc;} a, a:visited {color: #eee} #sidebar {background-color: #111}'
+style: 'body {background-color:#050505; color: #ccc;} a, a:visited {color: #eee} #id-card {background-color: #111}'
 ---
 
 One reason I left on <a href="/blog/tag/cyclewho/">this trip</a> before I was
