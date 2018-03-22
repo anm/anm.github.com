@@ -26,5 +26,5 @@ concentration. I think this state of focus is what some programmers call flow.
 I suspect now that trance music and meditation probably produce similar mental
 states, which aid concentration and getting things done. I therefore recommend
 that offices should play repetitive music such as nyan cat to boost
-productivity and increase moral. :) I also recommend hacking at psytrance
+productivity and increase morale. :) I also recommend hacking at psytrance
 parties.
