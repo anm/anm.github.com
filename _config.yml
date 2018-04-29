@@ -5,6 +5,7 @@ markdown: kramdown
 url: https://mm0hai.net
 author: River MacLeod
 email: web@mm0hai.net
+include: [".well-known"]
 
 defaults:
  - scope:
